@@ -6,3 +6,4 @@
 # Mechanics
 - [Bank](./mechanics/bank.md)
 - [Dungeons](./mechanics/dungeons.md)
+- [Items](./items/items.md)
