@@ -4,7 +4,7 @@
 
 
 ## Discord
-[Join the discord!](discord.gg/63YeahMKfJ)
+[Join the discord!](https://discord.gg/63YeahMKfJ)
 
 ![Mythfall image](./images/mythfall.png)
 
