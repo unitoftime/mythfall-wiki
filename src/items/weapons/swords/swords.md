@@ -16,6 +16,6 @@ Other than those two, all other swords can only be obtained as drops from [Bosse
 [//]: <> (Add a link to the page about bosses in the future)
 
 Those include:
--[The Cutlass](./cutlass.md)
--[The Leaf Blade](./leafBlade.md)
--[The Grug's Skull Club](./club.md)
+- [The Cutlass](./cutlass.md)
+- [The Leaf Blade](./leafBlade.md)
+- [The Grug's Skull Club](./club.md)
