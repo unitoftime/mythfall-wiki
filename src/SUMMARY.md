@@ -9,3 +9,4 @@
 - [Items](./items/items.md) 
     - [Weapons](./items/weapons/weapons.md)
         - [Swords](./items/weapons/swords/swords.md)
+        - [Bows](./items/weapons/bows/bows.md)
