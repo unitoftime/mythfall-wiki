@@ -12,6 +12,7 @@ Most weapons that fall into this category posses the following features:
 Currently, other than the starting [Stick](./stick.md), which everyone begins their adventure with, there are only two types of swords that can be created by players, those being:
 - [Normal Swords](./normalSwords.md)
 - [Sais](./sais.md)
+
 Other than those two, all other swords can only be obtained as drops from [Bosses]. 
 
 [//]: <> (Add a link to the page about bosses in the future)
