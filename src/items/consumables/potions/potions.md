@@ -4,8 +4,8 @@
 ## General characteristics
 Potions are liquid filled vials, that upon being drunk grant the player a temporary benefit, for example: a heal.
 Most of the potions posses the following features:
-- Can not be crafted by palyers, but only obtained by killing [monsters] and [bosses].
-- Can be upgraded at rhe [apothecary] in the [hub] by using a corresponding [resource](../../resources/resources.md) until the maximum level.
+- Can not be crafted by palyers, but only obtained by killing [monsters]() and [bosses]().
+- Can be upgraded at the [apothecary]() in the [hub]() by using a corresponding [resource](../../resources/resources.md) until the maximum level.
 
 ## Types of Potions
 Currently in the game, there are only four types of potions, with all of them granting the player a heal, depending on their level.
