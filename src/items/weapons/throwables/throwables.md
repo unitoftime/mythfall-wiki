@@ -1,5 +1,5 @@
-![Bows](../../../images/items/throwables.png)
-# throwables
+![Trowables](../../../images/items/throwables.png)
+# Throwables
 
 ## General Characteristics
 Weapons that fall into this category don't have any consistency regarding their stats or any other aspects that would affect the gameplay.
