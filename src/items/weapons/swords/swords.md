@@ -1,4 +1,3 @@
-
 ![Swords](../../../images/items/swords.png)
 # Swords
 
