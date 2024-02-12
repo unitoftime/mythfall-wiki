@@ -15,6 +15,7 @@
 	- [Hats](./items/hats/hats.md)
 	- [Armours](./items/armours/armours.md)
 	- [Rings](./items/rings/rings.md)
+	- [Spellbooks](./spellbooks/spellbooks.md)
 	- [Consumables](./items/consumables/consumables.md)
 		- [Potions](./items/consumables/potions/potions.md)
 		- [Stat Crystals](./items/consumables/statCrystals/statCrystals.md)
