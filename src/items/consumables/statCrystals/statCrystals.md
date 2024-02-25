@@ -2,9 +2,9 @@
 # Stat Crystals
 
 ## General characteristics
-Stat Crystals are precious, end-game consumables, that allow the palyer to push the stats of their character, beyond the limits set by the levels.
-All Stat Crystals have theese features in common:
-- Can only be obtained as a prize for defeating a [World Boss].
+Stat Crystals are precious, end-game consumables, that allow the player to push the stats of their character, beyond the limits set by the levels.
+All Stat Crystals have these features in common:
+- Can only be obtained as a prize for defeating a [World Boss]().
 - Increase their coressponding stat by one point.
 - Increase their corresponding stat, until they also hit the maximum value for their stat.
 
