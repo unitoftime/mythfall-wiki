@@ -10,4 +10,5 @@ Currently, there are only four types of rings in Mythfall that can be acquired, 
 - [The Ring of Health](./RoHealth.md)
 - [The Ring of Vampirism](./RoVampirism.md)
 - [The Ring of Iron](./RoIron.md)
+- [The Ring of Obsidian](./RoObsidian.md)
 - [The Ring of Pain](./RoPain.md)
