@@ -7,7 +7,8 @@
 # Mechanics
 - [Bank](./mechanics/bank.md)
 - [Dungeons](./mechanics/dungeons.md)
-- [Items](./items/items.md)
+- [Items](./items/items.md) 
+	- [Resources](./items/resources/resources.md)
     - [Weapons](./items/weapons/weapons.md)
         - [Swords](./items/weapons/swords/swords.md)
         - [Bows](./items/weapons/bows/bows.md)
@@ -15,7 +16,7 @@
 	- [Hats](./items/hats/hats.md)
 	- [Armours](./items/armours/armours.md)
 	- [Rings](./items/rings/rings.md)
-	- [Spellbooks](./spellbooks/spellbooks.md)
+	- [Abilities](./items/abilities/abilities.md)
 	- [Consumables](./items/consumables/consumables.md)
 		- [Potions](./items/consumables/potions/potions.md)
 		- [Stat Crystals](./items/consumables/statCrystals/statCrystals.md)
