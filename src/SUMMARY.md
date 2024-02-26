@@ -2,6 +2,7 @@
 
 # General
 - [What is Mythfall?](./what-is-mythfall.md)
+- [Updates](./updates.md)
 
 # Mechanics
 - [Bank](./mechanics/bank.md)
