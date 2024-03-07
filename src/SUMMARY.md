@@ -20,3 +20,6 @@
 	- [Consumables](./items/consumables/consumables.md)
 		- [Potions](./items/consumables/potions/potions.md)
 		- [Stat Crystals](./items/consumables/statCrystals/statCrystals.md)
+
+# Other
+- [Community tools](./community-tools.md)
