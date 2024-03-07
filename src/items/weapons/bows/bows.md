@@ -7,8 +7,11 @@ Most weapons that fall into this category posses the following features:
 - Have small base damage per projectile.
 
 ## Types of Bows
-Currently, players can only craft one type of bow, which are the [Normal Bows](./normalBows.md).
-All other bows can only be obtained as drops from [Bosses].
+Currently, players can only craft two types of bows, those are:
+- [The Normal Bows](./normalBows.md)
+- [The Lorendel's Reach](./lorendelsReach.md)
+
+All other bows can only be obtained as drops from [Bosses]().
 Those include:
 - [The Wooden Crossbow](./woodenCrossbow.md)
 - [The Blunderbuss](./blunderbuss.md)

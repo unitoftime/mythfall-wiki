@@ -18,4 +18,4 @@ Depending on the type, the ability belongs to one of the following books:
 - [The Book of Stone](./bookOStone.md)
 
 ## Trivia
-- At one point, the developer - UnitOfTime - , had to stop all of the spellbooks from being obtainable for the purpose of reworking them. They were readded to the game and overhaulde on the 24.02.2024.
+- At one point, the developer - UnitOfTime - , had to stop all of the spellbooks from being obtainable for the purpose of reworking them. They were readded to the game and overhauled on the 24.02.2024.

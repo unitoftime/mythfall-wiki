@@ -8,10 +8,12 @@ Most weapons that fall into this category posses the following features:
 - Shoot two projectiles: one that dissipates after travelling very short distance and one that travels quite far.
 
 ## Types of Swords
-Currently, other than the starting [Stick](./stick.md), which everyone begins their adventure with, there are only three types of swords that can be created by players, those being:
+Currently, other than the starting [Stick](./stick.md), which everyone begins their adventure with, there are only four types of swords that can be created by players, those being:
 - [Normal Swords](./normalSwords.md)
 - [Heavy Swords](./heavySwords.md)
 - [Daggers](./daggers.md)
+- [The Khopesh](./khopesh.md)
+
 
 Other than those two, all other swords can only be obtained as drops from [Bosses]. 
 

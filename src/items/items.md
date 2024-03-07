@@ -10,3 +10,4 @@ All of them can be divided into seven seperate categories:
 - [Rings](./rings/rings.md)
 - [Spell books](./spellbooks/spellbooks.md)
 - [Consumables](./consumables/consumables.md)
+- [Boots](./boots/boots.md)
