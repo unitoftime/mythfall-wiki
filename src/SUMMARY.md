@@ -15,6 +15,7 @@
 		- [Throwables](./items/weapons/throwables/throwables.md)
 	- [Hats](./items/hats/hats.md)
 	- [Armours](./items/armours/armours.md)
+	- [Boots](./items/boots/boots.md)
 	- [Rings](./items/rings/rings.md)
 	- [Abilities](./items/abilities/abilities.md)
 	- [Consumables](./items/consumables/consumables.md)
