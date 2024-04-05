@@ -12,4 +12,6 @@ Currently, there are only four types of armours, with playres being able craft t
 Types of armour other than these two, can only be obtained by beating the respective [Bosses](), those are:
 - [The Deceiduous Vest](./deciduousVest.md)
 - [The Woodland Vest](./woodlandVest.md)
+- [The Monk Robe](./monkRobe.md)
 - [The Anubis Chainmail](./anubisChainmail.md)
+- [The Demonic Corset](./demonicCorset.md)

@@ -15,7 +15,7 @@ Currently, other than the starting [Stick](./stick.md), which everyone begins th
 - [The Khopesh](./khopesh.md)
 
 
-Other than those two, all other swords can only be obtained as drops from [Bosses]. 
+Other than those two, all other swords can only be obtained as drops from [Bosses](). 
 
 [//]: <> (Add a link to the page about bosses in the future)
 
@@ -23,3 +23,4 @@ Those include:
 - [The Cutlass](./cutlass.md)
 - [The Leaf Blade](./leafBlade.md)
 - [The Grug's Skull Club](./club.md)
+- [The Quarterstaff](./QStaff.md)

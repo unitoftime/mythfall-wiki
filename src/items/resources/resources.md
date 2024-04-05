@@ -16,7 +16,9 @@ Resources can be used to craft many things, most of them can be used at the [Bla
 - [The Slime Heart](./slimeHeart.md)
 - [The Chitin Fragment](./chitinFragment.md)
 - [The Ectoplasm](./ectoplasm.md)
+- [The Guardian Tear](./guardianTear.md)
 - [The Jackal Heart](./jackalHeart.md)
+- [The Demon Heart](./demonHeart.md)
 
 On the other hand, there are also some resources, that can be used to craft [Potions](../consumables/potions.md) at the [Apothecary]() in the [hub](), those being:
 - [The Green Jelly](./GJelly.md)
