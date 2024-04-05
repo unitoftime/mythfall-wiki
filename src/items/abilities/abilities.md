@@ -12,7 +12,7 @@ A very important thing to remember is that one specific dungeon can only drop on
  
 ## Types of Abilities
 Depending on the type, the ability belongs to one of the following books:
-- [The Book of Flame](./tomeOFlame.md)
+- [The Book of Flame](./bookOFlame.md)
 - [The Book of Death](./bookODeath.md)
 - [The Book of Life](./bookOLife.md)
 - [The Book of Stone](./bookOStone.md)

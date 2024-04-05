@@ -21,4 +21,5 @@ All other hats can only be obtained by beating the respective [Bosses](), those 
 - [The Skull Mask](./skullMask.md)
 - [The Jester Hat](./jesterHat.md)
 - [The Broken Crown](./brokenCrown.md)
+- [The Monk Hood](./monkHood.md)
 - [The Nemes](./nemes.md)
