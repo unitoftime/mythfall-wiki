@@ -2,7 +2,7 @@
 Dungeons are a way to fight unique bosses and mobs, and are the primary way to get unique items.
 
 ## How do I find a dungeon?
-Every time you kill a mob in the regular world (Alivarg's Sphere), you have a chance to trigger a portal spawn. The said portal will disappear after a period of 4 minutes. The type of portal that spawns differs based on the mob killed and which area the mob is in.
+An enterance portal to a dungeon may be triggered to spawn by either killing normal enemies inside of the Alivarg's sphere until one spawns, or killing a World Boss inside of the said sphere, which is guaranteed to spawn a portal upon its death - portals created by killing World Bosses always lead to much stronger dungeons. The said portal will disappear after a period of 4 minutes. The type of portal that spawns differs based on the mob killed and which area the mob is in.
 
 ![Dungeon](../images/dungeon.jpg)
 > *Dungeons are randomly generated and feature multiple rooms leading to a boss fight. The amount of skulls indicates the difficulty of the dungeon.*
@@ -32,21 +32,21 @@ Each dungeon always contains the following rooms:
 ![Dungeon Enterance](../images/dungEnter.png)
 > *An example of a dungeon enterance room.*
 
-- An enterance room, cossisting of:
+- An enterance room, consisting of:
 	- A teleport leading to this dungeon's enterance portal in the Alivarg's sphere;
 	- At least one hallway exit leading to a combat room.
 
 ![Dungeon Boss Room](../images/dungBoss.png)
 > *An example of a Boss room.*
 	
-- A Boss room, cossisting of:
+- A Boss room, consisting of:
 	- A Boss rorresponding to the type of the dungeon it's in;
 	- At least one hallway exit leading to a combat room.
 	
 ![Dungeon Combat Room](../images/dungCombat.png)
 > *An example of a Combat room.*
 	
-- From 10 to 18 combat rooms, depending on the dungeon's generation, each one cossisting of:
+- From 10 to 18 combat rooms, depending on the dungeon's generation, each one consisting of:
 	- At least two hostile mobs;
 	- At least one hallway exit leading the next room, blocked with a one-way barrier.
 	- The further from the enterance a Combat room is positioned, the harder it is overall.
