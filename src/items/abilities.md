@@ -1,3 +1,5 @@
+{% import "macros.tera" as macros %}
+
 ![Abilities](../../images/items/abilities.png)
 # Abilities
 
@@ -10,12 +12,9 @@ The sources of obtaining the pages are as follows:
 - Third Pages can be acquired by completing hard dungeons, with a rank of four skulls.
 A very important thing to remember is that one specific dungeon can only drop one type of a page.
 
-## Types of Abilities
-Depending on the type, the ability belongs to one of the following books:
-- [The Book of Flame](./bookOFlame.md)
-- [The Book of Death](./bookODeath.md)
-- [The Book of Life](./bookOLife.md)
-- [The Book of Stone](./bookOStone.md)
+## Ability types
+{{ macros::resourceTable(type="Ability", hideModifiers=false) }}
+
 
 ## Trivia
 - At one point, the developer - UnitOfTime - , had to stop all of the spellbooks from being obtainable for the purpose of reworking them. They were readded to the game and overhauled on the 24.02.2024.
