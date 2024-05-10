@@ -2,27 +2,27 @@
 # Resources
 
 ## General Information
-Resources in Mythfall are various items, only obtainable by defeating certain [Monsters]() and [Bosses](), that player can use to craft [Armours](../armours/armours.md), [Hats](../hats/hats.md), [Weapons](../weapons/weapons.md) and [Potions](../potions/potions.md) alike.
-The resource the player can obtain from each [Monster]() they kill depends on the [Biome]() the said [Monster]() primarily appears in.
+Resources in Mythfall are various items, only obtainable by defeating certain [Monsters]() and [Bosses](), that players can use to craft [Armour](../armours/armours.md), [Hats](../hats/hats.md), [Weapons](../weapons/weapons.md) and [Potions](../potions/potions.md) alike.
+The resources the player can obtain from each monster they kill depends on the [biome]() the said monster primarily appears in.
 
 ## Types of Resources
-Resources can be used to craft many things, most of them can be used at the [Blacksmith]() at the [hub]() in order to craft and upgrade many different types of equipment, those are:
-- [The Driftwood](./driftwood.md)
-- [The Iron Ore](./ironO.md)
-- [The Chlorite Ore](./chloriteO.md)
-- [The Gold Ore](./goldO.md)
-- [The Cobalt Ore](./cobaltO.md)
-- [The Obsidian Ore](./obsidianO.md)
-- [The Slime Heart](./slimeHeart.md)
-- [The Chitin Fragment](./chitinFragment.md)
-- [The Ectoplasm](./ectoplasm.md)
-- [The Guardian Tear](./guardianTear.md)
-- [The Jackal Heart](./jackalHeart.md)
-- [The Demon Heart](./demonHeart.md)
+Resources can be used to craft many things, most of them can be used at the [Blacksmith]() located in the [hub]() in order to craft and upgrade many different types of equipment, those being:
+- [Driftwood](./driftwood.md)
+- [Iron Ore](./ironOre.md)
+- [Chlorite Ore](./chloriteOre.md)
+- [Gold Ore](./goldIre.md)
+- [Cobalt Ore](./cobaltOre.md)
+- [Obsidian Ore](./obsidianOre.md)
+- [Slime Heart](./slimeHeart.md)
+- [Chitin Fragment](./chitinFragment.md)
+- [Ectoplasm](./ectoplasm.md)
+- [Guardian Tear](./guardianTear.md)
+- [Jackal Heart](./jackalHeart.md)
+- [Demon Heart](./demonHeart.md)
 
-On the other hand, there are also some resources, that can be used to craft [Potions](../consumables/potions.md) at the [Apothecary]() in the [hub](), those being:
-- [The Green Jelly](./GJelly.md)
-- [The Blue Jelly](./BJelly.md)
+On the other hand, there are also some resources that can be used to craft [potions](../consumables/potions.md) at the [Apothecary]() in the [hub](), those being:
+- [Green Jelly](./GJelly.md)
+- [Blue Jelly](./BJelly.md)
 
-Although those are the two main categories of resources, there is still a few that can be used both used at the [Apothecary]() and the [Blacksmith]() alike - those include:
-- [The Coconut](./coconut.md)
+Although those are the two main categories of resources, there is still a few that can be used both at the [Apothecary]() and the [Blacksmith]() alike - those include:
+- [Coconuts](./coconut.md)
