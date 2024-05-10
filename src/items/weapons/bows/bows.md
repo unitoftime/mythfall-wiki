@@ -2,12 +2,12 @@
 # Bows
 
 ## General Characteristics
-Most weapons that fall into this category posses the following features:
+Most weapons that fall into this category possess the following features:
 - Shoot out multiple projectiles every attack.
-- Have small base damage per projectile.
+- Have a rather small base damage per projectile.
 
 ## Types of Bows
-Currently, players can only craft two types of bows, those are:
+Currently, players can only craft these types of bows:
 - [The Normal Bows](./normalBows.md)
 - [The Lorendel's Reach](./lorendelsReach.md)
 - [The Chitin Crossbow](./chitinCrossbow.md)
