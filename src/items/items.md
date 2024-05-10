@@ -9,6 +9,6 @@ All of them can be divided into seven seperate categories:
 - [Hats](./hats.md)
 - [Armours](./armours.md)
 - [Rings](./rings.md)
-- [Spell books](./spellbooks.md)
+- [Abilities](./abilities.md)
 - [Consumables](./consumables.md)
 - [Boots](./boots.md)
