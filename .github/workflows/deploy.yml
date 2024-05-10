@@ -20,8 +20,8 @@ jobs:
           toolchain: stable
       - uses: actions-rs/cargo@v1
         with:
-          command: build
-          args: install mdbook mdbook-tera
+          command: install
+          args: mdbook mdbook-tera
       - name: Build Book
         run: |
           mdbook build
