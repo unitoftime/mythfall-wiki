@@ -184,16 +184,16 @@
     },
     {
       "ID": 14,
-      "Name": "Ironwood",
-      "Description": "",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA6UlEQVR4nGJioBCwEKNIVFSUQVOcl+H0vU//QXxFUTbG199+g+WYQJKENOsqiYM1V/Q2MfhlJDPcf/3r/5ev///L8LEz4PUCTPPxyy/Amq/dfggWN3CwYQDxbzz/8R+nAbg0P7pxk0FOQ51hx+ZdEC+QoxlEXzhwhEGCl4WRkRLNX/79RXUBqZpfv36NMIAczfAwIFczCDAiJxJSNYMAs4mSBFgzKG5/MbGQpBlkOQtIMyh1wTSCADGaYYAFXSOMT4xmsAEgRRcOHPmPLEisZnggggAnIxPD6y9/wQaha0bPcMiGAgIAAP//Ptv6DthiRJsAAAAASUVORK5CYII=",
+      "Name": "Rockshard",
+      "Description": "A durable piece of rock",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAzklEQVR4nGJioBAMvAEsxCji5BL5j8z//u0NI0EDkDVV9DaB6R2bdzFcOHAERR0jLltgmuZPX8ggKSPJ8PzJczD/5Z27KC5ghjFYWbkaQJps3B0Zvvz6zXB43xEGQ1MDBnYBQYYbF65g1YzhBZATQTaBbASBa7cfMmipyjM8uiEJNwAdMCEHDMx/IEPMXRzAmkFeAPHlNNSxhhWKC0CGvLzD8N/AwQbu/8TMeLjrCBqA5JL/6N7CBRhxSaDHCgNa/FMNDHxeoNgAQAAAAP//0eNeHSXGlRYAAAAASUVORK5CYII=",
       "EquipType": "Resource",
       "Weapon": null,
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
-      "Deprecated": true
+      "Source": "Stoneheart Forest",
+      "Deprecated": false
     },
     {
       "ID": 15,
@@ -211,15 +211,15 @@
     {
       "ID": 16,
       "Name": "Elderwood",
-      "Description": "An ancient slab of wood",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7ElEQVR4nGJioBCwEKNIVFSUQVOcl+H0vU//QXxFUTbG199+g+WYQJKENOsqiYM1L8l1Zii002W4//rX/y9f//+X4WNnwOsFmObjl1+ANZ+9+Aos7qIoxwDi33j+4z9OA3Bpvvz4I4OuLD/Dgi23IV4gRzOI3nP/EYMELwsjIyWav/z7i+oCUjW/fv0aYQA5muFhQK5mEGBETiSkagYBZhMlCbBmUNz+/f6XJM0gy1lAmkGpC6YRBIjRDAMs6BphfGI0gw0AKdpz/9F/CFcOTBKrGR6IIMDJyMTw+stfsEHomtEzHLKhgAAAAP///6L7hLCW7Q8AAAAASUVORK5CYII=",
+      "Description": "An ancient chunk of wood",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoElEQVR4nGJioBAMIQM4uUT+gzC6OAsuxehiLopyYHrPfYb/37+9YcRpAEgzSLGuLD+Dsb4Yw9mLr8Dilx9/BIvtuY/HC8ia0QFIDGQIOsAZBiDbYTSMjQ1gGIBsO8j5MC/gMgQjDEDOTPBRRXEJzBCCBoBCFxTKDFsYMMIBm/9BgBGbICwwkcGe+4/glhA0gAFLWkDXSDUw8JkJEAAA///KZDoWMStqZwAAAABJRU5ErkJggg==",
       "EquipType": "Resource",
       "Weapon": null,
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
-      "Deprecated": true
+      "Source": "Eldertree Forest",
+      "Deprecated": false
     },
     {
       "ID": 17,
@@ -406,8 +406,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+20 Critical Chance",
-            "0.75x Vitality"
+            "+35 Critical Chance",
+            "0.6x Vitality"
           ]
         }
       ],
@@ -507,7 +507,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "0.6x Vitality",
+            "0.5x Vitality",
             "+1 Projectiles"
           ]
         }
@@ -611,6 +611,7 @@
         {
           "Filter": "",
           "Modifiers": [
+            "+1 Vitality",
             "+1 Guard"
           ]
         }
@@ -631,6 +632,7 @@
         {
           "Filter": "",
           "Modifiers": [
+            "+1 Vitality",
             "+2 Guard"
           ]
         }
@@ -651,6 +653,7 @@
         {
           "Filter": "",
           "Modifiers": [
+            "+1 Vitality",
             "+3 Guard"
           ]
         }
@@ -671,6 +674,7 @@
         {
           "Filter": "",
           "Modifiers": [
+            "+1 Vitality",
             "+4 Guard"
           ]
         }
@@ -691,6 +695,7 @@
         {
           "Filter": "",
           "Modifiers": [
+            "+1 Vitality",
             "+5 Guard"
           ]
         }
@@ -711,6 +716,7 @@
         {
           "Filter": "",
           "Modifiers": [
+            "+1 Vitality",
             "+6 Guard"
           ]
         }
@@ -732,7 +738,7 @@
           "Filter": "",
           "Modifiers": [
             "+2 Lifesteal Chance",
-            "-4 Vitality"
+            "-2 Vitality"
           ]
         }
       ],
@@ -1918,45 +1924,52 @@
       "ID": 99,
       "Name": "Staff of Anubis",
       "Description": "A staff inlaid with gold",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAlElEQVR4nGJhwAE4uUT+w9jfv71hxKUOqwRI89UpunC+ds5lnIYw4dL84OYrsEYQvTVXHMVFeA2AAe/JL8G2gmh8AKcBIFeAbAXZrqAuhtcQDADSuK9c+/+9eY7/QWxczifKEEKacXoBBE5dIWwRXgOIAQNvAE4ADTzKArHDW5ugRbQNAzMdwgbgzKbEZmdAAAAA//83nzkhWVkJZwAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAh0lEQVR4nGJhwAE4uUT+w9jfv71hxKUOqwRI89UpunC+ds5lnIYw4dL84OYrsEYQvTVXHMVFeA2AAe/JL8G2gmh8AKcBIFeAbAXZrqAuhtcQDADSuK9c+/+9eY7/QWxczifKEEKacXoBBE5dIWwRXgOIAaMG0NoAMx3CBuDMpsRmZ0AAAAD//4/wNNqFo+iSAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 0,
         "Class": "Staff",
-        "Rate": 1,
+        "Rate": 2,
         "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
       "Consumable": null,
-      "Modifiers": [],
-      "Source": "",
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Manasteal Chance"
+          ]
+        }
+      ],
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
       "ID": 100,
       "Name": "Elderwood Staff",
-      "Description": "A staff for a budding wizard",
+      "Description": "A magical staff from an eldertree",
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAc0lEQVR4nGJhwAE4uUT+w9jfv71hxKUOqwEgzbYVcgz6qoIMF2+/ZzjcwfAflyFMuEwGaUamcQGcBoBsRqZJBiBvdHhr/0cOC5JcQCygrQE3HuKMPTq5YOAN0JDHG4OEDaA4ECl2ATEApxuJzc6AAAAA//8NmCKIi6LCfQAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 0,
         "Class": "Staff",
-        "Rate": 1,
+        "Rate": 2,
         "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
       "ID": 101,
-      "Name": "Apprentice Staff",
-      "Description": "The staff of an apprentice wizard",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+UlEQVR4nGIRFRVlgIHXr18z4AMgtV562gyrjl/5D+I7a8sy4tWAzQBOLpH/Sw0M/jvKGv4HsZmI1QjCOtJSYP6ct4wMJ94+ZjBVFmMkaADM2V++/v9/4tbT/3PUZBge//gGlrv+4jUDQT+ADABpBmmE2QwC0gLcjB9/f2PA6QJcztaVE2Lk4WYEa8YZ6CCN8c4O4ACDBZqKqDqYjRxrIIDVC4ScjWwzhhdAmi2UFEh3Nkyzj6khAyFnE9QMSyQgrCIlz0DQAGya7XS14DFBsmYQnyhngwAsusjSDAKwACNLMygdgDSCGGGWOozbLl0lKksjA0AAAAD//0iwhq4NJSEaAAAAAElFTkSuQmCC",
+      "Name": "Slime Staff",
+      "Description": "Ew. It's covered in slime",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcUlEQVR4nGJhwAE4uUT+w9jfv71hxKUOqwEgzbYVcgz6qoIMF2+/ZzjcwfAflyFMuEwGaUamcQGcBoAAyHZCAGcYgDSbHONnOMOA3xC8LgCBwx2P8AYiVgNAGkAaiQEEXTBqwIgwAGcKIzY7AwIAAP//EiAlFTnjah0AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 0,
@@ -1968,14 +1981,14 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
       "ID": 102,
-      "Name": "Journeyman Staff",
-      "Description": "The staff of a journeyman wizard",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA90lEQVR4nGIRFRVlgIHXr18z4AMgtX4etgzL1h76D+Jb6kow4tWAzQBOLpH/17dO+X9gSvF/EJuJWI0grKetAua/vH+fwbNsIYOuihAjQQNgzv7y9f//Y6du/z+3uoFh15ZzYLn7z98zEPQDyACQZpBGmM0goCHNzvjkwy8GnC7A5Wx1eX5GHm5GsGacgQ7SmBwbBA4wWKBVeTiC2cixhtfZ6KENwoaq0gzoBmB4AaTAykyXdGfDNDuZ6zCQ7WyYZkLOJkqzmZ4aPCZI1gziE+VsEIBFF1maQQAWYGRpZmBgYARpBDGigu0YN+04TFSWRgaAAAAA//8bUY8qjQmXsAAAAABJRU5ErkJggg==",
+      "Name": "Succubus Wand",
+      "Description": "The wand of demonic powers",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7ElEQVR4nGJioBCQZICoqChDcmwQAyeXyH8QJskmkGYncx2wZkdZQ9IMQNZcqmIB1gxyCdmaQXyQOEGNIGymp0aeZkNVaXhgkaQZZgBIw1IDA3iA4dLMhM3Z0iJ8YP6FLxwMJ94+ZnBz1GO8fO8lw+vXrzEMYETWLCPAxnDj6U9w9ORIqTCc+fkTbAAPNyMjNs0gwAxjcHNzMzx7++f/HDUZhlcM/AzrXj1gePL9E0NUsB3jzTuPGL59+4bVALgXFCUFUZxtZabKCLJ5047DWJ2O4QVQQBHrbKwAllhgqYyo6KIGoDg7AwIAAP//kQVqbh7pFbsAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 0,
@@ -1987,14 +2000,14 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
       "ID": 103,
-      "Name": "Adept Staff",
-      "Description": "The staff of an adept wizard",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABDklEQVR4nJyTzU7DMBCEZ9OGQhxaVciHXBGvwIn3fwFuXDghWchCUUriNhTVaCylKq2TtJ1TIvvbnf3xVGuNTtZaDIl3l7pAaY3nf5bPRQaJSAAA/un5BebDoDHvOCtA5zLLF3B15VXxGODZnZLkHJi2mZkwszdlFc7adYPJWAClFDauDmDrU3y+vQK/a0iqBLttfwl9tm9mt/LTbsIZmx4tYcg2YYLdxKIljNl2zu3vnjhg9vvFQ/juRkXbAMRvm5NdSY7hLJ/ju/oatH0oOYZdvdo3LFxIVTTzPwcxmEvSZ/tQ0xjMHXf1avRtBAcc17UwNUmwCw3jqC6FKdFah6e51IWU1lwEU38BAAD//36vvpbqIb5LAAAAAElFTkSuQmCC",
+      "Name": "Graviton Staff",
+      "Description": "A staff topped with a shard of graviton",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR4nGJhwAE4uUT+w9jfv71hxKUOqwRIs1vrMjh/V3UUTkOYcJlMLMBrwNvzF8k3AKaZGEMwACgMQNgmrvs/jE2SC2ABJi3yBoVPtAGkgFEDhoUBOBMIsdkZEAAA//+2ziRRDYu4mgAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 0,
@@ -2006,7 +2019,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -2466,8 +2479,7 @@
         {
           "Filter": "With Bow:",
           "Modifiers": [
-            "+1 Projectiles",
-            "-5 Guard"
+            "+1 Projectiles"
           ]
         }
       ],
@@ -2514,8 +2526,8 @@
           "Filter": "",
           "Modifiers": [
             "+2 Strength",
-            "-4 Vitality",
-            "-4 Guard"
+            "+5 Critical Chance",
+            "-5 Vitality"
           ]
         }
       ],
@@ -2723,10 +2735,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+20 Critical Chance",
-            "-6 Speed",
-            "-6 Guard",
-            "-6 Dexterity"
+            "+10 Critical Chance"
           ]
         }
       ],
@@ -2776,7 +2785,7 @@
       "Weapon": null,
       "Ability": null,
       "Consumable": {
-        "Heal": 4,
+        "Heal": 2,
         "Mana": 0,
         "Modifiers": null
       },
@@ -2793,7 +2802,7 @@
       "Weapon": null,
       "Ability": null,
       "Consumable": {
-        "Heal": 6,
+        "Heal": 2,
         "Mana": 0,
         "Modifiers": null
       },
@@ -3279,7 +3288,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality"
+            "+1 Speed"
           ]
         }
       ],
@@ -3299,8 +3308,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Speed",
-            "+1 Vitality"
+            "+2 Speed"
           ]
         }
       ],
@@ -3320,8 +3328,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Speed",
-            "+1 Vitality"
+            "+1 Vitality",
+            "+2 Speed"
           ]
         }
       ],
@@ -3341,8 +3349,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+3 Speed",
-            "+1 Vitality"
+            "+1 Vitality",
+            "+3 Speed"
           ]
         }
       ],
@@ -3362,8 +3370,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+4 Speed",
-            "+1 Vitality"
+            "+1 Vitality",
+            "+4 Speed"
           ]
         }
       ],
@@ -3383,8 +3391,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+5 Speed",
-            "+1 Vitality"
+            "+1 Vitality",
+            "+5 Speed"
           ]
         }
       ],
@@ -3430,8 +3438,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+5 Speed",
-            "-3 Guard"
+            "+5 Speed"
           ]
         }
       ],
@@ -3461,7 +3468,7 @@
       "ID": 172,
       "Name": "Graviton Shard",
       "Description": "A metallic shard, light as a feather",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmklEQVR4nGJioBDQ1gBOLpH/ZJsM0uzfv+s/IUOwugCkyTiknCiLCIaBjIEXXq9gGABSDNIEA+IqusS7AKYZXRM+V+D0grChPpzG5wqi0wEuV7CgCyDb9vb8RYIGY7jg7JpOFM0wr+ACjOgCMGe6tS4D86+tXgKmn1zYBqa/f3vDiNcAZENg0YlLM04DGLDkA2yaqQIAAQAA//8N4DAKRVnCbgAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAnElEQVR4nGJioBDgNYCTS+Q/2SaDNPv37/pPyBCsLgBpMg4pJ8oigmEgY+CF1ysYBoAUgzTBgLiKLvEugGlG14TPFTi9IGyoD6fxuYLodIDLFSzoAsi2vT1/kaDBGC44u6YTRTPMK7gAI7oAzJlurcvA/Gurl4DpJxe2genv394w4jUA2RBYdOLSjNMABiz5AJtmqgCKszMgAAD//zi9MApONGJWAAAAAElFTkSuQmCC",
       "EquipType": "Resource",
       "Weapon": null,
       "Ability": null,
@@ -3635,7 +3642,7 @@
         "Modifiers": null
       },
       "Modifiers": [],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -3649,6 +3656,72 @@
       "Consumable": null,
       "Modifiers": [],
       "Source": "Chamber of the Awakened",
+      "Deprecated": false
+    },
+    {
+      "ID": 183,
+      "Name": "Rockshard Platebody",
+      "Description": "A stone cold exterior",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArklEQVR4nGJioBBQbAALiODkEvmPLvH92xtGZD4uNSwwTkVvE4O6nAzDzUdPGDqK67Dahk0NC7ICkAQ+G9HVYBgAA/NXz8NQiAswotsGcyYuG5G9Bw8DWIDBDCJkO3IAUz8dXLv9EKdibHJYAxGfIegAa2IBxQI2kBiaBKaRwwDFBSAJkCH4AhE9hTKiK4C5wi8jmUFLVR4sBvLSphlziTOAAU8qRNdMFQAIAAD//0shWLwyxwRZAAAAAElFTkSuQmCC",
+      "EquipType": "Armor",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+8 Vitality",
+            "+20 Guard",
+            "-20 Speed"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 184,
+      "Name": "Rockshard Helmet",
+      "Description": "A helmet made from Rockshard",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZ0lEQVR4nGJioBAMvAEsyBxOLpH/xGj6/u0NI1YDQMAvI5lBS1Ueq0Z1ORmGxNAkFLGBDwPqBiIy6Ciuo48LcBpQ0dsExuhiBA3YNGMuTueDohEdMGJTSChBISckisHApwNAAAAA//+hqRTzmfhAMAAAAABJRU5ErkJggg==",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+4 Vitality",
+            "+10 Guard",
+            "-10 Speed"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 185,
+      "Name": "Rockshard Boots",
+      "Description": "Boots made from Rockshard",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuklEQVR4nGJioBBQbAALuoCoqCjDl6///6OL83AzMr5+/RrDAEZcmit6m+DiHcV1YANgfGSDMFwA03zt9kMwe9OMuWAa2VWioqJw12A1AFkjNtdADQO7iAmb80G2wzTBXAPDyIahuADd7zAvoLtGC5cB6E6FaUK3FdlgnGEA8icu16ADJmwa0V2jpSoPxujeQTEAFs/IhiADkCtgmpHTBEZCYsARoMiakRMSIzbbSE3OFAGKcyMgAAD//+vEdJTHHel6AAAAAElFTkSuQmCC",
+      "EquipType": "Boots",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+4 Vitality",
+            "+10 Guard",
+            "-10 Speed"
+          ]
+        }
+      ],
+      "Source": "Craftable",
       "Deprecated": false
     }
   ]
