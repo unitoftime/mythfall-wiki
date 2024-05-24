@@ -192,7 +192,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Stoneheart Forest",
+      "Source": "Stoneheart Forest, Elvewood Forest",
       "Deprecated": false
     },
     {
@@ -218,7 +218,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Eldertree Forest",
+      "Source": "Eldertree Forest, Elvewood Forest",
       "Deprecated": false
     },
     {
@@ -303,13 +303,13 @@
       "ID": 23,
       "Name": "Guardian Tear",
       "Description": "The tear of a guardian",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdklEQVR4nGJioBAQNICTS+Q/RQZQ5AKQ7X4ZyXhdQTsXgGw1cLABsyt6m3C6gjYugNkup6EO5l+7/RCnK6jvAnTbYQCXK2ifEkk24Pu3N4wXDhxheHTjJoq4lqo8Q0dxHVgeWZwRl8nYQhxdM1UAxWEACAAA///7iSimigoCmwAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiUlEQVR4nGJioBAQNICTS+Q/RQZQBEC2L7l7+z8+VxB0wfmHP/DK4zQAZOvsy8fBbLfWZTjDgjaxgGw7CKjoS+J0BV4XgPxvKM9BmgvQbSfkCpwugNkOi4U7F58T5wIYIEYzVgO+f3vDmKprCecja95VHQWWR1bPiMtkbCGOrpkqgOKEBAgAAP//aWo7sdXOqOAAAAAASUVORK5CYII=",
       "EquipType": "Resource",
       "Weapon": null,
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Misty Peak",
+      "Source": "Area Bosses",
       "Deprecated": false
     },
     {
@@ -406,8 +406,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+35 Critical Chance",
-            "0.6x Vitality"
+            "+40 Critical Chance",
+            "-1 Dashes"
           ]
         }
       ],
@@ -1315,7 +1315,7 @@
       "Weapon": {
         "Damage": 12,
         "Class": "Bow",
-        "Rate": 2.5,
+        "Rate": 2,
         "Projectiles": 1,
         "StrengthScaling": 1
       },
@@ -2536,7 +2536,7 @@
     },
     {
       "ID": 128,
-      "Name": "Ring of Iron",
+      "Name": "Iron Ring",
       "Description": "A basic iron band",
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtUlEQVR4nGJioBAMvAEshBRwcon8R+Z///aGEZnPSEjzo8dXUcTkZLVRDMHpBXTNdx49BtP7ju7AcBVWza/fvoRjEB+GV2zd9P/4+TP/YYZguADdZpiTYc6Wl5JCUc9EjGZkNQ+fPcNtADJA1wwyfP7qeRjqsBoACzBsmkFecLL2gBuONR2oyMnCNYJoXJoZsKUDkCZQVIH8CtIA8zM2zVgNQDYEGWDTjNMABiKSMNUAIAAA//+ve290HWlDSwAAAABJRU5ErkJggg==",
       "EquipType": "Ring",
@@ -2557,8 +2557,8 @@
     {
       "ID": 129,
       "Name": "Ring of Health",
-      "Description": "A gold band with an inset ruby",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAsUlEQVR4nGJioBBQbAALNkFOLpH/MPb3b28YSTIApPmYrwaYfe3mF4aUWwz/keXRDWTBZTMMXJ2ii8LXzrn8H9kQJnSbYbbjAltzxVEsIioQtXMuwzG6ISheAPkZm2aYk7F5EW4ASBEowJD9jKwZF8DpBXTNINtBTifaAGSArtl78ku44VgTErJGBmigYdMMAhj+w+VUbJqxegGkAKSQGM1YXYDufGSDcamlCAACAAD//6atXr5HyiChAAAAAElFTkSuQmCC",
+      "Description": "A gold band with a small inset ruby",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoklEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75mK8GmH3t5hcGyzxBFMXaOZcxDGHCphkX2JorjuFCrGGAbDvIVhjGZggLukYQQNYMczKusEExANnP2PyLDWD1ArpmkO0gpxNtADJA1+w9+SWK4RjpAFkjAzTQcGlmwJYOcDkVm2YML4AUgBQSqxnDBejORzYYq7OoASjOjYAAAAD//13ZU4J2siF9AAAAAElFTkSuQmCC",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -2571,35 +2571,27 @@
           ]
         }
       ],
-      "Source": "Eldertree Forest",
+      "Source": "Pirate Cove",
       "Deprecated": false
     },
     {
       "ID": 130,
-      "Name": "Ring of Vampirism",
+      "Name": "Ring of Lifesteal",
       "Description": "A gold band with a strange rock attached",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9ElEQVR4nGJioBDgNYCTS+Q/SaaBNMA0gejXb1/+J2QIE7LmOWoyDMd8NeDsJ1nBKAZjM4wFmaOlzsMgM20twzGGYIZrN7+A8f3tMSgaFD2X/P/+7Q0jjM+I7gWQC2AAZIDzRAcw+9vdi3Bx7ZzLDDBDWNC9ANIEcgmIRrIVzgZZcHWKLsgQsEuYYJofPb4K1gizGQRAtoM0gxQiOxsjDECScrLa4ABC9jNMMzaNMACPBXSF6JrRwwfDAGSAHGDomvndWbEHIjYAi3dcmhnQoxGmCRTKH3f+RhHHphmrAciGIANsmnEawIAlIxGKDbIBIAAA//9CpogoDksxsgAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvElEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NIzKfEV3zMV8NMFtm2lqGXc7uDM4THVAMUPRcgmIITi88yQpG4X+7exGMr07RRXElhgEgm0Hg2s0vKLZq51wG4487f6MYghEGIGfDAMj5yE7GFj4YBiD7Gd2/2ADOMEDXjBzABA0ABRYyQNbM784KDguY4RheQNcIonFpZkBPBzBNoFAGhTYywKYZqwHIhiADbJpxGsCAJcoIxQbZABAAAP//4V9dXCtIyB8AAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
       "Consumable": null,
       "Modifiers": [
         {
-          "Filter": "Without Sword:",
+          "Filter": "",
           "Modifiers": [
-            "+1 Lifesteal Chance",
-            "-1 Vitality"
-          ]
-        },
-        {
-          "Filter": "With Sword:",
-          "Modifiers": [
-            "+2 Lifesteal Chance",
-            "-2 Vitality"
+            "+1 Lifesteal Chance"
           ]
         }
       ],
-      "Source": "Eldertree Forest",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -2626,7 +2618,7 @@
       "ID": 132,
       "Name": "Ring of Pain",
       "Description": "A gold band with a blue rock",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+ElEQVR4nGJioBDgNYCTS+Q/SaaBNMA0gejXb1/+J2QIE7Jm45ByBrfWZXB2yqKLKAZjM4wFmSNsqM8wJ06fIYVhGcPb8xfB+P72GBQNip5L/n//9oYRxmdE9wLIBTAAMmBN8lMw+9vdi3Bx7ZzLDDBDGNG9AHMJSDMIgAxQ9FwC13zMV4OB350VbggTTPOjx1fBGmE2I2sGKUR2NkYYgCTlZLXBAYTsZ5hmbBphAB4L6ArRNYNcCXI+TgOQAXKAoWtG9j8DejSiA1i849LMgB6NME1Xp+gyfNz5G0Ucm2asBiAbggywacZpAAOWjEQoNsgGgAAAAP//OyOHjXDCCK8AAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAv0lEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NIzKfEV2zW+syMHtOnD5DYOEihjXJT1EMUPRcgmIITi+kLLqIwv929yIYX52ii+JKDANANoPA2/MXUWzVzrkMxh93/kYxBCMMQM6GAZDzkZ2MLXwwDED2M7p/sQGcYYCuGWT7MV8N4gwABRYyQNbM784KDguY4RheQNcIonFpZkBPBzBNoFAGhTYywKYZqwHIhiADbJpxGsCAJcoIxQbZABAAAP//hhxgJoECGZQAAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -2684,7 +2676,7 @@
     },
     {
       "ID": 135,
-      "Name": "Ring of Obsidian",
+      "Name": "Obsidian Ring",
       "Description": "A basic obsidian band",
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBAMvAEshBRwcon8R+Z///aGEZnPSEhzoU46ilj/lZkohuD0ArrmYx+vgWlzWVsUV2F1AbpmkK0wICqsyqDEJcFw8vFhsEswXIBNM0ghzNkgzciAiRjNyGrufXuB2wBkgK4ZZDjI+egAqwGwAMOmGdn/OA2w4teCa8SnmQFbLIA0gKIK5FeQBpifsWnGagCyIcgAm2acBjAQkYSpBgABAAD//0huX9OwN0roAAAAAElFTkSuQmCC",
       "EquipType": "Ring",
@@ -2695,7 +2687,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+8 Guard"
+            "+6 Guard"
           ]
         }
       ],
@@ -2735,11 +2727,12 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+10 Critical Chance"
+            "+15 Critical Chance",
+            "+1 Lifesteal Chance"
           ]
         }
       ],
-      "Source": "Succubus Lair",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -3530,8 +3523,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+10 Cooldown Reduction",
-            "+5 Dexterity"
+            "+1 Dashes"
           ]
         }
       ],
@@ -3605,14 +3597,14 @@
       "Weapon": {
         "Damage": 20,
         "Class": "Sword",
-        "Rate": 2.5,
+        "Rate": 2,
         "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Chamber of the Awakened",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -3624,8 +3616,16 @@
       "Weapon": null,
       "Ability": null,
       "Consumable": null,
-      "Modifiers": [],
-      "Source": "Chamber of the Awakened",
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+80 Critical Chance",
+            "-2 Dashes"
+          ]
+        }
+      ],
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -3649,7 +3649,7 @@
       "ID": 182,
       "Name": "Awakened Heart",
       "Description": "The heart of The Awakened One",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+0lEQVR4nKSTIQsCQRCF9w6LVwwqaLAIFrELgsXfYTf7S8x2f4dFEOxiESwGBTVYzqi8hXe8nbuz3INh98bdb2benbGrqJpN1JPWF+snfUb6rDlVbC+Pe9PgeTlauHZz4ENhhQBo0hg6W3nenfn4OwKr798nX62fdDIYcmWK9fIlvbvDdeerYU8hhygFUI/XOXeAHcELFLE+eADcRQUcQmjL6ITzY4/fFRJZD3CI8wPElaDVcR28zmAEXqZoIlbmbQe51wgIwjpP2Oa2DSAZAG2piRbCvXYYeKBewHWVfhPsAsVQNAdw8hVakHZIIwsBFqQq+kNV0i8AAP//fEuLNOG9F8kAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABB0lEQVR4nGJioBCwoAtwcon8B9Hfv71hROYji+EEIMXXt075D9MEop9f3fz/wJRiMEY2DKcLBBTkGdBtVnd0gLIW4vYCSMO51Q0MHx48ZNjeFc8grqgINwwkhjcMYJpf3r/P4Fm2kOHe6fkMN/cfgBtgFNqA0wCUWABpRgcwF4EMBVmCHg5gA0ChC7IFpAiEkZ0MchUsDEBskDyyISzotoEUgfwP0gTiw2iYQUqmiSjRieIFmGYYgIUBiIaJo7sAIyWCDAFh9JCHGQYKXGRD4AaAnIUciOiGwNjILsRwATZDQDaCNCN7ByQGA1jTNsx5oOhDBsiGwwISb+bAlvYJZihSASAAAP//MMmiUCZpOmgAAAAASUVORK5CYII=",
       "EquipType": "Resource",
       "Weapon": null,
       "Ability": null,
@@ -3718,6 +3718,154 @@
             "+4 Vitality",
             "+10 Guard",
             "-10 Speed"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 186,
+      "Name": "Ring of Vitality",
+      "Description": "A gold band with an inset ruby",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAsUlEQVR4nGJioBBQbAALNkFOLpH/MPb3b28YSTIApPmYrwaYfe3mF4aUWwz/keXRDWTBZTMMXJ2ii8LXzrn8H9kQJnSbYbbjAltzxVEsIioQtXMuwzG6ISheAPkZm2aYk7F5EW4ASBEowJD9jKwZF8DpBXTNINtBTifaAGSArtl78ku44VgTErJGBmigYdMMAhj+w+VUbJqxegGkAKSQGM1YXYDufGSDcamlCAACAAD//6atXr5HyiChAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Vitality"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 187,
+      "Name": "Ring of Life",
+      "Description": "A gold band with large inset ruby",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuUlEQVR4nGJioBCwoAtwcon8R+Z///aGkWgDQJqP+WrA+ddufmFIucXwH58hLPg0Y3MVumEs2DQjg6tTdFH42jmXUVyENRCRbUcHW3PFUVzEgk+jZZ4gzFYUA0DYezIkbJiI0QxSiCsgwS4ASYJCG93PMM04/YMcBugK0TWD/A1yOk4D8AF0zd6TX8INx0iJ6BoZoAGHTTMIYPgPl1OxacbqBZACkEJiNGN1AbrzkQ3GpZYiAAgAAP//D7hynXKr+qYAAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+4 Vitality"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 188,
+      "Name": "Rockshard Ring",
+      "Description": "A basic rockshard band",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAr0lEQVR4nGJioBAMvAEshBRwcon8R+Z///aGEZnPSEjz/NXzUMQSQ5NQDMHpBXTNNx89AdMVvU0orsLqAnTNIFthwC8jmUFLVZ6ho7gO7BIMF2DTDFIIczZIMzJgIkYzspprtx/iNgAZoGsGGQ5yPjrAagAswLBpRvY/A650oC4nA9fIAA04bJoZsMUCSBMoqkB+BWmA+RmbZqwGIBuCDLBpxmkAAxFJmGoAEAAA//9Ux2CDBBOpWwAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Vitality",
+            "+8 Guard",
+            "-4 Speed"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 189,
+      "Name": "Ring of Suffering",
+      "Description": "A gold band with a blue rock",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+ElEQVR4nGJioBDgNYCTS+Q/SaaBNMA0gejXb1/+J2QIE7Jm45ByBrfWZXB2yqKLKAZjM4wFmSNsqM8wJ06fIYVhGcPb8xfB+P72GBQNip5L/n//9oYRxmdE9wLIBTAAMmBN8lMw+9vdi3Bx7ZzLDDBDGNG9AHMJSDMIgAxQ9FwC13zMV4OB350VbggTTPOjx1fBGmE2I2sGKUR2NkYYgCTlZLXBAYTsZ5hmbBphAB4L6ArRNYNcCXI+TgOQAXKAoWtG9j8DejSiA1i849LMgB6NME1Xp+gyfNz5G0Ucm2asBiAbggywacZpAAOWjEQoNsgGgAAAAP//OyOHjXDCCK8AAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+10 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 190,
+      "Name": "Ring of Torture",
+      "Description": "A gold band with a blue rock",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA80lEQVR4nGJiwAE4uUT+gzAuebwApPH125dgTJEh/v27CBrAgq4JxjYOKWd4e/4ihvj3b28YcRoAAo8eX2VIWXQRrvn+9hgUeUXPJf+RDWFCtwGkeU6cPsP6/jgUjd/uXgTjq1N0UdQzgTggW0E0srMDCxch28qgnXMZjD/u/I1iCDwa3VqXwTXANK9JfgrWDHIyut/hYQCSkJPVhjsJ2c8wzdg0ooQBNhvQNYOcfMxXA7sB6AAUWMgAWTO/Oys4LGCGY0QjukYQjUszCGD4D6QJFMqg0EYG2DRjNQDZEGSATTNOAxjQEhcDliRMNQAIAAD//zuDj8b3pGPfAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+15 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 191,
+      "Name": "Ring of Vampirism",
+      "Description": "A gold band with a strange rock attached",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9ElEQVR4nGJioBDgNYCTS+Q/SaaBNMA0gejXb1/+J2QIE7LmOWoyDMd8NeDsJ1nBKAZjM4wFmaOlzsMgM20twzGGYIZrN7+A8f3tMSgaFD2X/P/+7Q0jjM+I7gWQC2AAZIDzRAcw+9vdi3Bx7ZzLDDBDWNC9ANIEcgmIRrIVzgZZcHWKLsgQsEuYYJofPb4K1gizGQRAtoM0gxQiOxsjDECScrLa4ABC9jNMMzaNMACPBXSF6JrRwwfDAGSAHGDomvndWbEHIjYAi3dcmhnQoxGmCRTKH3f+RhHHphmrAciGIANsmnEawIAlIxGKDbIBIAAA//9CpogoDksxsgAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "Without Sword:",
+          "Modifiers": [
+            "+1 Lifesteal Chance"
+          ]
+        },
+        {
+          "Filter": "With Sword:",
+          "Modifiers": [
+            "+2 Lifesteal Chance"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 192,
+      "Name": "Bloodthirster Ring",
+      "Description": "A gold band with a strange rock attached",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+ElEQVR4nGJiwAE4uUT+gzAuebwApPH125dgTJEh58NtCBrAgq4Jxp6jJsNw7eYXDPHv394w4jQABB49vsrwJCsYrvn+9hgUeUXPJf+RDWFCtwGkWWbaWga3vTtRNH67exGMr07RRVHPAuKAbJWT1f4Pc7YMAwPDLmd3ZFvh7GO+GmBDtHMug13ChCwBAzDNzhMdwJpBCtH9DncBSAJkO0wA2c8wzdg0ooQBNhvQNYO8iuxKFAPQASiwkAGyZn53VpD/4YZjRCO6Rgak8EHXDAIY/gNpAoXyx52/UcSxacZqALIhyACbZpwGMKAlLgYsSZhqABAAAP//rf2OYsEawsQAAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Lifesteal Chance"
           ]
         }
       ],
