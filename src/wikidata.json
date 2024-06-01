@@ -1939,7 +1939,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Manasteal Chance"
+            "+1 Manasteal Chance"
           ]
         }
       ],
@@ -2527,7 +2527,7 @@
           "Modifiers": [
             "+2 Strength",
             "+5 Critical Chance",
-            "-5 Vitality"
+            "-3 Vitality"
           ]
         }
       ],
@@ -2577,7 +2577,7 @@
     {
       "ID": 130,
       "Name": "Ring of Lifesteal",
-      "Description": "A gold band with a strange rock attached",
+      "Description": "A gold band with a small red rock",
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvElEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NIzKfEV3zMV8NMFtm2lqGXc7uDM4THVAMUPRcgmIITi88yQpG4X+7exGMr07RRXElhgEgm0Hg2s0vKLZq51wG4487f6MYghEGIGfDAMj5yE7GFj4YBiD7Gd2/2ADOMEDXjBzABA0ABRYyQNbM784KDguY4RheQNcIonFpZkBPBzBNoFAGhTYywKYZqwHIhiADbJpxGsCAJcoIxQbZABAAAP//4V9dXCtIyB8AAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
@@ -2591,7 +2591,7 @@
           ]
         }
       ],
-      "Source": "",
+      "Source": "Eldertree Forest",
       "Deprecated": false
     },
     {
@@ -2617,7 +2617,7 @@
     {
       "ID": 132,
       "Name": "Ring of Pain",
-      "Description": "A gold band with a blue rock",
+      "Description": "A gold band with a small blue rock",
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAv0lEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NIzKfEV2zW+syMHtOnD5DYOEihjXJT1EMUPRcgmIITi+kLLqIwv929yIYX52ii+JKDANANoPA2/MXUWzVzrkMxh93/kYxBCMMQM6GAZDzkZ2MLXwwDED2M7p/sQGcYYCuGWT7MV8N4gwABRYyQNbM784KDguY4RheQNcIonFpZkBPBzBNoFAGhTYywKYZqwHIhiADbJpxGsCAJcoIxQbZABAAAP//hhxgJoECGZQAAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
@@ -3595,7 +3595,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA5klEQVR4nGJiGGAw6oABdwALKYo5uUT+w9jfv71hpIYDiA4BmOVd9UlwPjZMqgOI8gXIYJjF6uqaeNX6R5WCaWJDiKQoIGQ5CGxc1g1zyH9iHEKSA2DAxMQIq/iZM+ewOgSfI0h2AC7Lcck9vbWXQVrNGacjSHLAzZvXwRgEoqOjQQYT1ANyAFUALJVP7iwjKcUTUkt0NoQF4d37j1D4xOjDp3bAS0KyHUBOoUM1B6THuVDDbvIcMHPRHqpZTrIDqFUBke0AWoBRB4w6YNQBow4YcAeQBahVEw4KMOBRMOAOAAQAAP//fIJWsyc0xL8AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 20,
+        "Damage": 15,
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 1,
@@ -3809,7 +3809,7 @@
     {
       "ID": 190,
       "Name": "Ring of Torture",
-      "Description": "A gold band with a blue rock",
+      "Description": "A gold band with a strange blue rock",
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA80lEQVR4nGJiwAE4uUT+gzAuebwApPH125dgTJEh/v27CBrAgq4JxjYOKWd4e/4ihvj3b28YcRoAAo8eX2VIWXQRrvn+9hgUeUXPJf+RDWFCtwGkeU6cPsP6/jgUjd/uXgTjq1N0UdQzgTggW0E0srMDCxch28qgnXMZjD/u/I1iCDwa3VqXwTXANK9JfgrWDHIyut/hYQCSkJPVhjsJ2c8wzdg0ooQBNhvQNYOcfMxXA7sB6AAUWMgAWTO/Oys4LGCGY0QjukYQjUszCGD4D6QJFMqg0EYG2DRjNQDZEGSATTNOAxjQEhcDliRMNQAIAAD//zuDj8b3pGPfAAAAAElFTkSuQmCC",
       "EquipType": "Ring",
       "Weapon": null,
@@ -3829,7 +3829,7 @@
     {
       "ID": 191,
       "Name": "Ring of Vampirism",
-      "Description": "A gold band with a strange rock attached",
+      "Description": "A gold band with a red rock",
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9ElEQVR4nGJioBDgNYCTS+Q/SaaBNMA0gejXb1/+J2QIE7LmOWoyDMd8NeDsJ1nBKAZjM4wFmaOlzsMgM20twzGGYIZrN7+A8f3tMSgaFD2X/P/+7Q0jjM+I7gWQC2AAZIDzRAcw+9vdi3Bx7ZzLDDBDWNC9ANIEcgmIRrIVzgZZcHWKLsgQsEuYYJofPb4K1gizGQRAtoM0gxQiOxsjDECScrLa4ABC9jNMMzaNMACPBXSF6JrRwwfDAGSAHGDomvndWbEHIjYAi3dcmhnQoxGmCRTKH3f+RhHHphmrAciGIANsmnEawIAlIxGKDbIBIAAA//9CpogoDksxsgAAAABJRU5ErkJggg==",
       "EquipType": "Ring",
       "Weapon": null,
@@ -3855,7 +3855,7 @@
     {
       "ID": 192,
       "Name": "Bloodthirster Ring",
-      "Description": "A gold band with a strange rock attached",
+      "Description": "A gold band with a strange red rock attached",
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+ElEQVR4nGJiwAE4uUT+gzAuebwApPH125dgTJEh58NtCBrAgq4Jxp6jJsNw7eYXDPHv394w4jQABB49vsrwJCsYrvn+9hgUeUXPJf+RDWFCtwGkWWbaWga3vTtRNH67exGMr07RRVHPAuKAbJWT1f4Pc7YMAwPDLmd3ZFvh7GO+GmBDtHMug13ChCwBAzDNzhMdwJpBCtH9DncBSAJkO0wA2c8wzdg0ooQBNhvQNYO8iuxKFAPQASiwkAGyZn53VpD/4YZjRCO6Rgak8EHXDAIY/gNpAoXyx52/UcSxacZqALIhyACbZpwGMKAlLgYsSZhqABAAAP//rf2OYsEawsQAAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
