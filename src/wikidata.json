@@ -10,7 +10,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
+      "Source": "Eldertree Forest, Stoneheart Forest",
       "Deprecated": false
     },
     {
@@ -192,7 +192,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Stoneheart Forest, Elvewood Forest",
+      "Source": "Stoneheart Forest",
       "Deprecated": false
     },
     {
@@ -218,7 +218,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Eldertree Forest, Elvewood Forest",
+      "Source": "Eldertree Forest",
       "Deprecated": false
     },
     {
@@ -406,7 +406,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+40 Critical Chance",
+            "+25 Critical Chance",
             "-1 Dashes"
           ]
         }
@@ -507,7 +507,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "0.5x Vitality",
+            "2x Damage Received",
             "+1 Projectiles"
           ]
         }
@@ -1109,9 +1109,9 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAf0lEQVR4nGJiIAA4uUT+gzAhdTBA0EAQ2Hd0BwOxhhJlICmAaAOJdeXAuVBFTpa6Bt559Ji6BlLdhcSCUS9jB8S6jmgDSQFUN5CRkAJQ/s2Zqw9mGyuLMiQ67GH4/u0NTn0sxNo8JfkimMZnGAOpXiZkGMkGUgWQWgUAAgAA//+f+SC8gJHoqQAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 7,
+        "Damage": 9,
         "Class": "Sword",
-        "Rate": 3.3333333333333335,
+        "Rate": 2.5,
         "Projectiles": 1,
         "StrengthScaling": 0
       },
@@ -1359,9 +1359,9 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 6,
-        "Class": "Bow",
+        "Class": "Crossbow",
         "Rate": 1,
-        "Projectiles": 1,
+        "Projectiles": 2,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1378,7 +1378,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 5,
-        "Class": "Bow",
+        "Class": "Crossbow",
         "Rate": 1,
         "Projectiles": 4,
         "StrengthScaling": 0
@@ -1399,14 +1399,14 @@
     {
       "ID": 76,
       "Name": "Chitin Crossbow",
-      "Description": "A simple crossbow",
+      "Description": "A bug based crossbow",
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAA60lEQVR4nGJioBEYNRgOWEjVwMkl8h/G/v7tDSMudTglcBkqY+AF5z+5sA2nBSQZDAKv3778LyerzYBuAbrhJIUxyFBRYXFGkCEw14IAyBLkICLJYJhLQQbADEE2nAEaVDA5RmRBXIY+enyVQcfYH6scn5Qaw6dnt+D8T6/ugIOFhQEtUmCKYBqunN0INhTEh2t+dgvFQBD79rFFjOIKFv9JDgpSAdFBISosziCuYIEhhysoiE5usMhDB7AgRI5IeBgTA0DJDJbcGLBkFga0jEKzDEKVLI3uWrJcTGwhRDMw9Ap6mhkMCAAA///tboGVTVY9BwAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 12,
-        "Class": "Bow",
+        "Class": "Crossbow",
         "Rate": 1,
-        "Projectiles": 1,
+        "Projectiles": 2,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1616,10 +1616,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAe0lEQVR4nGJioBDgNICTS+Q/CJNtAAgsyXVmIGQIXgPOXnxF0BDahcEQN4CY6IMBRlwGaAsJM0jyc4P5zz9+Zbj67i3D929vMNSzYDMApPAqA8N/kAF77j/C6wKsBmAzkBh1KAAaDgSTM95Y4OQSIdlikgHF6QAQAAD//0kyIriH/i6tAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 1,
+        "Damage": 2,
         "Class": "Sword",
-        "Rate": 2.5,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1635,10 +1635,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAd0lEQVR4nGJioBDgNICTS+Q/CJNtAAjMXz2PgZAheA24+egJQUNoFwZD3ABiog8GGHEZYOBgwyCnoQ7mP7pxk+HCgSMM37+9waoeKwAZEl5U/h+WoHC5ioUYw0iyGdkFDAwMBJMz3ljg5BIh2WKSAcXpABAAAP//cvgjbLH/9EcAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 2,
+        "Damage": 3,
         "Class": "Sword",
-        "Rate": 2.5,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1654,10 +1654,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAd0lEQVR4nGJioBDgNICTS+Q/CJNtAAgcv1DLQMgQvAbc+HCcoCG0C4MhbgAx0QcDjLgMsK2QY9BXFQTzL95+z3C44xHD929vsKrHCkCGlC53/g9LULhcxUKMYSTZjOwCBgYGgskZbyxwcomQbDHJgOJ0AAgAAP//kYMj0+Hip4kAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 3,
+        "Damage": 4,
         "Class": "Sword",
-        "Rate": 2.5,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1673,10 +1673,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdklEQVR4nGJioBDgNICTS+Q/CJNtAAjc3x7DQMgQvAZ8u3uRoCG0C4MhbgAx0QcDjLgMqHcUZzDTgfBPXWFgaNz/kuH7tzdY1WMFIEP2lWv/hyUoXK5iIcYwkmxGdgEDAwPB5Iw3Fji5REi2mGRAcToABAAA//9WISKluGPv2gAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 4,
+        "Damage": 5,
         "Class": "Sword",
-        "Rate": 2.5,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1692,10 +1692,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeElEQVR4nGJioBDgNICTS+Q/CJNtAAi4tS5jIGQIXgPenr9I0BDahcEQN4CY6IMBRlwG8ImpMPBJqYH5n57dYvj06g7D929vMNSzYDMArPAVw3+QAU8ubMPrAqwGYDWQVAANB4LJGW8scHKJkGwxyYDidAAIAAD//0CLIxSR3BbUAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 5,
+        "Damage": 6,
         "Class": "Sword",
-        "Rate": 2.5,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1711,10 +1711,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdklEQVR4nGJioBDgNICTS+Q/CJNtAAgU6qQzEDIErwHHPl4jaAjtwmCIG0BM9MEAIy4DONn5GHh4xMH8L19eMnz/+Ynh+7c3GOpZsBkAVfgfZMDrt7fxugCrATgMJA1Aw4FgcsYbC5xcIiRbTDKgOB0AAgAA//9agyF6xch0/AAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 6,
+        "Damage": 7,
         "Class": "Sword",
-        "Rate": 2.5,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1730,10 +1730,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiElEQVR4nGJioBDgNICTS+Q/CJNtAAjYVsgxEDKEoBdy5urjNYSgARdvv8crT7tAhAF9VUHKDCDLC8iBRsgFjLgMENCUZOBRhkh/ufuf4cP15wzfv73BUM+CzQCwwusM/3mUpRiebHmG1wVYDcBqIKkAGg4EkzPeWODkEiHZYpIBxSkREAAA//8ukCWsiTKfhgAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 7,
+        "Damage": 8,
         "Class": "Sword",
-        "Rate": 2.5,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1756,10 +1756,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfUlEQVR4nGJioBDgNYCTS+Q/2QaANBuHlBM0hLZeoL8BIP/i8jMuOQwXIAfcyzuX4ZpB4gRdgKyJWHEUA75/e8P45MI2BhkDLxRFID5IHCRP0AXImpBpXADDRAakFMgnpsLw6dUduOsIegHZK/j4BA2gGiAmM1EMAAEAAP//SOUv7m6MCxEAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 7,
+        "Damage": 8,
         "Class": "Sword",
-        "Rate": 2.5,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1782,10 +1782,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeklEQVR4nGJioBDgNICTS+Q/CJNtAAjMNKlgIGQIQS/sdW/GawjtwmCIG0BM9MEAIy4DxFWUGSRlJMH850+eM7y8c5fh+7c3GOpZsBkAUvjyDsN/kAEXDhzB6wKsBmAzEJcc3kAEOZ0QwGkyckDicwHFgOJ0AAgAAP//0Fkkd+isylYAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 7,
+        "Damage": 8,
         "Class": "Sword",
-        "Rate": 2.5,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1808,10 +1808,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeUlEQVR4nGJioBDgNYCTS+Q/2QaANN/fHkPQENp4AWY7CBByBW0D8dvdi5QZQLELyDIAV4DhEmfEprDeUZzBTAchduoKA0Pj/pcM37+9wVCP1SYY3leu/R+Zj009C7oAzBZkDfhsxhuIIKcTAjhNJtYFFANAAAAA//8q8y9cm5gSKAAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 7,
+        "Damage": 8,
         "Class": "Sword",
-        "Rate": 2.5,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -1836,10 +1836,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAApklEQVR4nGJioBDgNYCTS+Q/CONTw4JP8xw1GTA75RbD/+/f3jCS7AJiAHUNIORfbGqYkCVAfsYVcDBxmBoUA2ASKbeegAVhgXfhCwcYI4uB1CAbAncBTGGOlArcIGQAEgPJIatFMWDBzw8MPMIihIIArAakFgYYkf1IjAEg8OXtGwZYukBJHOiBBzMQpAEZICcqFlwS6IbRLCXiBcRkJooBIAAA//8W1EfgjDAyCgAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 7,
+        "Damage": 8,
         "Class": "Sword",
-        "Rate": 2.5,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0
       },
       "Ability": null,
@@ -2766,7 +2766,7 @@
         "Modifiers": null
       },
       "Modifiers": [],
-      "Source": "",
+      "Source": "Coolcrab Grotto",
       "Deprecated": false
     },
     {
@@ -3543,7 +3543,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+50 Dash Distance"
+            "+200 Dash Distance"
           ]
         }
       ],
@@ -3620,7 +3620,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+80 Critical Chance",
+            "+50 Critical Chance",
             "-2 Dashes"
           ]
         }
@@ -3870,6 +3870,104 @@
         }
       ],
       "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 193,
+      "Name": "Scorpion Stinger",
+      "Description": "The stinger from a scorpion",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAlElEQVR4nGJioBBQbAALPklOLpH/6GLfv71hJMpkkOZSFYv/x8+f+f/67Us4RjcUqxdAinKkVBjO/PwJ5t959BhMy8lqY7gAwzkwzSAAMuDE28d4nY83DPBpxOsFmO3EAJwGmLCzk28Asu3S3MJYo5OgC2CuCOQXxGsI7cIABtZ/fI9XHmv0UJSESQUU50ZAAAAA//+dl0ChQKYzNQAAAABJRU5ErkJggg==",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Scorpion Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 194,
+      "Name": "Scorpion Dagger",
+      "Description": "A dagger made from a scorpion stinger",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjElEQVR4nGJioBDgNICTS+Q/CJNtAAjkSKkwEDIErwFnfv4kaAjBMCBkCE4Dvn97w3ji7WNC5hN2AdkGgJxsISxLuQtM2NkZpjy7A/YS0QYQE/8wwIJLQlRYleEuAwPD3Z/4DcDphddvb6PQJBmA7l9c/sfrAhBQ4pLAazsI4DQZOSDxuYBiAAgAAP//AmwtThFrWh4AAAAASUVORK5CYII=",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 9,
+        "Class": "Sword",
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
+        "StrengthScaling": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 195,
+      "Name": "Scorpion Slinger",
+      "Description": "A simple crossbow",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAABEklEQVR4nGJioBEYNRgOWEjVwMkl8h/G/v7tDSNVDAYZaiEsC+efYGD4j8sCnDbiAq/fvvwvJ6vNgGLB28cYhpMUxiBDRYXFGUGGgAyDAZAlyEFEkothLkUHMJcjWwSyGG4wuo3I4NHjqwyWGnY4LQ3kFwTTBjw/GFJuPQEbzMKAFikm7Oxg+szPn2B22cmNDF3m/gyyHFxwg0DiMHkQDcL7H59nLFWxgDuOZumYEebifUd3MFT5paKEFQyAgkJUWJxBRVQdqyHYggLFYBBwsvbAmi5JjTx4BlGRk2UAacSVm0DJDJbcGLBkFga0jAJXhC6BCxCbQUjKeRhZGup9qmRpYgshmoGhV9DTzGBAAAAA//9Va5CgyO6UhAAAAABJRU5ErkJggg==",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 40,
+        "Class": "Crossbow",
+        "Rate": 1,
+        "Projectiles": 1,
+        "StrengthScaling": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 196,
+      "Name": "Scorpion Diadem",
+      "Description": "A crown befitting a Scorpion Queen",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdklEQVR4nGJioBAMNwM4uUT+E9KArgbDBTAF5kpqDEpKSgxZUdpgcRBN0AKQAgf1wP8whVE+vihyi+x6/hN0ATJYv+84hgZ0gNWAQp10sI0gGplNtAEwQ7Cx0QEjMoeYWACB79/eMBKjjigwyFLigBgACAAA///45SHhNKH9eAAAAABJRU5ErkJggg==",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "With Staff:",
+          "Modifiers": [
+            "+15 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Scorpion Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 197,
+      "Name": "Scorpion Chainmail",
+      "Description": "A looped chainmail of hardened scorpion... bits...",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjklEQVR4nGJioBCwIHM4uUT+w9jfv71hJEaOEVmBuawtXMPJx4fhCvHJ4fQCSANII7pmdIDhTGTF9769ANNKXBJw/uu3t1G8QHEgDrwBLPgkYX4n2wWgQIMFJC6AMx3gMhAEkGOCCZsCUgDRgYjLcHgggpz0moHhPyGD0BMSI7oC5EyDDaBnMooBIAAA//8/lEoU4jHJogAAAABJRU5ErkJggg==",
+      "EquipType": "Armor",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "With Crossbow:",
+          "Modifiers": [
+            "+10 Dexterity"
+          ]
+        }
+      ],
+      "Source": "Scorpion Pit",
       "Deprecated": false
     }
   ]
