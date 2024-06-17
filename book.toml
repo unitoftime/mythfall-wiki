@@ -7,3 +7,6 @@ title = "Mythfall Wiki"
 
 [output.html]
 no-section-label = true
+
+[preprocessor.tera]
+command = "mdbook-tera --json ./src/wikidata.json"
