@@ -160,14 +160,14 @@
       "ID": 12,
       "Name": "Mythril Ore",
       "Description": "A lump of mythril ore",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBAMvAEsxCji5BL5j8z//u0NI1GaYBgGlty9/R/dMBZcthiHlINpYUN9hqX37jCcf/gDq0WMyAZ8+/oazAZpWL3pPsPb8xfhhoDAruooDOejhAHMJkN5DhRbYAZhA/BYAJmcqmvJcOficwzbYS4gCoC8YhPXDcb+/bvwBiADtnQAcsnZNZ0o3irZf4VwIGJzCTbDifcLkWDg8wLFBgACAAD//0ouY+S/kBZKAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqElEQVR4nGJioBAMvAEsxCji5BL5j8z//u0NI0EDkDU9enwVTO/88IkhVdcSuwvQbTEOKQfTwob6YI3nH/7AahEjsgHINq3edJ/h7fmLcENAYFd1FIrzMbwAs8lQngPFFphB2AA8FkAmg/x35+JzDNthLsDrBWSvIPt/Tpw+3HUgC9C9gJEOQArOrulE8VbHxVeEAxGbS7AZjtMv5IKBzwsUGwAIAAD//18sUZZlSm4XAAAAAElFTkSuQmCC",
       "EquipType": "Resource",
       "Weapon": null,
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
-      "Deprecated": true
+      "Source": "Volcanic Core",
+      "Deprecated": false
     },
     {
       "ID": 13,
@@ -737,7 +737,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Lifesteal Chance",
+            "+4 Lifesteal Chance",
             "-2 Vitality"
           ]
         }
@@ -1066,7 +1066,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAjElEQVR4nGJiIAJwcon8J0YdCBA0EGTY/e0xRBtKlAtJAXgNhLkOBIh1JVEuvLZtN3VcSA4YNRA7UFAXo66BpIBRAxEAVzYjlP0Y8RlY7yjOYKaDEDt1hYGhcf9Lhu/f3uDUhxOADIThfeXa/5H5+PSx4JKAuQLZAGJcRlSkgLxKLCBoI6kuBAQAAP//IksvZlNthv8AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 9,
+        "Damage": 10,
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
@@ -1369,7 +1369,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Lifesteal Chance"
+            "+4 Lifesteal Chance"
           ]
         }
       ],
@@ -1853,7 +1853,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeUlEQVR4nGJioBDgNYCTS+Q/2QaANN/fHkPQENp4AWY7CBByBW0D8dvdi5QZQLELyDIAV4DhEmfEprDeUZzBTAchduoKA0Pj/pcM37+9wVCP1SYY3leu/R+Zj009C7oAzBZkDfhsxhuIIKcTAjhNJtYFFANAAAAA//8q8y9cm5gSKAAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 8,
+        "Damage": 9,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -1895,8 +1895,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+3 Lifesteal Chance",
-            "-3 Vitality"
+            "+2 Lifesteal Chance"
           ]
         }
       ],
@@ -1912,7 +1911,7 @@
       "Weapon": {
         "Damage": 3,
         "Class": "Sword",
-        "Rate": 0.5,
+        "Rate": 1,
         "Projectiles": 3,
         "StrengthScaling": 0,
         "ManaCost": 0
@@ -1930,9 +1929,9 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAlUlEQVR4nGJhwAE4uUT+45IDge/f3jBiE8dpIAg8enwVq7icrDZOPUz4DIRpRjYAn2FEGUgqIGjgvqM7wBiZTxYARQoIv377EoyR+fgiDGtMIRuKSw5XLBN05drycLwuQgcEw/DsxVckOYL+sWysL0ZdA0kFw8BAUmMZL4CmP+qmwyoPR5IcMfjTIdGFA7GFASAAAP//+XY3Gj9Gvf8AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 10,
+        "Damage": 8,
         "Class": "Sword",
-        "Rate": 0.5,
+        "Rate": 1,
         "Projectiles": 3,
         "StrengthScaling": 0,
         "ManaCost": 0
@@ -2543,7 +2542,7 @@
           ]
         }
       ],
-      "Source": "Temple of Anubis",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -2788,7 +2787,7 @@
           "Filter": "",
           "Modifiers": [
             "+15 Critical Chance",
-            "+1 Lifesteal Chance"
+            "+2 Lifesteal Chance"
           ]
         }
       ],
@@ -3473,11 +3472,11 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAzklEQVR4nGJhQAKcXCL/GdDA929vGNHFCKljQZf0y0hmeHTjJph94cARrAaAgIGDDZiW01Bn2DRjLoochqEwhSCDQRq/ff6EIc/FywdXhw1gNRQGYAa6NE6Ei+2pzweLwwzGBpjwGYoM1hakEKuUeEODJ8wh2lC83gd5EeRVkJfRxUk2FDn2YUDNWI/h1tlLcD4oEkHqsEUWShrElf5A4i6Kcgx77j+C87Gpw+pSbAkdGyCkjuiIIgWMGjpq6Ig1lKhsiZzXicnKgAAAAP//FtZOZ5P/wKQAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 15,
+        "Damage": 30,
         "Class": "Hammer",
-        "Rate": 0.4,
-        "Projectiles": 5,
-        "StrengthScaling": 2,
+        "Rate": 1,
+        "Projectiles": 1,
+        "StrengthScaling": 3,
         "ManaCost": 0
       },
       "Ability": null,
@@ -3587,11 +3586,11 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAqklEQVR4nGJhIAJwcon8h7G/f3vDSEg9EzGGgkChnS6xShlYsLkGG7j8+CNBdTBfoHj/0eOrWBXLyWqTpIYJlwSIjcxHV4euFhkQHaakABTv7zu6AysbHaDLgfhO1h7YDVWRk4V7BRR22LyPTR49nPGGKQOWdAnj4wtTFnTFuICuLD/DnvvEqaVJRI0aOtwMhZVSVDWUFDCwhoJyFLGAYH3DQEYdBQgAAP//Gzw+rafhOmwAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 15,
+        "Damage": 20,
         "Class": "Hammer",
-        "Rate": 0.4,
-        "Projectiles": 5,
-        "StrengthScaling": 1,
+        "Rate": 1,
+        "Projectiles": 1,
+        "StrengthScaling": 2.5,
         "ManaCost": 0
       },
       "Ability": null,
@@ -3607,7 +3606,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeElEQVR4nGJioBDgNICTS+Q/CJNtAAg8vbWXgZAheA04c+YcQUMIhgEhQ2gXiN+/vWH0jyol3wCKXUBMFOI0AKR547JuylwAAjBDQDFBEoClQhCe3FmGN0VidQEoBkCYGMsIxoK6uiZeeby2IDudWBeRDAABAAD//+kSL9zSKEINAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 11,
+        "Damage": 10,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -3627,7 +3626,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA5klEQVR4nGJiGGAw6oABdwALKYo5uUT+w9jfv71hpIYDiA4BmOVd9UlwPjZMqgOI8gXIYJjF6uqaeNX6R5WCaWJDiKQoIGQ5CGxc1g1zyH9iHEKSA2DAxMQIq/iZM+ewOgSfI0h2AC7Lcck9vbWXQVrNGacjSHLAzZvXwRgEoqOjQQYT1ANyAFUALJVP7iwjKcUTUkt0NoQF4d37j1D4xOjDp3bAS0KyHUBOoUM1B6THuVDDbvIcMHPRHqpZTrIDqFUBke0AWoBRB4w6YNQBow4YcAeQBahVEw4KMOBRMOAOAAQAAP//fIJWsyc0xL8AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 15,
+        "Damage": 12,
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 1,
@@ -3870,13 +3869,7 @@
       "Consumable": null,
       "Modifiers": [
         {
-          "Filter": "Without Sword:",
-          "Modifiers": [
-            "+1 Lifesteal Chance"
-          ]
-        },
-        {
-          "Filter": "With Sword:",
+          "Filter": "",
           "Modifiers": [
             "+2 Lifesteal Chance"
           ]
@@ -3898,7 +3891,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Lifesteal Chance"
+            "+4 Lifesteal Chance"
           ]
         }
       ],
@@ -4002,7 +3995,7 @@
           ]
         }
       ],
-      "Source": "Scorpion Pit",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -4862,6 +4855,335 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 241,
+      "Name": "Mining Helmet",
+      "Description": "A bright light attached to a solid helmet",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAj0lEQVR4nGJioBAMAwNY0AU4uUT+49Pw/dsbRmQ+I7pmAwcbBjkNdZwGbJoxF8UQFmTNfhnJYPajGzfBNMigif4/UQx4dMOG4cKBI/9hhmANA5BGEIYZxKxTCcYwOWTAguxvmAZ08PdKO5ILbsJdDHIFI7rziQWwsGBkICLkcQH0GCELDHxKHHgDAAEAAP//Cho3K5jaufcAAAAASUVORK5CYII=",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "With Hammer:",
+          "Modifiers": [
+            "+15 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Volcanic Mines",
+      "Deprecated": false
+    },
+    {
+      "ID": 242,
+      "Name": "Mining Boots",
+      "Description": "Heavy duty boots",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABEUlEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBbHBhjRNfv5+TEsW77xv19GMlx804y5DDzcjHC1r1+/xm3Al6//wZof3bgJF79w4Aic7eBoz3jm1CG4ISy4/IasCc01/0GGbN+6FjUMQLZbWVmB2SDbYZpgroFhEP/A/oP/YfrgLkD3Oy4vyGmoYw9EUGhX9DaB2dduP4QHnoGDDYomkMEgA79/e8OIMwy0VOUZOorrGLC5Bh3AwwAUMCBNIACiQa4BGQRzNswVINs1tTUZMQwARQ2yIciuQXY6SPPjBzcwXQCKV5AhoARjbGKAYhDIEGTNyAkJKwBFKSj5IidnI1NbnMmZIkBxbgQEAAD//8yxhqWFBkkXAAAAAElFTkSuQmCC",
+      "EquipType": "Boots",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Strength",
+            "+1 Vitality",
+            "+3 Guard"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 243,
+      "Name": "Dwarven Hammer",
+      "Description": "Now that's some fine dwarven artisanship",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAArklEQVR4nGJhIANwcon8Rxf7/u0NI4yN1VBsmtCBgYMNmJbTUGfYNGMuihxOl4qrKDPw83PjNRhkIDZAlPe5ePng7G+fPxFUz0SMoSDw/MlzYpUSb6ikjCTRhhLlfWK8TJShL+/cZXiJxFcz1mO4dfYSnA+K/Uc3bmKNLEZibAYlMRdFOYY99x+B0yNZ6ZQQQDYAGyA6okgBo4aOGjpiDSU678PYhLIoCAACAAD///jLLj3iiwZ1AAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 25,
+        "Class": "Hammer",
+        "Rate": 1,
+        "Projectiles": 1,
+        "StrengthScaling": 3,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 244,
+      "Name": "Dwarven Ring",
+      "Description": "A simple dwarven ring",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtElEQVR4nGJioBBQbAALPklOLpH/yPzv394woqvBEEDWWNHbhCLeUVyHYQiGASDN4irKDImZ8VhdhW4IEzbN6BpAGASu3X7I4JeRjOI1jDBAthnZto7iuv8gzeiACdl2ZD9j8+/JPQdwG4DPn9i8htcAZICs2dzFgWHTjLm4AxEGQF4BaUS3GZsXGNFtA2kGhTayBpDNIPbLO3eJSwfooQ1yNgM5KREGsGmkGqA4NwICAAD//5EFXAQAdkF9AAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Strength",
+            "+3 Guard"
+          ]
+        }
+      ],
+      "Source": "Volcanic Mines",
+      "Deprecated": false
+    },
+    {
+      "ID": 245,
+      "Name": "Dwarven Chainmail",
+      "Description": "It's a bit short...",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAnUlEQVR4nGJioBAMvAEsyBxOLpH/MPb3b28YiZWDKwgvKv+/Yuum/43Tp/1H1gBig8RAciA1yHI4veCXkQzWCMIgNi6A4cyK3iYGdTkZhpuPnqAohIl1FNeheAHDBTCFIBqfGE4DYAqRXYBNjHYuWL/3KE4XgOTwGgAKnE0z5sINQXYBSAwkh54GMBMEWqJBtwCbOEVg4DMTIAAA//+FJmPxpQK9tgAAAABJRU5ErkJggg==",
+      "EquipType": "Armor",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "With Hammer:",
+          "Modifiers": [
+            "+10 Dexterity"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 246,
+      "Name": "Mythril Blade",
+      "Description": "A sharp Mythril blade",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAgklEQVR4nGJiIAJwcon8J0YdUQBkWPG+y/+JNZQoF5ICiDYwa8t+orxOlIF3Lj4n1l7iDFTRl6SugVR3ISlg1MujBpIBGPFJgvKuuIoyg6QMJNk8f/Kc4eWduwzfv73Bqw8vABlq6RUALr6oVjjAADEuI8pAkFepBoj1KgwAAgAA///VqSlKlHMgpgAAAABJRU5ErkJggg==",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 12,
+        "Class": "Sword",
+        "Rate": 2,
+        "Projectiles": 2,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 247,
+      "Name": "Mythril Dagger",
+      "Description": "A sharp Mythril dagger",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjklEQVR4nGJioBDgNICTS+Q/CJNtAAi4tS5jIGQIXgPenr/IkLVlP15D8BogbKiPT5qwASBw5+JzvK6gXSwwQMMABE4u2EGe6SBnF++7jDc6GfFpFldRZpCUkWR4/uQ5w8s7dxm+f3uDoR6vF0CakGlsAKcB6LZhs52gC0AA5HyyAbH5gSJAcUICBAAA//9dTjSKUB1gDQAAAABJRU5ErkJggg==",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 10,
+        "Class": "Sword",
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 248,
+      "Name": "Mythril Throwing Knife",
+      "Description": "A sharp Mythril throwing knife",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAkElEQVR4nGJioBDQ1wBOLpH/ZNsE0uzfv+s/uiFEuQCkyTiknOHt+YsYciyENIJokGYQOLumk+H7tzeMRBkA0uzWugzMBtmMTTNOLyBrVtGXZDBP8MDpSgwD0DUTAkzEaJ7m44jV+QzIYQDSnLVlP4YCfJqxeoEUzXgNIEYzCMAVoKcwYjRTBVCcGwEBAAD//9CuPLtIJRMgAAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 10,
+        "Class": "Throwable",
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 249,
+      "Name": "Mythril Greatblade",
+      "Description": "A sharp Mythril greatblade",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAlklEQVR4nGJiIAA4uUT+gzAhdciAoKEgkLVlP0mGE2UozGCY4VQx9M7F5yiGEzKYaJeSAog2FNm1VDOUFECUoW/PX6S+ocKG+tQ3lCYuJRWMen+ADSU2VzHikwQVHOIqymC2pIwkXPzCgSMM37+9wamXoKHIfAMHG7CBIIDPUBZ8hiJrRLYAn4EMtIooogEp1QkgAAD//4jtNfCznyssAAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 16,
+        "Class": "Sword",
+        "Rate": 1,
+        "Projectiles": 2,
+        "StrengthScaling": 3,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 250,
+      "Name": "Mythril Bow",
+      "Description": "A bow crafted from the finest Mythril",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR4nGJiwAI4uUT+gzA2OYIApHHJ3dtgTJYhIE2v3778DzOIZEOQDSDGEKxhQBFAdgEDUpjgcgXFLiDKgPMPf1BmAMUuMJTnoJ0LMMDgSgdkJ2WKMhMDidkZEAAA//9xo1HgojE4WQAAAABJRU5ErkJggg==",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 6,
+        "Class": "Bow",
+        "Rate": 2.5,
+        "Projectiles": 3,
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 251,
+      "Name": "Dwarven Drums (Pg 1)",
+      "Description": "Hammers strike with might!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZUlEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oj44gxiFgwIjMAXmBGBfg9QI+FxQuXTEALgDZCuPT3wXIttPMBRQnZQwXEKMJ2QUUA4q9AAgAAP//soU3ZoAzhrcAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Volcanic Mines",
+      "Deprecated": false
+    },
+    {
+      "ID": 252,
+      "Name": "Dwarven Drums (Pg 2)",
+      "Description": "In the forge's glowing light!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oj45AofEBRmQOyAvEuACvF/DZXLh0xQC4AGQrjE9/FyDbTjMXUJyUMVxAjCZkF1AMKPYCIAAA//9iVDiopKnZfAAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Volcanic Mines",
+      "Deprecated": false
+    },
+    {
+      "ID": 253,
+      "Name": "Dwarven Drums (Pg 3)",
+      "Description": "Mountains echo proud!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZUlEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oj47ASmMDjMgckBeIcQFeL+CzsXDpigFwAchWGJ/+LkC2nWYuoDgpY7iAGE3ILqAYUOwFQAAAAP//CBM56r4XV2UAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Volcanic Mines",
+      "Deprecated": false
+    },
+    {
+      "ID": 254,
+      "Name": "Dwarven Drums",
+      "Description": "Dwarven hearts beat loud!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiUlEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHBRlGPQleVnMNYXYzh78RUG3X/oMop62oUByDZ8fNq7AORnZJthfJJdgEsj0QYQAozIHFA6AEUjPrDn/iP86QAE5h3ajlXztFVrGfYU16GIYTUgyc4TryuQAYYXiNGE7AWKAcWxAAgAAP//nDMqv2ve//gAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 255,
+      "Name": "Mythril Bar",
+      "Description": "A solid bar of mythril",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdUlEQVR4nGJioBAMvAEshBRwcon8Rxf7/u0NI4zNSEjz7MvHMcRTdS3hhuD0Ai7NqzfdR+FjNYBYzVgNIEUzhgHEaN5VHYU9EEGas7bsx9B85+JznJqxegEXwKaZaANwaWZATwfYEg0DWsKhOhj4zAQIAAD//+tZPLUDgARXAAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 256,
+      "Name": "Corrupted Heart",
+      "Description": "A corrupted heart",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7UlEQVR4nKSTUQuCMBSFlxihBhUJRa/1/3+RvUaCUUEq0YNxhsfu7pYvHhibl+27Z/fOyExUrANJmneY26aayW8Zk4r04eU2d753p6NZpJkdEhYEQNlmZXTm9WFvx+gVmL2+P222eZIMMMT+KZKHP21rXrfKZsOaQgxj1AH0bmpvAx0B2jvpZDEtoA/YgmnLcML7Y409ZfGDxDobNuH+zMiZoLI4O+10usDDFIuImXE4kB3y2ggIhq48YY/L1YEMANiSRdQQrqVDyHuaIKPqUvJN0AWSIakHMOIVapB0yEIGARokFfqhJukbAAD//y9lj2MZoIw+AAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 257,
+      "Name": "Slimy Boots",
+      "Description": "Completely Hydrophobic",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHElEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBbHBhjRNfv5+TEsW77xf85cfYaLt9+DxQ93PGLg4WaEq339+jVuA758/Q/WvGE9QtGTLc/gbAdHe8Yzpw7BDWHB5iyQzciakF1zoOPgf5Ah27euRQ0DkO1WVlZg9v0rfxhsK+TgmkGuAYnBxA/sP/gfpg/uAnS/gxRj84Kijhz2QASFNrJTYYEn4yPFoKiD8CnIYJCB37+9YcQIA3TN2FyDDuBhAAoYkCZ0zRBns8AxyHZNbU1GDANAUQNzIrprkMVB4PGDG5guAMUrKLGAbDA2MYC7BgZA4jBDkBMSVgCKUlCgujUZgZOyapgePFnj14kGYBpI1kgKAAQAAP//o+2ggUDYsIUAAAAASUVORK5CYII=",
+      "EquipType": "Boots",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+100 Swim Speed"
+          ]
+        }
+      ],
       "Source": "Craftable",
       "Deprecated": false
     }
