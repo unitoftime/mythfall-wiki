@@ -46,7 +46,7 @@
 </div>
 {% endmacro consumableList %}
 
-{% macro resourceTable(type, hideModifiers=true) %}
+{% macro resourceTable(type, hideModifiers=true, weaponType=" ") %}
 <table style="text-align: left;">
 <tr>
 <th>Item</th>
@@ -60,6 +60,7 @@
 {% if item.EquipType is not matching(type) %}{% continue %}{% endif %}
 {% if item.Deprecated %}{% continue %}{% endif %}
 {% if item.ID == 0 %}{% continue %}{% endif %}
+{% if weaponType != " " and weaponType != item.Weapon.Class %}{% continue %}{% endif %}
 <tr>
 <td>
     <div style="display: flex; justify-content: start; align-items: center; width: 100%; gap: 12px;">
