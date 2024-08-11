@@ -10,7 +10,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Eldertree Forest, Stoneheart Forest",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -160,14 +160,14 @@
       "ID": 12,
       "Name": "Mythril Ore",
       "Description": "A lump of mythril ore",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBAMvAEsxCji5BL5j8z//u0NI1GaYBgGlty9/R/dMBZcthiHlINpYUN9hqX37jCcf/gDq0WMyAZ8+/oazAZpWL3pPsPb8xfhhoDAruooDOejhAHMJkN5DhRbYAZhA/BYAJmcqmvJcOficwzbYS4gCoC8YhPXDcb+/bvwBiADtnQAcsnZNZ0o3irZf4VwIGJzCTbDifcLkWDg8wLFBgACAAD//0ouY+S/kBZKAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqElEQVR4nGJioBAMvAEsxCji5BL5j8z//u0NI0EDkDU9enwVTO/88IkhVdcSuwvQbTEOKQfTwob6YI3nH/7AahEjsgHINq3edJ/h7fmLcENAYFd1FIrzMbwAs8lQngPFFphB2AA8FkAmg/x35+JzDNthLsDrBWSvIPt/Tpw+3HUgC9C9gJEOQArOrulE8VbHxVeEAxGbS7AZjtMv5IKBzwsUGwAIAAD//18sUZZlSm4XAAAAAElFTkSuQmCC",
       "EquipType": "Resource",
       "Weapon": null,
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
-      "Deprecated": true
+      "Source": "Volcanic Core",
+      "Deprecated": false
     },
     {
       "ID": 13,
@@ -737,7 +737,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Lifesteal Chance",
+            "+4 Lifesteal Chance",
             "-2 Vitality"
           ]
         }
@@ -829,7 +829,8 @@
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -848,7 +849,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -867,7 +869,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -886,7 +889,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -905,7 +909,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -924,7 +929,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -943,7 +949,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -962,7 +969,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -981,7 +989,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1007,7 +1016,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1033,7 +1043,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1055,11 +1066,12 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAjElEQVR4nGJiIAJwcon8J0YdCBA0EGTY/e0xRBtKlAtJAXgNhLkOBIh1JVEuvLZtN3VcSA4YNRA7UFAXo66BpIBRAxEAVzYjlP0Y8RlY7yjOYKaDEDt1hYGhcf9Lhu/f3uDUhxOADIThfeXa/5H5+PSx4JKAuQLZAGJcRlSkgLxKLCBoI6kuBAQAAP//IksvZlNthv8AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 9,
+        "Damage": 10,
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1087,7 +1099,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1113,7 +1126,8 @@
         "Class": "Sword",
         "Rate": 2.5,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1132,7 +1146,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1151,7 +1166,8 @@
         "Class": "Sword",
         "Rate": 1,
         "Projectiles": 2,
-        "StrengthScaling": 2
+        "StrengthScaling": 2,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1177,7 +1193,8 @@
         "Class": "Sword",
         "Rate": 1,
         "Projectiles": 2,
-        "StrengthScaling": 3
+        "StrengthScaling": 3,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1203,7 +1220,8 @@
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 1,
-        "StrengthScaling": 0.5
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1222,7 +1240,8 @@
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 3,
-        "StrengthScaling": 0.5
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1241,7 +1260,8 @@
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 4,
-        "StrengthScaling": 0.5
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1260,7 +1280,8 @@
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 3,
-        "StrengthScaling": 0.5
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1279,7 +1300,8 @@
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 3,
-        "StrengthScaling": 0.5
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1298,7 +1320,8 @@
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 3,
-        "StrengthScaling": 0.5
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1317,7 +1340,8 @@
         "Class": "Bow",
         "Rate": 2,
         "Projectiles": 1,
-        "StrengthScaling": 1
+        "StrengthScaling": 1,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1336,7 +1360,8 @@
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 2,
-        "StrengthScaling": 0.5
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1344,7 +1369,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Lifesteal Chance"
+            "+4 Lifesteal Chance"
           ]
         }
       ],
@@ -1362,7 +1387,8 @@
         "Class": "Crossbow",
         "Rate": 1,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1381,7 +1407,8 @@
         "Class": "Crossbow",
         "Rate": 1,
         "Projectiles": 4,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1407,7 +1434,8 @@
         "Class": "Crossbow",
         "Rate": 1,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1426,7 +1454,8 @@
         "Class": "Throwable",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1452,7 +1481,8 @@
         "Class": "Throwable",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1478,7 +1508,8 @@
         "Class": "Throwable",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1504,7 +1535,8 @@
         "Class": "Throwable",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1530,7 +1562,8 @@
         "Class": "Throwable",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1556,7 +1589,8 @@
         "Class": "Throwable",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1582,7 +1616,8 @@
         "Class": "Throwable",
         "Rate": 2,
         "Projectiles": 3,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1601,7 +1636,8 @@
         "Class": "Throwable",
         "Rate": 2,
         "Projectiles": 3,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1620,7 +1656,8 @@
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1639,7 +1676,8 @@
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1658,7 +1696,8 @@
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1670,14 +1709,15 @@
       "ID": 88,
       "Name": "Golden Dagger",
       "Description": "A short golden blade",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdklEQVR4nGJioBDgNICTS+Q/CJNtAAjc3x7DQMgQvAZ8u3uRoCG0C4MhbgAx0QcDjLgMqHcUZzDTgfBPXWFgaNz/kuH7tzdY1WMFIEP2lWv/hyUoXK5iIcYwkmxGdgEDAwPB5Iw3Fji5REi2mGRAcToABAAA//9WISKluGPv2gAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdElEQVR4nGJioBDgNICTS+Q/CJNtAAjc3x7DQMgQvAZ8u3uRoCG0C4MhbgAx0QcDjLgMqHcUZzDTgfBPXWFgaNz/kuH7tzdY1WMFIEP2lWv/hyUoXK5iIcYwfDbjDUSQ0wkBnCYjO5kkv5MKKE4HgAAAAP//Q5Ek0qAoJ0kAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 5,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1696,7 +1736,8 @@
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1715,7 +1756,8 @@
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1734,7 +1776,8 @@
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1760,7 +1803,8 @@
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1786,7 +1830,8 @@
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1808,11 +1853,12 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeUlEQVR4nGJioBDgNYCTS+Q/2QaANN/fHkPQENp4AWY7CBByBW0D8dvdi5QZQLELyDIAV4DhEmfEprDeUZzBTAchduoKA0Pj/pcM37+9wVCP1SYY3leu/R+Zj009C7oAzBZkDfhsxhuIIKcTAjhNJtYFFANAAAAA//8q8y9cm5gSKAAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 8,
+        "Damage": 9,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1840,7 +1886,8 @@
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1848,8 +1895,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+3 Lifesteal Chance",
-            "-3 Vitality"
+            "+2 Lifesteal Chance"
           ]
         }
       ],
@@ -1865,9 +1911,10 @@
       "Weapon": {
         "Damage": 3,
         "Class": "Sword",
-        "Rate": 0.5,
+        "Rate": 1,
         "Projectiles": 3,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1882,11 +1929,12 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAlUlEQVR4nGJhwAE4uUT+45IDge/f3jBiE8dpIAg8enwVq7icrDZOPUz4DIRpRjYAn2FEGUgqIGjgvqM7wBiZTxYARQoIv377EoyR+fgiDGtMIRuKSw5XLBN05drycLwuQgcEw/DsxVckOYL+sWysL0ZdA0kFw8BAUmMZL4CmP+qmwyoPR5IcMfjTIdGFA7GFASAAAP//+XY3Gj9Gvf8AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 10,
+        "Damage": 8,
         "Class": "Sword",
-        "Rate": 0.5,
+        "Rate": 1,
         "Projectiles": 3,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1912,7 +1960,8 @@
         "Class": "Sword",
         "Rate": 2.5,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1931,7 +1980,8 @@
         "Class": "Staff",
         "Rate": 2,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1957,7 +2007,8 @@
         "Class": "Staff",
         "Rate": 2,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1976,7 +2027,8 @@
         "Class": "Staff",
         "Rate": 2,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -1995,7 +2047,8 @@
         "Class": "Staff",
         "Rate": 2,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -2014,7 +2067,8 @@
         "Class": "Staff",
         "Rate": 2,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -2033,7 +2087,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -2059,7 +2114,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -2078,7 +2134,8 @@
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -2097,7 +2154,8 @@
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 2,
-        "StrengthScaling": 0.5
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -2116,7 +2174,8 @@
         "Class": "Sword",
         "Rate": 2.5,
         "Projectiles": 2,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -2483,7 +2542,7 @@
           ]
         }
       ],
-      "Source": "Temple of Anubis",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -2538,7 +2597,7 @@
       "ID": 128,
       "Name": "Iron Ring",
       "Description": "A basic iron band",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtUlEQVR4nGJioBAMvAEshBRwcon8R+Z///aGEZnPSEjzo8dXUcTkZLVRDMHpBXTNdx49BtP7ju7AcBVWza/fvoRjEB+GV2zd9P/4+TP/YYZguADdZpiTYc6Wl5JCUc9EjGZkNQ+fPcNtADJA1wwyfP7qeRjqsBoACzBsmkFecLL2gBuONR2oyMnCNYJoXJoZsKUDkCZQVIH8CtIA8zM2zVgNQDYEGWDTjNMABiKSMNUAIAAA//+ve290HWlDSwAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuElEQVR4nGJioBBQbAALPklOLpH/yPzv394woqvBEEDW/OjxVRQxOVltDEOwegFd851Hj8H0vqM7MFyFVfPrty/hGMSH4RVbN/0/fv7Mf2RDmPDZDHMyzNnyUlIYFjIR0oys+OGzZ7gNQAbomkGGz189D6uXMQyABRg2zSAvOFl7oBiOkQ5U5GThGkE0Ps0M6OkApAkUVSC/gjTA/IxLM4YByIYgA1yasRrAQGQSphqgODcCAgAA//+yrG90OQ5UsQAAAABJRU5ErkJggg==",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -2598,7 +2657,7 @@
       "ID": 131,
       "Name": "Ring of Orbit",
       "Description": "Not sure how this fits a finger",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7ElEQVR4nGJioBAMvAEs6AKcXCL/QfT3b28YkfkwABOHAUZ0zRW9TWB2R3EdmN53dAeKBU7WHiiG4PQCyCBkzQ+fPQPT81fPQ3EVE7rzYDaj25oYmgSmbz56gmIIRhiAgJuFGZw9YfFquOEgTepyMihqmdDDANnZMM1+GclwG0EuQAZYXQBzNkwzjNZSlcdQhzUQYQEGcvamGXNR5EBeAIUHLCawukBeSgruJRANsxmkef3eoyhqGdE1gzSBQhnkV5AGmJ/RNYNcBnIFhhdAgiAnwkIbRMOcje4drC5Adgm6wQxYkjrFABAAAP//OxNtBsRrKGcAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7klEQVR4nGJioBBQbAALMoeTS+Q/iP7+7Q0jMh8GYOLIgBFZc0VvE5jdUVwHpvcd3YGi2MnaA8MQrF4AGYSs+eGzZ2B6/up5GK5iQnYezGZ0WxNDk8D0zUdPMAxhQdfgZmEGZ09YvBpuOEiTupwMhgVMyGGA7GyYZr+MZLiNIBegAwwXwJwN0wyjtVTlsSnFDERYgIGcvWnGXBQ5kBdA4YEcExgukJeSgnsJRMNsBmlev/cohgtQ4hSkCRTKIL+CNMD8jK4Z5DKYK1C8ABIEOREW2iAa5mx072B1AbJL0A1mwJLUqQIozo2AAAAA//+Wc20GRVjvYQAAAABJRU5ErkJggg==",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -2618,7 +2677,7 @@
       "ID": 132,
       "Name": "Ring of Pain",
       "Description": "A gold band with a small blue rock",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAv0lEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NIzKfEV2zW+syMHtOnD5DYOEihjXJT1EMUPRcgmIITi+kLLqIwv929yIYX52ii+JKDANANoPA2/MXUWzVzrkMxh93/kYxBCMMQM6GAZDzkZ2MLXwwDED2M7p/sQGcYYCuGWT7MV8N4gwABRYyQNbM784KDguY4RheQNcIonFpZkBPBzBNoFAGhTYywKYZqwHIhiADbJpxGsCAJcoIxQbZABAAAP//hhxgJoECGZQAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAwklEQVR4nGJioBBQbAALMoeTS+Q/PsXfv71hRBdjRNbs1roMzJ4Tp88QWLiIYU3yUxTFip5LMAzB6oWURRdR+N/uXgTjq1N0MVyJYgDIZhB4e/4iiq3aOZfB+OPO3xiGoIQByNkwAHI+spNxhQ+KAch+xuZfbABrGKBrBtl+zFeDOANAgYUMkDXzu7OCwwLZcBZcToP5GZ9mBuR0ANMECmVQaCMDXJoxDEA2BBng0ozVAAYsUUZMbJANKM6NgAAAAP//aPNgJkbZYtgAAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -2678,7 +2737,7 @@
       "ID": 135,
       "Name": "Obsidian Ring",
       "Description": "A basic obsidian band",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBAMvAEshBRwcon8R+Z///aGEZnPSEhzoU46ilj/lZkohuD0ArrmYx+vgWlzWVsUV2F1AbpmkK0wICqsyqDEJcFw8vFhsEswXIBNM0ghzNkgzciAiRjNyGrufXuB2wBkgK4ZZDjI+egAqwGwAMOmGdn/OA2w4teCa8SnmQFbLIA0gKIK5FeQBpifsWnGagCyIcgAm2acBjAQkYSpBgABAAD//0huX9OwN0roAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALPklOLpH/yPzv394woqvBEEDWXKiTjiLWf2UmhiFYvYCu+djHa2DaXNYWw1UYLkDXDLIVBkSFVRmUuCQYTj4+DHcJEyHNIIUwxSDN6ICJkGZkxfe+vcBtADJA1wwyHOR8bADDAFiAYdOM7n+sBljxa8E1EtLMgB4LIA2gqAL5FaQB5mdcmjEMQDYEGeDSjNUABiKTMNUAxbkREAAA//8VAl/TXZ9DQQAAAABJRU5ErkJggg==",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -2698,7 +2757,7 @@
       "ID": 136,
       "Name": "Ring of Focus",
       "Description": "A basic band",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoElEQVR4nGJioBAMvAEshBRwcon8R+Z///aGkWgDQJrDlSRQxFbeY/iPbAhOL2DTDAIgMWRXMRKjeeW9F3C2tpAwg44AK1gM5BIMF2DTDFIIczZIMzJgIkYzsporH37jNgAZoGsGGQ5yPjogKh0ga0b2PwMx0cgADThsmhmwxQIsHEB+BWmA+RmbZqwGMOBMQJiacRrAQEQSphoABAAA///av1k/h9vYPAAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoklEQVR4nGJioBBQbAALPklOLpH/yPzv394wEm0ASHO4kgSK2Mp7DP/RDcHqBWyaQQAkhu4qDCeha1557wWcrS0kzKAjwAoWg7mEiZBmkEKYYpBmdMBESDOy4isffuM2ABmgawYZDnI+NkAwHSBrRvc/A6FoZIAGHC7NDOixAAsHkF9BGmB+xqUZwwAGnAkIu2asBjAQmYSpBijOjYAAAAD//+E9WT+7z9cxAAAAAElFTkSuQmCC",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -2707,7 +2766,7 @@
         {
           "Filter": "With - Monk Hood - Monk Robe - Monk Boots:",
           "Modifiers": [
-            "+1 Strength"
+            "+2 Strength"
           ]
         }
       ],
@@ -2728,7 +2787,7 @@
           "Filter": "",
           "Modifiers": [
             "+15 Critical Chance",
-            "+1 Lifesteal Chance"
+            "+2 Lifesteal Chance"
           ]
         }
       ],
@@ -2766,7 +2825,7 @@
         "Modifiers": null
       },
       "Modifiers": [],
-      "Source": "Coolcrab Grotto",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -2918,21 +2977,19 @@
     },
     {
       "ID": 147,
-      "Name": "Book of Flame (Page 1)",
-      "Description": "A page from the Book of Flame",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAAPvZ4bC2YLpq+F8EBsdMCJzQF4gxgV4vQBzAbLNyK6hnwuQbR2YMEAH2GzHaQAuxdgAxUkZIwyI0YQcBhQDir0ACAAA//8noTZMMtUZGAAAAABJRU5ErkJggg==",
+      "Name": "Book of Flame (Pg 1)",
+      "Description": "A page from a beginner spellbook",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7Y5exOjENwG+C2dyfRBmB4AZ8LsBmM1QCqugBkGIyPzWBGZA4oGomJBbzRiOwCZNtp5gKKkzKGC4jRhOwCigHFXgAEAAD//5R2LOTkZckdAAAAAElFTkSuQmCC",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Damage: 6",
-        "Other": [
-          "Radius: 64",
-          "Range: 160",
-          "Mana: 1"
-        ],
-        "Range": 160,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
       "Source": "",
@@ -2940,64 +2997,59 @@
     },
     {
       "ID": 148,
-      "Name": "Book of Flame (Page 2)",
-      "Description": "A page from the Book of Flame",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAANPsoLhbJlpa+F8EBsdMCJzQF4gxgV4vQBzAbLNyK6hnwuQbR2YMEAH2GzHaQAuxdgAxUkZIwyI0YQcBhQDir0ACAAA//9b7jaIirHd0gAAAABJRU5ErkJggg==",
+      "Name": "Book of Flame (Pg 2)",
+      "Description": "A page from a beginner spellbook",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAb0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7Y5eyOQuMDjMgckBeIcQFeL+Cz2W3vTgwxrAZgU4gLEHQByDAYH5vBtA0DZNtp5gKKkzKGC4jRhOwCigHFXgAEAAD//zUbM2vurs56AAAAAElFTkSuQmCC",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Damage: 12",
-        "Other": [
-          "Radius: 48",
-          "Range: 160",
-          "Mana: 1"
-        ],
-        "Range": 160,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Pirate Cove",
+      "Source": "",
       "Deprecated": false
     },
     {
       "ID": 149,
-      "Name": "Book of Flame (Page 3)",
-      "Description": "A page from the Book of Flame",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAAO7nN3hbLe9O+F8EBsdMCJzQF4gxgV4vQBzAbLNyK6hnwuQbR2YMEAH2GzHaQAuxdgAxUkZIwyI0YQcBhQDir0ACAAA//+tDzbldxNjRgAAAABJRU5ErkJggg==",
+      "Name": "Book of Flame (Pg 3)",
+      "Description": "A page from a beginner spellbook",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAb0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7Y5eyOlcYGGJE5IC8Q4wK8XsBno9venRhiWA3AphAXIOgCkGEwPjaDaRsGyLbTzAUUJ2UMFxCjCdkFFAOKvQAIAAD//+DTNK+YocwCAAAAAElFTkSuQmCC",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Damage: 24",
-        "Other": [
-          "Radius: 32",
-          "Range: 160",
-          "Mana: 1"
-        ],
-        "Range": 160,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Grug Pit, Slime Pit",
+      "Source": "",
       "Deprecated": false
     },
     {
       "ID": 150,
-      "Name": "Book of Life (Page 1)",
-      "Description": "A page from the Book of Life",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAbElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAANP366As6WFI+B8EBsdYDUAXSE2jQRdgGwzPoPwugCfzQRdgGzYwIQBIUNJcgE+QHFSZkTmkJOUKQYUewEQAAD//1LBI9y0OzRSAAAAAElFTkSuQmCC",
+      "Name": "Elderword book (Pg 1)",
+      "Description": "You can't quite make out the markings",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF6InupJjENwG7A0ezvRBmB4AZ8LsBmM1QCqugBkGIyPzWBGZA4oGomJBbzRiOwCZNtp5gKKkzKGC4jRhOwCigHFXgAEAAD//6d9LO84/icpAAAAAElFTkSuQmCC",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Heal: 1",
-        "Other": [
-          "Radius: 80",
-          "Mana: 1"
-        ],
-        "Range": 0,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
       "Source": "Eldertree Forest",
@@ -3005,63 +3057,59 @@
     },
     {
       "ID": 151,
-      "Name": "Book of Life (Page 2)",
-      "Description": "A page from the Book of Life",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAAN77+bD2c7KE+F8EBsdMCJzQF4gxgV4vQBzAbLNyK6hnwuQbR2YMEAH2GzHaQAuxdgAxUkZIwyI0YQcBhQDir0ACAAA//8BmTYgrv3LEgAAAABJRU5ErkJggg==",
+      "Name": "Elderword Book (Pg 2)",
+      "Description": "You can't quite make out the markings",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAb0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF6InuqJQuMDjMgckBeIcQFeL+CzeWn2dgwxrAZgU4gLEHQByDAYH5vBtA0DZNtp5gKKkzKGC4jRhOwCigHFXgAEAAD//wlfM2AxnwngAAAAAElFTkSuQmCC",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Heal: 2",
-        "Other": [
-          "Radius: 64",
-          "Mana: 1"
-        ],
-        "Range": 0,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Alivarg's Tower",
+      "Source": "Eldertree Forest",
       "Deprecated": false
     },
     {
       "ID": 152,
-      "Name": "Book of Life (Page 3)",
-      "Description": "A page from the Book of Life",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAANdu6Lg7DK3ZXA+iI0OGJE5IC8Q4wK8XoC5ANlmZNfQzwXItg5MGKADbLbjNACXYmyA4qSMEQbEaEIOA4oBxV4ABAAA//9e7DaLrxrXpgAAAABJRU5ErkJggg==",
+      "Name": "Elderword Book (Pg 3)",
+      "Description": "You can't quite make out the markings",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAb0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF6InuqJlcYGGJE5IC8Q4wK8XsBn49Ls7RhiWA3AphAXIOgCkGEwPjaDaRsGyLbTzAUUJ2UMFxCjCdkFFAOKvQAIAAD//5TUNJm7FdwpAAAAAElFTkSuQmCC",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Heal: 3",
-        "Other": [
-          "Radius: 48",
-          "Mana: 1"
-        ],
-        "Range": 0,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Succubus Lair",
+      "Source": "Eldertree Forest",
       "Deprecated": false
     },
     {
       "ID": 153,
-      "Name": "Book of Stone (Page 1)",
-      "Description": "A page from the Book of Stone",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAAPTVq2Fs7PCguF8EBsdMCJzQF4gxgV4vQBzAbLNyK6hnwuQbR2YMEAH2GzHaQAuxdgAxUkZIwyI0YQcBhQDir0ACAAA//8aYjY8qLD0BQAAAABJRU5ErkJggg==",
+      "Name": "Book of Stone (Pg 1)",
+      "Description": "Words inscribed on a stone tablet",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7Ye+IkMQ7BbYCzhTnRBmB4AZ8LsBmM1QCqugBkGIyPzWBGZA4oGomJBbzRiOwCZNtp5gKKkzKGC4jRhOwCigHFXgAEAAD//9HjK9rEGf6AAAAAAElFTkSuQmCC",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Barrier",
-        "Other": [
-          "Duration: 1s",
-          "Radius: 64",
-          "Mana: 1"
-        ],
-        "Range": 0,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
       "Source": "Stoneheart Forest",
@@ -3069,112 +3117,99 @@
     },
     {
       "ID": 154,
-      "Name": "Book of Stone (Page 2)",
-      "Description": "A page from the Book of Stone",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAbElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAAM5rX1w9pTqIjgfxEYHjMgckBeIcQFeL8BcgGwzsmvo5wJkWwcmDNABNtup4gKKkzKGC4jRhOwCigHFXgAEAAD//6MpPCbqZa26AAAAAElFTkSuQmCC",
+      "Name": "Book of Stone (Pg 2)",
+      "Description": "Words inscribed on a stone tablet",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAb0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7Ye+IkCo0PMCJzQF4gxgV4vYDPZmcLcwwxrAZgU4gLEHQByDAYH5vBtA0DZNtp5gKKkzKGC4jRhOwCigHFXgAEAAD//01CNHVynzr2AAAAAElFTkSuQmCC",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Barrier",
-        "Other": [
-          "Duration: 2s",
-          "Radius: 48",
-          "Mana: 1"
-        ],
-        "Range": 0,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Alivarg's Tower",
+      "Source": "Stoneheart Forest",
       "Deprecated": false
     },
     {
       "ID": 155,
-      "Name": "Book of Stone (Page 3)",
-      "Description": "A page from the Book of Stone",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAAN+selw9qbFM+F8EBsdMCJzQF4gxgV4vQBzAbLNyK6hnwuQbR2YMEAH2GzHaQAuxdgAxUkZIwyI0YQcBhQDir0ACAAA///ZKTcXDhdRSwAAAABJRU5ErkJggg==",
+      "Name": "Book of Stone (Pg 3)",
+      "Description": "Words inscribed on a stone tablet",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAb0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7Ye+IkVhobYETmgLxAjAvwegGfjc4W5hhiWA3AphAXIOgCkGEwPjaDaRsGyLbTzAUUJ2UMFxCjCdkFFAOKvQAIAAD///ukNsPm2oUxAAAAAElFTkSuQmCC",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Barrier",
-        "Other": [
-          "Duration: 3s",
-          "Radius: 32",
-          "Mana: 1"
-        ],
-        "Range": 0,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "The Hanging Temple",
+      "Source": "Stoneheart Forest",
       "Deprecated": false
     },
     {
       "ID": 156,
-      "Name": "Book of Death (Page 1)",
-      "Description": "A page from the Book of Death",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAbElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAAP9npPg7MLteXA+iI0OGJE5IC8Q4wK8XoC5ANlmZNfQzwXItg5MGKADbLZTxQUUJ2UMFxCjCdkFFAOKvQAIAAD//5yZPCbpNUH3AAAAAElFTkSuQmCC",
+      "Name": "Book of Death (Pg 1)",
+      "Description": "Necromancy flows through these pages",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZUlEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7o95xEjEPAgBGZA/ICMS7A6wV8LijcnjcALgDZCuPT3wXIttPMBRQnZQwXEKMJ2QUUA4q9AAgAAP//Mso3jqLSCZoAAAAASUVORK5CYII=",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Damage: 9",
-        "Other": [
-          "Lifesteal",
-          "Radius: 32",
-          "Range: 160",
-          "Mana: 1"
-        ],
-        "Range": 160,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 20,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Elvewood Forest",
+      "Source": "Temple of Anubis",
       "Deprecated": false
     },
     {
       "ID": 157,
-      "Name": "Book of Death (Page 2)",
-      "Description": "A page from the Book of Death",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAAOhVhlw9upjM+B8EBsdMCJzQF4gxgV4vQBzAbLNyK6hnwuQbR2YMEAH2GzHaQAuxdgAxUkZIwyI0YQcBhQDir0ACAAA///wqDcy80MdBAAAAABJRU5ErkJggg==",
+      "Name": "Book of Death (Pg 2)",
+      "Description": "Necromancy flows through these pages",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7o95yEQuMDjMgckBeIcQFeL+CzuXB73gC4AGQrjE9/FyDbTjMXUJyUMVxAjCZkF1AMKPYCIAAA//9Xjzj4IkLW5wAAAABJRU5ErkJggg==",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Damage: 6",
-        "Other": [
-          "Lifesteal",
-          "Radius: 48",
-          "Range: 160",
-          "Mana: 1"
-        ],
-        "Range": 160,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 40,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Alivarg's Tower",
+      "Source": "Temple of Anubis",
       "Deprecated": false
     },
     {
       "ID": 158,
-      "Name": "Book of Death (Page 3)",
-      "Description": "A page from the Book of Death",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2rhdAAPGBgFw9tkLG+B8EBsdMCJzQF4gxgV4vQBzAbLNyK6hnwuQbR2YMEAH2GzHaQAuxdgAxUkZIwyI0YQcBhQDir0ACAAA//8r/Td2fOESXgAAAABJRU5ErkJggg==",
+      "Name": "Book of Death (Pg 3)",
+      "Description": "Necromancy flows through these pages",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZUlEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7o95yElcYGGJE5IC8Q4wK8XsBnY+H2vAFwAchWGJ/+LkC2nWYuoDgpY7iAGE3ILqAYUOwFQAAAAP//cQQ6YlNrsfoAAAAASUVORK5CYII=",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Damage: 3",
-        "Other": [
-          "Lifesteal",
-          "Radius: 64",
-          "Range: 160",
-          "Mana: 1"
-        ],
-        "Range": 160,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 60,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
       "Source": "Temple of Anubis",
@@ -3183,20 +3218,18 @@
     {
       "ID": 159,
       "Name": "Book of Flame",
-      "Description": "The coveted Book of Flame",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAh0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEJijJsOgpc6DVeO1m18YUm49QRGjbRiAbKTIAOeJDgQNIegFkCH4AEYgIoPn084QMp/K6QAELnzhYLhw9g8O5RyEDTjz8yfDqgs7sGrvMvcnbIAJOztWhbgAIzKHnKRMMaA4FgABAAD//4KfI6AS1IfSAAAAAElFTkSuQmCC",
+      "Description": "A completed, beginner spellbook",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEJijJsOgpc6DVeO1m18YUm49QRGjbRiAbKTIAOeJDgQNIegFkCH4AEYgIoPn084QMp/K6QAELnzhYLhw9g8O5RyEDQCBspMbsWrfe+IkA0NoEmEDusz9cbgAEzAic8hJyhQDimMBEAAA///KdiJTfUCNjwAAAABJRU5ErkJggg==",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Damage: 30",
-        "Other": [
-          "Radius: 64",
-          "Range: 160",
-          "Mana: 1"
-        ],
-        "Range": 160,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
       "Source": "Craftable",
@@ -3204,20 +3237,19 @@
     },
     {
       "ID": 160,
-      "Name": "Book of Life",
-      "Description": "The coveted Book of Life",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAj0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEMjasp/BUJ4Dq8bzD38wTPNxRBHD6QWQYncBPjCND+A0oEJfDIUm2YCOi69QaJINAIXDzg+fcIYHQQOIBdRNByBw5+JzhjsXKTDg7fmLDOv747AqTlmEaTKGAcKG+lgV4gKMyBxykjLFgOJYAAQAAP//RikpsyLAlnsAAAAASUVORK5CYII=",
+      "Name": "Elderword Book",
+      "Description": "You can't quite make out the markings",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAELCtkGPQVxXEqXlK8kUUPkEvXLz9Hq88XgNgmvEZQttYgIUFvjChfTrAZzsDtmi8f+UPw/0rr4l2AYYBIHBs+m6siveeOMmQuCWJsAFWma5Eu4ARmUNOUqYYUByNgAAAAP//oREgOpkTgHoAAAAASUVORK5CYII=",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Heal: 3",
-        "Other": [
-          "Radius: 80",
-          "Mana: 1"
-        ],
-        "Range": 0,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
       "Source": "Craftable",
@@ -3226,20 +3258,18 @@
     {
       "ID": 161,
       "Name": "Book of Stone",
-      "Description": "The coveted Book of Stone",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAh0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEJi/eh6DvJQUVo0Pnz1jSAxNwu0CZKAiJ4vCv/PoMVZ1eMMApAmXRqIMIAZQNxbQAXo4kGQAIb/jNODmoydgTCzAMODa7YcMU6qLsCqetmotYQO0VOWxKsQFGJE55CRligHF6QAQAAD//9ojJwmDjAOvAAAAAElFTkSuQmCC",
+      "Description": "I'm not sure how they stitched this together",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEJi/eh6DvJQUVo0Pnz1jSAxNwu0CZKAiJ4vCv/PoMVZ1eMMApAmXRqIMIAZQNxbQAXo4kGQAIb/jNODmoydgTCzA6oKssGCsiveeOEmcAdNWrSXaBYzIHHKSMsWA4nQACAAA//9EaSP8QMD68AAAAABJRU5ErkJggg==",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Barrier",
-        "Other": [
-          "Duration: 3s",
-          "Radius: 64",
-          "Mana: 1"
-        ],
-        "Range": 0,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
       "Source": "Craftable",
@@ -3249,20 +3279,17 @@
       "ID": 162,
       "Name": "Book of Death",
       "Description": "The coveted Book of Death",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEJhpUoFT440f7xn6r8zE7QJkhehAg0MQq6E4wwCmAZdGggbAXIHNNbR3AbomfIbgTQeEbGfAFgvzXh4lqAmvAfe+vWA4e2EDVsWhVhmEDVDiksCqEBdgROaQk5QpBhTnRkAAAAD//7dfIfaZ+3lwAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAh0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAECjUSWfQ4BDEqTn9TAduFyCDGz/eY4hhMxhvGMA04HMRXgNgrsDmGtq7AF0TLkMIpgN8tjNgi4VjH68xHPtIyFg8BoDA6mMzsCree+Ikw8nQw4QNCLXKINoFjMgccpIyxYDi3AgIAAD//6mSIOK6UHg5AAAAAElFTkSuQmCC",
       "EquipType": "Ability",
-      "Weapon": null,
-      "Ability": {
-        "Description": "Damage: 9",
-        "Other": [
-          "Lifesteal",
-          "Radius: 64",
-          "Range: 160",
-          "Mana: 1"
-        ],
-        "Range": 160,
-        "Cost": 1
+      "Weapon": {
+        "Damage": 80,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
       },
+      "Ability": null,
       "Consumable": null,
       "Modifiers": [],
       "Source": "Craftable",
@@ -3445,11 +3472,12 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAzklEQVR4nGJhQAKcXCL/GdDA929vGNHFCKljQZf0y0hmeHTjJph94cARrAaAgIGDDZiW01Bn2DRjLoochqEwhSCDQRq/ff6EIc/FywdXhw1gNRQGYAa6NE6Ei+2pzweLwwzGBpjwGYoM1hakEKuUeEODJ8wh2lC83gd5EeRVkJfRxUk2FDn2YUDNWI/h1tlLcD4oEkHqsEUWShrElf5A4i6Kcgx77j+C87Gpw+pSbAkdGyCkjuiIIgWMGjpq6Ig1lKhsiZzXicnKgAAAAP//FtZOZ5P/wKQAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 15,
+        "Damage": 30,
         "Class": "Hammer",
-        "Rate": 0.4,
-        "Projectiles": 5,
-        "StrengthScaling": 2
+        "Rate": 1,
+        "Projectiles": 1,
+        "StrengthScaling": 3,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -3502,7 +3530,8 @@
         "Class": "Sword",
         "Rate": 1,
         "Projectiles": 2,
-        "StrengthScaling": 2.5
+        "StrengthScaling": 2.5,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -3557,11 +3586,12 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAqklEQVR4nGJhIAJwcon8h7G/f3vDSEg9EzGGgkChnS6xShlYsLkGG7j8+CNBdTBfoHj/0eOrWBXLyWqTpIYJlwSIjcxHV4euFhkQHaakABTv7zu6AysbHaDLgfhO1h7YDVWRk4V7BRR22LyPTR49nPGGKQOWdAnj4wtTFnTFuICuLD/DnvvEqaVJRI0aOtwMhZVSVDWUFDCwhoJyFLGAYH3DQEYdBQgAAP//Gzw+rafhOmwAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 15,
+        "Damage": 20,
         "Class": "Hammer",
-        "Rate": 0.4,
-        "Projectiles": 5,
-        "StrengthScaling": 1
+        "Rate": 1,
+        "Projectiles": 1,
+        "StrengthScaling": 2.5,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -3576,11 +3606,12 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeElEQVR4nGJioBDgNICTS+Q/CJNtAAg8vbWXgZAheA04c+YcQUMIhgEhQ2gXiN+/vWH0jyol3wCKXUBMFOI0AKR547JuylwAAjBDQDFBEoClQhCe3FmGN0VidQEoBkCYGMsIxoK6uiZeeby2IDudWBeRDAABAAD//+kSL9zSKEINAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 11,
+        "Damage": 10,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -3595,11 +3626,12 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA5klEQVR4nGJiGGAw6oABdwALKYo5uUT+w9jfv71hpIYDiA4BmOVd9UlwPjZMqgOI8gXIYJjF6uqaeNX6R5WCaWJDiKQoIGQ5CGxc1g1zyH9iHEKSA2DAxMQIq/iZM+ewOgSfI0h2AC7Lcck9vbWXQVrNGacjSHLAzZvXwRgEoqOjQQYT1ANyAFUALJVP7iwjKcUTUkt0NoQF4d37j1D4xOjDp3bAS0KyHUBOoUM1B6THuVDDbvIcMHPRHqpZTrIDqFUBke0AWoBRB4w6YNQBow4YcAeQBahVEw4KMOBRMOAOAAQAAP//fIJWsyc0xL8AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 15,
+        "Damage": 12,
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -3768,7 +3800,7 @@
       "ID": 188,
       "Name": "Rockshard Ring",
       "Description": "A basic rockshard band",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAr0lEQVR4nGJioBAMvAEshBRwcon8R+Z///aGEZnPSEjz/NXzUMQSQ5NQDMHpBXTNNx89AdMVvU0orsLqAnTNIFthwC8jmUFLVZ6ho7gO7BIMF2DTDFIIczZIMzJgIkYzspprtx/iNgAZoGsGGQ5yPjrAagAswLBpRvY/A650oC4nA9fIAA04bJoZsMUCSBMoqkB+BWmA+RmbZqwGIBuCDLBpxmkAAxFJmGoAEAAA//9Ux2CDBBOpWwAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAsUlEQVR4nGJioBBQbAALPklOLpH/yPzv394woqvBEEDWPH/1PBSxxNAkDEOwegFd881HT8B0RW8ThqswXICuGWQrDPhlJDNoqcozdBTXwV3CREgzSCFMMUgzOmAipBlZ8bXbD3EbgAzQNYMMBzkfG8AwABZg2DSj+58BWzpQl5OBa2SABhwuzQzosQDSBIoqkF9BGmB+xqUZwwBkQ5ABLs1YDWAgMglTDVCcGwEBAAD//1DDYIOxTOOjAAAAAElFTkSuQmCC",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -3837,13 +3869,7 @@
       "Consumable": null,
       "Modifiers": [
         {
-          "Filter": "Without Sword:",
-          "Modifiers": [
-            "+1 Lifesteal Chance"
-          ]
-        },
-        {
-          "Filter": "With Sword:",
+          "Filter": "",
           "Modifiers": [
             "+2 Lifesteal Chance"
           ]
@@ -3865,7 +3891,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Lifesteal Chance"
+            "+4 Lifesteal Chance"
           ]
         }
       ],
@@ -3896,7 +3922,8 @@
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -3922,7 +3949,8 @@
         "Class": "Crossbow",
         "Rate": 1,
         "Projectiles": 1,
-        "StrengthScaling": 0
+        "StrengthScaling": 0,
+        "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
@@ -3967,7 +3995,1196 @@
           ]
         }
       ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 198,
+      "Name": "Wedding Band",
+      "Description": "A simple, golden wedding ring",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAnElEQVR4nGJioBBQbAALPklOLpH/yPzv394woqvBEEDWfHWKLoqYds5lDEOwegGbZhAAiaG7CsMF6JpBtsLA1lxxBgV1MRSXMBHSDFIIUwzSjA6YCGlGVvzg5ivcBiADdM0gw0HOxwYIpgNkzej+Z8CXDmChjU8zA3oswMIB5FeQBpifcWnGMICBhASE0wAGIpMw1QDFuREQAAD//7hYWxOCIFE8AAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Strength"
+          ]
+        }
+      ],
+      "Source": "Coolcrab Grotto",
+      "Deprecated": false
+    },
+    {
+      "ID": 199,
+      "Name": "Pirate Diary (Pg 1)",
+      "Description": "The sea is wide and the sky is dark.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7wi00nxiG4Ddi0eCbRBmB4AZ8LsBmM1QCqugBkGIyPzWBGZA4oGomJBbzRiOwCZNtp5gKKkzKGC4jRhOwCigHFXgAEAAD//+nGLRaj4pUmAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Pirate Cove",
+      "Deprecated": false
+    },
+    {
+      "ID": 200,
+      "Name": "Pirate Diary (Pg 2)",
+      "Description": "A pirate sails with a broken heart.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAb0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7wi01HofEBRmQOyAvEuACvF/DZvGnxTAwxrAZgU4gLEHQByDAYH5vBtA0DZNtp5gKKkzKGC4jRhOwCigHFXgAEAAD//29uMzm9LiXQAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Pirate Cove",
+      "Deprecated": false
+    },
+    {
+      "ID": 201,
+      "Name": "Pirate Diary",
+      "Description": "Lost in the waves, a ghostly mark.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEDBwsGGQ01DHqvHRjZsMFw4cQREbZGEAAktDPjIwMJzCrlqHgUH7AK1dEL2GH28gogPqu+D5k+dgTLYBIHB6/yasiveeOMmQGJpE2ABTRz+iXcCIzCEnKVMMKI4FQAAAAP//6VUh177WSKMAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 202,
+      "Name": "Dance Notes (Pg 1)",
+      "Description": "One and two and three...",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAa0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAELhWNRGvZq22fBQ+Vi8c3vWcGIfgNsDWTZJoAzC8gM8F2AzGagBVXQAyDMYn2wX4XITXBci2k+0CQuFBcVJmROaQk5QpBhR7ARAAAP//l+MgOhXoQpcAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Coolcrab Grotto",
+      "Deprecated": false
+    },
+    {
+      "ID": 203,
+      "Name": "Dance Notes (Pg 2)",
+      "Description": "...and one and to and three",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAb0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAELhWNRGvZq22fBQ+Vi8c3vUchcYHsBpg6yaJQuMDGF7AZzM2A7EaQIzNRLsAZBiMT7YL8LkIrwuQbSfbBYTCg+KkzIjMIScpUwwo9gIgAAD//zrOIzo8nWWFAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Coolcrab Grotto",
+      "Deprecated": false
+    },
+    {
+      "ID": 204,
+      "Name": "Book of Dancing",
+      "Description": "Dance! Dance!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAi0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAECjUSWfQ4BDEqTn9TAcKH6cXbvx4D8bobHSA4QIYQHYFPhfhNABmMyFD8HoBH5+gAeg24nIBXi/g8ztOA459vMZw7CNBffhdMD82BKvi52c/MTg/PkzYgMTFa4h2ASMyh5ykTDGgODcCAgAA///jaivAujZGhwAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 205,
+      "Name": "Elven Tale (Pg 1)",
+      "Description": "Lorendel once great",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF74vDGCGIfgNoDXfwXRBmB4AZ8LsBmM1QCqugBkGIyPzWBGZA4oGomJBbzRiOwCZNtp5gKKkzKGC4jRhOwCigHFXgAEAAD//1xPLCyOvj3CAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Elvewood Forest",
+      "Deprecated": false
+    },
+    {
+      "ID": 206,
+      "Name": "Elven Tale (Pg 2)",
+      "Description": "Dark power's tempting blight",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAb0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF74vDEChcYHGJE5IC8Q4wK8XsBnM6//CgwxrAZgU4gLEHQByDAYH5vBtA0DZNtp5gKKkzKGC4jRhOwCigHFXgAEAAD//wqoNCOvQXGmAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Elvewood Forest",
+      "Deprecated": false
+    },
+    {
+      "ID": 207,
+      "Name": "Elven Tale (Pg 3)",
+      "Description": "From grace to shadowed fate",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAb0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF74vDECK40NMCJzQF4gxgV4vYDPRl7/FRhiWA3AphAXIOgCkGEwPjaDaRsGyLbTzAUUJ2UMFxCjCdkFFAOKvQAIAAD//8v2Nh9RuBLiAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Elvewood Forest",
+      "Deprecated": false
+    },
+    {
+      "ID": 208,
+      "Name": "Elven Tale",
+      "Description": "Corruption. lost his light",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAh0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAENiaK86goC7GwKWsz/Dt7kUMWjvnMop62oUByDZ8fNq7AORnZJthfJJdgEsj0QYQAhjReOoKCL9iYGDYDRVBpwkYAALJi/ZhVXy5y4mBYT8RBsyNc8LrbGTAiMwhJylTDCiOBUAAAAD////iKN2woRp6AAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 209,
+      "Name": "The Might of Grug (Pg 1)",
+      "Description": "rock big. grug lift.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAg0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7wi00nxiG4Ddi0eCbRBmB4Ad0FIMNgfGwG44wFZMUgNi5X4TQA2RUgNq5wYUTmgKKRmFjAG43ItiP7n4GUMEBXiC9WKPYChgF4dUMBsgEUA4pzIyAAAP//r/U1AEXTytsAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Grug Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 210,
+      "Name": "The Might of Grug (Pg 2)",
+      "Description": "grug strong. grug throw rock.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7wi01HofEBRmQOyAvEuACvF9Bt3rR4JpwPYqMDnLGArBjExqYZrwHIrgCxcYUHbcMA2f8MpIQBukJc/qeKFzAMwKsbCpANoBhQnBsBAQAA//81nTsjoeN0wgAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Grug Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 211,
+      "Name": "The Might of Grug (Pg 3)",
+      "Description": "human weak. rock crush tiny human.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7wi03HSmMDjMgckBeIcQFeL6DbuGnxTDgfxEYHOGMBWTGIjU0zXgOQXQFi4woH2oYBsv8ZSAkDdIW4/E8VL2AYgFc3FCAbQDGgODcCAgAA//9P3Tw1rwmrjQAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Grug Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 212,
+      "Name": "The Might of Grug",
+      "Description": "grug defeat tiny human. lady grug impressed.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAg0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEBBXUWaQlJFkkNNQZ3h04yYGfeHAERT1RHsBpBkbINoAkAtIMgDdRpJdgG4j/V1ASCMMYETj1/cfGe68/0jIXNwGgMC1CwexKjZ19GP48vYNYQO0DOzJdwG6DTQHFOdGQAAAAP//uMkv0zVQ8BkAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 213,
+      "Name": "Scorpion Scribblings (Pg 1)",
+      "Description": "scrr scrree scrr scree! scr scrree.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7o95xEjEPAgBGZA/ICMS7A6wV0FxRuz4PzQWx0gDMWkBWD2Ng04zUA2RUgNq5woW0YIPufgZQwQFeIy/9U8QKGAXh1QwGyARQDinMjIAAA//8XLzm5JQmyGgAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
       "Source": "Scorpion Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 214,
+      "Name": "Scorpion Scribblings (Pg 2)",
+      "Description": "scrr scree. scr scree scrree.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7o95yEQuMDjMgckBeIcQFeL6DbXLg9D84HsdEBzlhAVgxiY9OM1wBkV4DYuMKDtmGA7H8GUsIAXSEu/1PFCxgG4NUNBcgGUAwozo2AAAAA//879DsjL4dofgAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Scorpion Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 215,
+      "Name": "Scorpion Scribblings (Pg 3)",
+      "Description": "scree skrr sre-scre scr...",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7o95yElcYGGJE5IC8Q4wK8XkC3sXB7HpwPYqMDnLGArBjExqYZrwHIrgCxcYUDbcMA2f8MpIQBukJc/qeKFzAMwKsbCpANoBhQnBsBAQAA//9VaTyN6Bb1PwAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Scorpion Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 216,
+      "Name": "Scorpion Scribblings",
+      "Description": "SCREE! SCREE! SCREE!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqklEQVR4nGJioBCwoAtwcon8x6fh+7c3jMh8RnTN5rK2eG08+fgwiiEs6Jqt+LUYjn28BqZhAJ1/8vHh/zBDMMKAkGZ0gBEGIMUaHIIMN368B9MMDKiGoQOssQDTDKNBGJdLsHoB3RAQhoUNQQNgCmGaYYaC+ES5AGYIsmZkPjrACERszsQmhtOA1cdm4FQMAv2ek8CJCQYoTomM6ApIzQsUA4qzMyAAAP//CVtlfXBTPAAAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 217,
+      "Name": "Antibind Manual (Pg 1)",
+      "Description": "656E657267697A65",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF4ILFxEjEPAgBGZA/ICMS7A6wV0F6zvj4PzQWx0gDMWkBWD2Ng04zUA2RUgNq5woW0YIPufgZQwQFeIy/9U8QKGAXh1QwGyARQDinMjIAAA//8XLzm/oxouuAAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Ancient Ruins",
+      "Deprecated": false
+    },
+    {
+      "ID": 218,
+      "Name": "Antibind Manual (Pg 2)",
+      "Description": "696E76657274",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF4ILFyEQuMDjMgckBeIcQFeL6DbvL4/Ds4HsdEBzlhAVgxiY9OM1wBkV4DYuMKDtmGA7H8GUsIAXSEu/1PFCxgG4NUNBcgGUAwozo2AAAAA//8qEjsjepBcqgAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Ancient Ruins",
+      "Deprecated": false
+    },
+    {
+      "ID": 219,
+      "Name": "Antibind Manual (Pg 3)",
+      "Description": "6163746976617465",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF4ILFyElcYGGJE5IC8Q4wK8XkC3cX1/HJwPYqMDnLGArBjExqYZrwHIrgCxcYUDbcMA2f8MpIQBukJc/qeKFzAMwKsbCpANoBhQnBsBAQAA//8x1TyHCNV2lAAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Ancient Ruins",
+      "Deprecated": false
+    },
+    {
+      "ID": 220,
+      "Name": "Antibind Manual",
+      "Description": "716564",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEDAOKcer+eyaThQ+Vi8IG+qjsGEYG8BwAbLGt+cvgjE+gNUAZE3INmMzDKcXCGnEawA2A3EBgl4gOQxuH1pLjKPwu+DK2Y1YFVv5ljJ8enWHsAE6xv7kuwDdBpoDinMjIAAA//8yfyjNEEzN8gAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 221,
+      "Name": "Bloodletting Ritual (Pg 1)",
+      "Description": "Dark rites under moon",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAf0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oMvcnxiG4DSg7uZEyA2CuQHYJLlcRFQv4vMSIzAHFAjGBiBwLRHkB3Ts4AcgFr9++xIpLVSzANHpaIdoFuADFYYBhAF7dUIBsAMWA4twICAAA///RbUYqXk3aZwAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Succubus Lair",
+      "Deprecated": false
+    },
+    {
+      "ID": 222,
+      "Name": "Bloodletting Ritual (Pg 2)",
+      "Description": "Demonic blood spills as one",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oMvdHofEBRmQOyAvEuADZCzgDEWQ7sgtwuYaoWMDnFfp4Ad07OAHIBa/fvsSKS1UswDR6WiHaBbgAxWGAYQBe3VCAbADFgOLcCAgAAP//THdMSRX4ZdwAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Succubus Lair",
+      "Deprecated": false
+    },
+    {
+      "ID": 223,
+      "Name": "Bloodletting Ritual (Pg 3)",
+      "Description": "Crimson rivers flow",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oMvfHSmMDjMgckBeIcQGyF3AGIshWZJtxuYKoWBh4L6B7BycAueD125dYcamKBZhGTytEuwAXoDgMMAzAqxsKkA2gGFCcGwEBAAD//2E/TVlnwr9XAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Succubus Lair",
+      "Deprecated": false
+    },
+    {
+      "ID": 224,
+      "Name": "Bloodletting Ritual",
+      "Description": "Night whispers secrets unknown",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAl0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAELAQlmUwYWdnMOD5wXDhCwdcHMaf8uwOinqCXgBpxAcIGoDsCpIMgGmEuQCXQTgNQHc6Lq8QdAEuPtEuQPcKOmBE5oDSgTS3MC4zweDp17f40wEIHL9xCKvmvSdOMiSGJqGIYTXAUsMOryvwGgByIl0BxbkREAAA//9x9i9VjwPJYQAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 225,
+      "Name": "Book of Slime (Pg 1)",
+      "Description": "It's too covered in slime to read",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAELCtkMOr+XDHIxQ+hhf0VQXBipZmbwdjEADRIHEQxgtAXnj99iUKLl3ujMJH9yaGF0BATlYbhT+FAcJ/9PgqhlqsBmBTiAsQdAHIMBifbBcQ7SJQAIECDUTDAhTGRpbD64KLt9+DbYye6gnm58zVh4uDMDpgRHcBMQkJOSViGECMV5ENoBhQnBsBAQAA///vKGixuKoeyQAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Slime Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 226,
+      "Name": "Book of Slime (Pg 2)",
+      "Description": "It's too covered in slime to read",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAELCtkMOr+XDHIxQ+hhf0VQXBipZmb4crBrFB4iCMF4C88PrtSxRcutwZhY/uTQwvgICcrDYKfwoDhP/o8VUMtVgNwKYQFyDoApBhMD7ZLiDaRaAAAgUaiIYFKIyNLIfXBRdvvwfbGD3VE8zPmasPFwdhdMCI7gJiEhJySsQwgBivIhtAMaA4NwICAAD//xoNaRdIWw6FAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Slime Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 227,
+      "Name": "Book of Slime (Pg 3)",
+      "Description": "It's too covered in slime to read",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAELCtkMOr+XDHIxQ+hhf0VQXBipZmb4crBtEgcRDGC0BeeP32JQouXe6Mwkf3JoYXQEBOVhuFP4UBwn/0+CqGWqwGYFOICxB0AcgwGJ9sFxDtIlAAgQINRMMCFMZGlsPrgou334NtjJ7qCebnzNWHi4MwOmBEdwExCQk5JWIYQIxXkQ2gGFCcGwEBAAD//0GzaX248U+rAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Slime Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 228,
+      "Name": "Book of Slime",
+      "Description": "It's stuck shut from all the slime",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEJDxkWJQ1MEQBoP7V/4wPNnyDEUMrxdAGkAYH8BpAEgjyCUgjM8Q6gYiMkC2GVeY4DWAkEYYoL4Xvtz9z3D57m/yDQCB/unaDGfvvmYwVhaF0zCQ6PAcRS2GF0CaQWBJzyuGwsyrYDbIEBgbHTAic8hJyhQDimMBEAAA///1QjTcaxNKIgAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 229,
+      "Name": "Monk Aegis (Pg 1)",
+      "Description": "Discipline",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oj44gxiFgwIjMAXmBGBcgewGnC2CuQGZjA1gNKFy6AoNPlLdAXnj99uX/Kg9HMA3DyHz0mKJ9GGDjIwOcKREWDiCN6GFCVS9gGIBXNxQgG0AxoDg3AgIAAP//m3NRu9pGBG4AAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "The Hanging Temple",
+      "Deprecated": false
+    },
+    {
+      "ID": 230,
+      "Name": "Monk Aegis (Pg 2)",
+      "Description": "Patience",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oj45AofEBRmQOyAvEuADZCzhdgOwKfC7BakDh0hUYfGK8A/bC67cv/1d5OIJpGEbmo8cU7cMAGx8Z4EyJsHAAaUQPE6p6AcMAvLqhANkAigHFuREQAAD//0tCUv3qKxynAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "The Hanging Temple",
+      "Deprecated": false
+    },
+    {
+      "ID": 231,
+      "Name": "Monk Aegis (Pg 3)",
+      "Description": "Clarity",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oj47ASmMDjMgckBeIcQGyF3C6ANl2fC7AakDh0hUYfHyGwAHIC6/fvvxf5eEIpmEYmY8eU7QPA2x8ZIAzJcLCAaQRPUyo6gUMA/DqhgJkAygGFOdGQAAAAP//8PJUP9/5SnYAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "The Hanging Temple",
+      "Deprecated": false
+    },
+    {
+      "ID": 232,
+      "Name": "Monk Aegis",
+      "Description": "Balance",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAj0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAECi002Uw1hfDqTlm8l7cLsAGzl58BWdjM5ioMMjtLcIph9MFyDZPLu4j3QAQuPz4I4OuLD/eMMHrBZBmQgCnC/DZitcAkLNBmFiA1QXzDm3HqnjviZMMe0KTCBuQZOdJtAsYkTnkJGWKAcW5ERAAAP//R94kEB7oF+oAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 233,
+      "Name": "Spellthief Tome (Pg 1)",
+      "Description": "A mysterious ancient rune",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAc0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF5IWXSRGIfgNmBOnD5lBiC7AkTDMEkGILsGn4uoG43ogJjAxOsCmNPxeYNiLzAic0ApkZiEhJwSMQwgxlZkAygGFIcBIAAA//8zOiQj3eoebAAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 10,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Alivarg's Tower",
+      "Deprecated": false
+    },
+    {
+      "ID": 234,
+      "Name": "Spellthief Tome (Pg 2)",
+      "Description": "A mysterious ancient rune",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAd0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF5IWXQRhcYHGJE5IC8Q4wJkL+AMRJDtyC7A5Rq8sTAnTh+vawgagM9mogwgJjAxohEZIHuBrDAgBlAcjRgGEGMrsgEUA4rDABAAAP//CSUsA1sDeGQAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 20,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Alivarg's Tower",
+      "Deprecated": false
+    },
+    {
+      "ID": 235,
+      "Name": "Spellthief Tome (Pg 3)",
+      "Description": "A mysterious ancient rune",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAd0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF5IWXQRK40NMCJzQF4gxgV4vYDuCmQwJ04fQwynAegacHmDYDTi8z9RBhAyhCgDsPmdaAPwaWagRjRiGEDIRQxoSZliQHFuBAQAAP//8RAqqRyUuW8AAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 30,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Alivarg's Tower",
+      "Deprecated": false
+    },
+    {
+      "ID": 236,
+      "Name": "Spellthief Tome",
+      "Description": "The book feels heavy with magical energy",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAj0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEBBXUWaQlJHEqfnCgSO4XYAMxFyzMMRe7Z6GIYbTAHQN2AxkoEYg4jUAZisu2/EagO5fbP7HawC6rbhcgTMQkW3EZTtWA76+/8hw5/1HnBqIcsG1CwexKjZ19GP48vYNYQO0DOzJdwG6DTQHgAAAAP//BJIoIIIx2SAAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 30,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 237,
+      "Name": "Immortal Chains (Pg 1)",
+      "Description": "You feel eerie holding this",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEBBXUcar+eWduyh8rF6I4nAhxiG4DVj2Yw/RBmB4AZ8rsBmMNxZgGvC5iLbpAOYNfIGKMwxgzgZpxucFogIRxsZmEEEXEAKMyBxykjLFgOJoBAQAAP//BqQihIeV3lEAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Chamber of the Awakened",
+      "Deprecated": false
+    },
+    {
+      "ID": 238,
+      "Name": "Immortal Chains (Pg 2)",
+      "Description": "You feel eerie holding this",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeUlEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEBBXUcar+eWduyh8rF6I4nBBofEBRmQOyAvEuADZCzgDEd12XK4hGAuEvIHXAGLCAiMWYGDZjz1wzTA2TVyA1wCYzWS7gJBmBmzpgJCBDGhJmWJAcW4EBAAA///WPCRhdduOwwAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Chamber of the Awakened",
+      "Deprecated": false
+    },
+    {
+      "ID": 239,
+      "Name": "Immortal Chains (Pg 3)",
+      "Description": "You feel eerie holding this",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEBBXUcar+eWduyh8rF6I4nDBSmMDjMgckBeIcQFeL2BzCQgs+7EHqxq8sQDThEszXhcg2w5jYzOIYhfgNABdEy5DKPYCTgPwORsZYKQDYjQhpwOKAcW5ERAAAP//Sv4u3Ub2QzYAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Chamber of the Awakened",
+      "Deprecated": false
+    },
+    {
+      "ID": 240,
+      "Name": "Immortal Chains",
+      "Description": "The book is drawn to the loyal one.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAnklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEOARFmHgFuTHqfnlnbsofJxeiOJwwcsnaAAhjUQZANJ87OM1vIbgNWD287UMVvxaYBoXYETmgGIBORCRbV72Yw+YBgUicizgdQFME4wm2QuENDNgSwcg8PX9R0Lm4jcgVTIYq2JQjJx8exhFDGsg4gNf3r7Bn5RBCugKAAEAAP//pCI1Slj7epoAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 241,
+      "Name": "Mining Helmet",
+      "Description": "A bright light attached to a solid helmet",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAj0lEQVR4nGJioBAMAwNY0AU4uUT+49Pw/dsbRmQ+I7pmAwcbBjkNdZwGbJoxF8UQFmTNfhnJYPajGzfBNMigif4/UQx4dMOG4cKBI/9hhmANA5BGEIYZxKxTCcYwOWTAguxvmAZ08PdKO5ILbsJdDHIFI7rziQWwsGBkICLkcQH0GCELDHxKHHgDAAEAAP//Cho3K5jaufcAAAAASUVORK5CYII=",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "With Hammer:",
+          "Modifiers": [
+            "+15 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Volcanic Mines",
+      "Deprecated": false
+    },
+    {
+      "ID": 242,
+      "Name": "Mining Boots",
+      "Description": "Heavy duty boots",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABEUlEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBbHBhjRNfv5+TEsW77xv19GMlx804y5DDzcjHC1r1+/xm3Al6//wZof3bgJF79w4Aic7eBoz3jm1CG4ISy4/IasCc01/0GGbN+6FjUMQLZbWVmB2SDbYZpgroFhEP/A/oP/YfrgLkD3Oy4vyGmoYw9EUGhX9DaB2dduP4QHnoGDDYomkMEgA79/e8OIMwy0VOUZOorrGLC5Bh3AwwAUMCBNIACiQa4BGQRzNswVINs1tTUZMQwARQ2yIciuQXY6SPPjBzcwXQCKV5AhoARjbGKAYhDIEGTNyAkJKwBFKSj5IidnI1NbnMmZIkBxbgQEAAD//8yxhqWFBkkXAAAAAElFTkSuQmCC",
+      "EquipType": "Boots",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Strength",
+            "+1 Vitality",
+            "+3 Guard"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 243,
+      "Name": "Dwarven Hammer",
+      "Description": "Now that's some fine dwarven artisanship",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAArklEQVR4nGJhIANwcon8Rxf7/u0NI4yN1VBsmtCBgYMNmJbTUGfYNGMuihxOl4qrKDPw83PjNRhkIDZAlPe5ePng7G+fPxFUz0SMoSDw/MlzYpUSb6ikjCTRhhLlfWK8TJShL+/cZXiJxFcz1mO4dfYSnA+K/Uc3bmKNLEZibAYlMRdFOYY99x+B0yNZ6ZQQQDYAGyA6okgBo4aOGjpiDSU678PYhLIoCAACAAD///jLLj3iiwZ1AAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 25,
+        "Class": "Hammer",
+        "Rate": 1,
+        "Projectiles": 1,
+        "StrengthScaling": 3,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 244,
+      "Name": "Dwarven Ring",
+      "Description": "A simple dwarven ring",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtElEQVR4nGJioBBQbAALPklOLpH/yPzv394woqvBEEDWWNHbhCLeUVyHYQiGASDN4irKDImZ8VhdhW4IEzbN6BpAGASu3X7I4JeRjOI1jDBAthnZto7iuv8gzeiACdl2ZD9j8+/JPQdwG4DPn9i8htcAZICs2dzFgWHTjLm4AxEGQF4BaUS3GZsXGNFtA2kGhTayBpDNIPbLO3eJSwfooQ1yNgM5KREGsGmkGqA4NwICAAD//5EFXAQAdkF9AAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Strength",
+            "+3 Guard"
+          ]
+        }
+      ],
+      "Source": "Volcanic Mines",
+      "Deprecated": false
+    },
+    {
+      "ID": 245,
+      "Name": "Dwarven Chainmail",
+      "Description": "It's a bit short...",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAnUlEQVR4nGJioBAMvAEsyBxOLpH/MPb3b28YiZWDKwgvKv+/Yuum/43Tp/1H1gBig8RAciA1yHI4veCXkQzWCMIgNi6A4cyK3iYGdTkZhpuPnqAohIl1FNeheAHDBTCFIBqfGE4DYAqRXYBNjHYuWL/3KE4XgOTwGgAKnE0z5sINQXYBSAwkh54GMBMEWqJBtwCbOEVg4DMTIAAA//+FJmPxpQK9tgAAAABJRU5ErkJggg==",
+      "EquipType": "Armor",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "With Hammer:",
+          "Modifiers": [
+            "+10 Dexterity"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 246,
+      "Name": "Mythril Blade",
+      "Description": "A sharp Mythril blade",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAgklEQVR4nGJiIAJwcon8J0YdUQBkWPG+y/+JNZQoF5ICiDYwa8t+orxOlIF3Lj4n1l7iDFTRl6SugVR3ISlg1MujBpIBGPFJgvKuuIoyg6QMJNk8f/Kc4eWduwzfv73Bqw8vABlq6RUALr6oVjjAADEuI8pAkFepBoj1KgwAAgAA///VqSlKlHMgpgAAAABJRU5ErkJggg==",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 12,
+        "Class": "Sword",
+        "Rate": 2,
+        "Projectiles": 2,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 247,
+      "Name": "Mythril Dagger",
+      "Description": "A sharp Mythril dagger",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjklEQVR4nGJioBDgNICTS+Q/CJNtAAi4tS5jIGQIXgPenr/IkLVlP15D8BogbKiPT5qwASBw5+JzvK6gXSwwQMMABE4u2EGe6SBnF++7jDc6GfFpFldRZpCUkWR4/uQ5w8s7dxm+f3uDoR6vF0CakGlsAKcB6LZhs52gC0AA5HyyAbH5gSJAcUICBAAA//9dTjSKUB1gDQAAAABJRU5ErkJggg==",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 10,
+        "Class": "Sword",
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 248,
+      "Name": "Mythril Throwing Knife",
+      "Description": "A sharp Mythril throwing knife",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAkElEQVR4nGJioBDQ1wBOLpH/ZNsE0uzfv+s/uiFEuQCkyTiknOHt+YsYciyENIJokGYQOLumk+H7tzeMRBkA0uzWugzMBtmMTTNOLyBrVtGXZDBP8MDpSgwD0DUTAkzEaJ7m44jV+QzIYQDSnLVlP4YCfJqxeoEUzXgNIEYzCMAVoKcwYjRTBVCcGwEBAAD//9CuPLtIJRMgAAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 10,
+        "Class": "Throwable",
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 249,
+      "Name": "Mythril Greatblade",
+      "Description": "A sharp Mythril greatblade",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAlklEQVR4nGJiIAA4uUT+gzAhdciAoKEgkLVlP0mGE2UozGCY4VQx9M7F5yiGEzKYaJeSAog2FNm1VDOUFECUoW/PX6S+ocKG+tQ3lCYuJRWMen+ADSU2VzHikwQVHOIqymC2pIwkXPzCgSMM37+9wamXoKHIfAMHG7CBIIDPUBZ8hiJrRLYAn4EMtIooogEp1QkgAAD//4jtNfCznyssAAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 16,
+        "Class": "Sword",
+        "Rate": 1,
+        "Projectiles": 2,
+        "StrengthScaling": 3,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 250,
+      "Name": "Mythril Bow",
+      "Description": "A bow crafted from the finest Mythril",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR4nGJiwAI4uUT+gzA2OYIApHHJ3dtgTJYhIE2v3778DzOIZEOQDSDGEKxhQBFAdgEDUpjgcgXFLiDKgPMPf1BmAMUuMJTnoJ0LMMDgSgdkJ2WKMhMDidkZEAAA//9xo1HgojE4WQAAAABJRU5ErkJggg==",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 6,
+        "Class": "Bow",
+        "Rate": 2.5,
+        "Projectiles": 3,
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 251,
+      "Name": "Dwarven Drums (Pg 1)",
+      "Description": "Hammers strike with might!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZUlEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oj44gxiFgwIjMAXmBGBfg9QI+FxQuXTEALgDZCuPT3wXIttPMBRQnZQwXEKMJ2QUUA4q9AAgAAP//soU3ZoAzhrcAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Volcanic Mines",
+      "Deprecated": false
+    },
+    {
+      "ID": 252,
+      "Name": "Dwarven Drums (Pg 2)",
+      "Description": "In the forge's glowing light!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oj45AofEBRmQOyAvEuACvF/DZXLh0xQC4AGQrjE9/FyDbTjMXUJyUMVxAjCZkF1AMKPYCIAAA//9iVDiopKnZfAAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Volcanic Mines",
+      "Deprecated": false
+    },
+    {
+      "ID": 253,
+      "Name": "Dwarven Drums (Pg 3)",
+      "Description": "Mountains echo proud!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZUlEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7oj47ASmMDjMgckBeIcQFeL+CzsXDpigFwAchWGJ/+LkC2nWYuoDgpY7iAGE3ILqAYUOwFQAAAAP//CBM56r4XV2UAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Volcanic Mines",
+      "Deprecated": false
+    },
+    {
+      "ID": 254,
+      "Name": "Dwarven Drums",
+      "Description": "Dwarven hearts beat loud!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiUlEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHBRlGPQleVnMNYXYzh78RUG3X/oMop62oUByDZ8fNq7AORnZJthfJJdgEsj0QYQAozIHFA6AEUjPrDn/iP86QAE5h3ajlXztFVrGfYU16GIYTUgyc4TryuQAYYXiNGE7AWKAcWxAAgAAP//nDMqv2ve//gAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 1
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 255,
+      "Name": "Mythril Bar",
+      "Description": "A solid bar of mythril",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdUlEQVR4nGJioBAMvAEshBRwcon8Rxf7/u0NI4zNSEjz7MvHMcRTdS3hhuD0Ai7NqzfdR+FjNYBYzVgNIEUzhgHEaN5VHYU9EEGas7bsx9B85+JznJqxegEXwKaZaANwaWZATwfYEg0DWsKhOhj4zAQIAAD//+tZPLUDgARXAAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 256,
+      "Name": "Corrupted Heart",
+      "Description": "A corrupted heart",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7UlEQVR4nKSTUQuCMBSFlxihBhUJRa/1/3+RvUaCUUEq0YNxhsfu7pYvHhibl+27Z/fOyExUrANJmneY26aayW8Zk4r04eU2d753p6NZpJkdEhYEQNlmZXTm9WFvx+gVmL2+P222eZIMMMT+KZKHP21rXrfKZsOaQgxj1AH0bmpvAx0B2jvpZDEtoA/YgmnLcML7Y409ZfGDxDobNuH+zMiZoLI4O+10usDDFIuImXE4kB3y2ggIhq48YY/L1YEMANiSRdQQrqVDyHuaIKPqUvJN0AWSIakHMOIVapB0yEIGARokFfqhJukbAAD//y9lj2MZoIw+AAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 257,
+      "Name": "Slimy Boots",
+      "Description": "Completely Hydrophobic",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHElEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBbHBhjRNfv5+TEsW77xf85cfYaLt9+DxQ93PGLg4WaEq339+jVuA758/Q/WvGE9QtGTLc/gbAdHe8Yzpw7BDWHB5iyQzciakF1zoOPgf5Ah27euRQ0DkO1WVlZg9v0rfxhsK+TgmkGuAYnBxA/sP/gfpg/uAnS/gxRj84Kijhz2QASFNrJTYYEn4yPFoKiD8CnIYJCB37+9YcQIA3TN2FyDDuBhAAoYkCZ0zRBns8AxyHZNbU1GDANAUQNzIrprkMVB4PGDG5guAMUrKLGAbDA2MYC7BgZA4jBDkBMSVgCKUlCgujUZgZOyapgePFnj14kGYBpI1kgKAAQAAP//o+2ggUDYsIUAAAAASUVORK5CYII=",
+      "EquipType": "Boots",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+100 Swim Speed"
+          ]
+        }
+      ],
+      "Source": "Craftable",
       "Deprecated": false
     }
   ]
