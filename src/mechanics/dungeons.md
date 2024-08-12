@@ -2,6 +2,7 @@
 Dungeons are a way to fight unique bosses and mobs, and are the primary way to get unique items.
 
 ## How do I find a dungeon?
+
 An entrance portal to a dungeon may be triggered to spawn by either killing normal enemies inside of the Alivarg's sphere until one spawns, or killing a World Boss inside of the said sphere, which is guaranteed to spawn a portal upon its death - portals created by killing World Bosses always lead to much stronger dungeons. The said portal will disappear after a period of 4 minutes. The type of portal that spawns differs based on the mob killed and which area the mob is in.
 
 ![Dungeon](../images/dungeon.jpg)
@@ -70,6 +71,8 @@ After clearing a combat room, the barrier to the next set of rooms will disapear
 > *Because the room barrier is still active players can not proceed until all mobs are defeated.*
 
 After reaching the boss room, the players are faced with a dangerous fight against that dungeon's Boss - surviving and defeating it is the only way to obtain the reward for clearing a dungeon.
+
+After reaching the boss room, the Player or the Party is faced with a dangerous fight against that dungeon's Boss - surviving and defeating it is the only way to obtain the reward for clearing a dungeon.
 
 ## Boss item drops
 After defeating the Boos, each player who contributed to defeating it receives their reward inside of a chest, which appears in the middle of the boss room and is only accessible by the respective player to prevent others from stealing their loot.

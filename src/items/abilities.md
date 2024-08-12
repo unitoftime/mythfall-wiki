@@ -15,6 +15,5 @@ A very important thing to remember is that one specific dungeon can only drop on
 ## Ability types
 {{ macros::resourceTable(type="Ability", hideModifiers=false) }}
 
-
 ## Trivia
 - At one point, the developer - UnitOfTime - , had to stop all of the spellbooks from being obtainable for the purpose of reworking them. They were readded to the game and overhauled on the 24.02.2024.
