@@ -26,7 +26,7 @@ Most weapons that fall into this category posses the following features:
 - Shoot two projectiles: one that dissipates after travelling very short distance and one that travels quite far - except for those with "dagger" in their name, as they only posses the long distance one.
 - The said projectiles are broad, making them easier to hit with.
 
-{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = Sword) }}
+{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = "Sword") }}
 
 ### Bows
 Most weapons that fall into this category posses the following features:
@@ -36,7 +36,7 @@ Most weapons that fall into this category posses the following features:
 - Have low strength scaling, 0.5X being the default.
 - The said projectiles are narrow, making them harder to hit with.
 
-{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = Bow) }}
+{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = "Bow") }}
 
 ### Crossbows
 Most weapons that fall into this category posses the following features:
@@ -44,7 +44,7 @@ Most weapons that fall into this category posses the following features:
 - In case there are multiple projectiles, they are fired one after the other in a straight line.
 - The said projectiles are narrow, making them harder to hit with.
 
-{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = Crossbow) }}
+{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = "Crossbow") }}
 
 ### Throwables
 Most weapons that fall into this category posses the following features:
@@ -54,7 +54,7 @@ Most weapons that fall into this category posses the following features:
 - The said projectiles are small, making them harder to hit with.
 - Have strength scaling of 1X.
 
-{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = Throwable) }}
+{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = "Throwable") }}
 
 ### Staves
 Most weapons that fall into this category posses the following features:
@@ -67,7 +67,7 @@ Most weapons that fall into this category posses the following features:
 - Do not scale with strength (have strength scaling of 0X).
 - Have a chance to apply some kind of effect to any enemy hit by the explosion.
 
-{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = Staff) }}
+{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = "Staff") }}
 
 ### Hammers
 Most weapons that fall into this category posses the following features:
@@ -75,4 +75,4 @@ Most weapons that fall into this category posses the following features:
 - Create circular explosions that pierce and damage enemies instead of normal projectiles.
 - Have very high strength scaling.
 
-{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = Hammer) }}
+{{ macros::resourceTable(type="Weapon", hideModifiers=false, weaponType = "Hammer") }}
