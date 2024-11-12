@@ -62,21 +62,21 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
-      "Deprecated": true
+      "Source": "Craftable",
+      "Deprecated": false
     },
     {
       "ID": 5,
-      "Name": "Shell",
-      "Description": "Careful! it's sharp!",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArklEQVR4nGJioBDQ1wBOLpH/ZBkA0gjCfhnJGIYwEqMZpBEECmJDGZysPRi+f3sD18dCyLn7ju6Ai01YvBpDHYYXYM4FaYRphmkEuQAdMOJyLgzANIEM2TRjLorzUQyA2YoOQBqx+R3FAGTNRdUtcMm+1ho4G5cBKGGArBkbHxsAGwAyGWQDso3IAJftGADklePnz/y39AoAYxAbW+ojyhCyNCMbQrZmUgEgAAD//znMXYSaHUIkAAAAAElFTkSuQmCC",
+      "Name": "Dawnwood",
+      "Description": "An ancient chunk of wood that emits light",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAApUlEQVR4nGJioBAMIQM4uUT+gzC6OCMuxehiOXP1wfSU5IsM37+9getjwaYZpNiYL5/h7KeJYBoEEOwkFPUs2DQHaXRCNTEwyEtJQWUhBqIDDBfAwLob5Sg0yFCQgegAIxBhToZpgrkGZhBBA2DOBGl8+OwZhkF4DQCFLiiUQbbBNIMAiI3LBTijERZtMAAyGGYJQQMYsKQFdI1UAwOfmQABAAD//2hAR3umZawJAAAAAElFTkSuQmCC",
       "EquipType": "Resource",
       "Weapon": null,
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
-      "Deprecated": true
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
     },
     {
       "ID": 6,
@@ -106,16 +106,16 @@
     },
     {
       "ID": 8,
-      "Name": "Silver Ore",
-      "Description": "A lump of silver ore",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiUlEQVR4nGJioBAMvAEsyBxOLpH/yPzv394wIouB+HhNAymGgePnz/wH8WFiMD5eF8DAiQtnwfT81fNQ+AS9gKz44bNncDFkNjrAGoj4NBB0AbLmcC9fuKtwGYriAlAoJ4YmYVUoLyVF2AB0Q1Zu24w1TJABznjFFmUE0wE5YODzAsUGAAIAAP//eCJMmPY/HbMAAAAASUVORK5CYII=",
+      "Name": "Duskwood",
+      "Description": "An ancient chunk of wood that seems to emit darkness",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAApUlEQVR4nGJioBAMIQM4uUT+gzC6OCMuxehiWVv2g+lpPo4M37+9waoPrrl43+X/CnrmcBoZoxvOhK4ZZNOxnloGSRlJsBiIhrGDJ8zBsJAFl0usSppRaJCh2ADeQARpgmmEGUS0C0Aanz95DnY+zBAQHx1ghCYsHNYWpID5IANAGmH+R48FnNEIizYYAGkEAfQoxBmf6NGFN+4pAQOfmQABAAD//xSFStrjG6N3AAAAAElFTkSuQmCC",
       "EquipType": "Resource",
       "Weapon": null,
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
-      "Deprecated": true
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
     },
     {
       "ID": 9,
@@ -197,16 +197,16 @@
     },
     {
       "ID": 15,
-      "Name": "Darkwood",
-      "Description": "",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA6UlEQVR4nKTTv4+CMBQH8FeuOXJnMC4NxLiILg4mDo4O/vcmOjg46KSLEZIuRoH4C2teTRFJ0AJvIY/284WWYkDFojqTGGPQsy2YrQ8C+zb7JTy6yjEDB7/hvmtLPBiPwO52YMMvIgiFaNVN+LgEhScLX2Jv68n75n8NsF95J5EbkIf3Ox8aTQeW0/lzCWUwXs9RCI5FCamCg3v8/gZFMef8FVAGJ3tQFmOR9CEpirF+hq4jMX7bm4BCGB9OEePpUhBLB6uiWah6HSwDcJJ/DEU6SBcnm4j1RwzgQSyDsjj7w6VDHwEAAP//Ccz7jQutpyUAAAAASUVORK5CYII=",
+      "Name": "Moonstone Essence",
+      "Description": "The essence pulses with a cool, silvery glow",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABMklEQVR4nGJioBDADfh2+wDDimktcAlOLpH/yBgmDlIDUosCkDXDNLx++xKOj58/g2IQsiEsIGLT7iMMEVk1YM2PHl8FS9x59Jjh4bNnYPbNR08Y9h3dAWY7WXv8j8iqYYRZyIjsZJBmdI0g4GZhxrDrxCk428nag+H7tzeMKGEAAyDN8lJScM0goCInizMQGZFt33viJIbNIM08XHwMX759ArsO5BJkV7DATAJJImtWl5MBKwbhrLBghmmr1uKPRphmkOnIBiEbDjIUrwEgAAssmBeQxWCGwgIZbgDILyA/wTTAbEI2DCYGohNDk3DHArrzYRqRxTC8AEoUyK6AuYQBLVCRbZ+ZEIUwBVtSBiVfGF6xdRNKUgZpvt/ViOoUkCFLu6vgfFyZCatmSgAgAAD//0M+1UL5d296AAAAAElFTkSuQmCC",
       "EquipType": "Resource",
       "Weapon": null,
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
-      "Deprecated": true
+      "Source": "Elvewood Forest",
+      "Deprecated": false
     },
     {
       "ID": 16,
@@ -316,7 +316,7 @@
       "ID": 24,
       "Name": "Top Hat",
       "Description": "May or may not come with rabbits",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAARUlEQVR4nGJioBCMGsDAwIIuwMkl8h+fhu/f3jBS1QUDbwBGGMxRk8GrIfrCGxQ+PEAIBR46QA9MssHAB+LAGwAIAAD//wSXCxfvN6tlAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAAA4AAAAHCAYAAAA4R3wZAAAANklEQVR4nGJiIBOwwBicXCL/idHw/dsbRhBNto301wj34xw1GaI0RF94A6YZiQ0UdAAIAAD//+qZCC0UpoxzAAAAAElFTkSuQmCC",
       "EquipType": "Hat",
       "Weapon": null,
       "Ability": null,
@@ -325,18 +325,18 @@
         {
           "Filter": "With Staff:",
           "Modifiers": [
-            "+1 Damage"
+            "+5 Critical Chance"
           ]
         }
       ],
       "Source": "",
-      "Deprecated": false
+      "Deprecated": true
     },
     {
       "ID": 25,
-      "Name": "Mohawk",
-      "Description": "A green mohawk",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZUlEQVR4nGJioBAMZwM4uUT+gzBZBoA0zj/gwgDChAzBMACmGQYIGYLVBWfvvgZjYgzBMOD7tzeMU5Ivwg0iZAhWF4AM6Y7cy4hsCLJhBA2AAXRDQAbjU08WGMQpkW4GAAIAAP//jEowOT7JX/cAAAAASUVORK5CYII=",
+      "Name": "Stonehawk",
+      "Description": "A mohawk of stone",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAaUlEQVR4nGJioBAMZwM4uUT+gzBZpoI0rti6CYwJGYLhApCG+avnwfkgNj5DsHrh5qMnYEyMIRgGfP/2hrGjuA5uECFDsLoAZEh9ZhYjsiHIhhE0AAbQDQEZjE89WWAQp0S6GQAIAAD//2JSM3AOokTUAAAAAElFTkSuQmCC",
       "EquipType": "Hat",
       "Weapon": null,
       "Ability": null,
@@ -349,14 +349,14 @@
           ]
         }
       ],
-      "Source": "Stoneheart Forest",
+      "Source": "",
       "Deprecated": false
     },
     {
       "ID": 26,
       "Name": "Nightcap",
       "Description": "Time for bed!",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZUlEQVR4nGJioBAMAwNY0AU4uUT+E9L0/dsbRhibEV3zTJMKgramn+mAG8JEqmZ0gOEFZFtwAWQvsMBsL9RJR9GIrIhoFyD7jWgAsv3125f/iQl9vIaQrZlSMPBJmWIDAAEAAP//dQAkqLgOo00AAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZ0lEQVR4nGJioBAMAwNYsAlycon8J6Tx+7c3jCCaEZvmmSYVBG1OP9MBNoSJHM3IAKsXkG3BBWBeYEG2vVAnHUUjTBFJLoD5jZBGFACy/fXbl/+JCX28hpCtmRIw8EmZYgMAAQAA///i2SSoYXyccwAAAABJRU5ErkJggg==",
       "EquipType": "Hat",
       "Weapon": null,
       "Ability": null,
@@ -390,7 +390,7 @@
           ]
         }
       ],
-      "Source": "Eldertree Forest",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -423,15 +423,8 @@
       "Weapon": null,
       "Ability": null,
       "Consumable": null,
-      "Modifiers": [
-        {
-          "Filter": "",
-          "Modifiers": [
-            "+10 Speed"
-          ]
-        }
-      ],
-      "Source": "",
+      "Modifiers": [],
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -451,7 +444,7 @@
           ]
         }
       ],
-      "Source": "Stoneheart Forest",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -541,7 +534,7 @@
       "ID": 35,
       "Name": "Executioner's Hood",
       "Description": "The hood of an executioner",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArklEQVR4nGJioBBQbAALjMHJJfIfxlbQVmf8+fY5Tk337t3DNAAEZAy8GLRCYxh2VUf9J2AxI1YDYMCtdRle3SALvn97w4higKQEH+OTC9vANoNcAQLXVi8h4BAkA0D+4uQSwVDw5MI2vAYMfDQSNAAUM/j4WGMBBmCByQANC1g0I4cLXgPQDUI2EAYY0QVgKRJmGzrYVR0FpmHpAMMAdIPQAUwj1QDF0QgIAAD//zmsMtqNOoV4AAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALjMHJJfIfxlbQVmf8+fY5Tk337t3DNAAEjEPKGYQN9Rl2VUf9J2AxI1YDYMCtdRle3SALvn97w4higKQEH+PZNZ3/jRkgrgCBt+cvEnAIkgEgf3FyiWAoOLumE68BAx+NBA0AxQw+Pl4DQIEJwjBNsGhGBlijEZtByLGDDBjRBWApEpttDJA0AKZh6QDDAHSD0AFMI9UAxdEICAAA//8MFi+REA+KpAAAAABJRU5ErkJggg==",
       "EquipType": "Hat",
       "Weapon": null,
       "Ability": null,
@@ -550,8 +543,9 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Vitality",
-            "+7 Critical Chance"
+            "+4 Vitality",
+            "+4 Defense",
+            "+5 Critical Chance"
           ]
         }
       ],
@@ -571,7 +565,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Vitality"
+            "+1 Vitality",
+            "+1 Defense"
           ]
         }
       ],
@@ -602,7 +597,7 @@
       "ID": 38,
       "Name": "Driftwood Helmet",
       "Description": "A helmet made from Driftwood",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeElEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NIzKfEV1zoZ0ug7G+GFbNVnExDEqmiSiGDHwYUD8QYSBm8l5MQSxiOA1YkuuMYdi90/PBgYgMqO+F/kOXGRgOMTCAohMd3Nx/AEOMEZfJ+BIUemKiCAx8OgAEAAD//+KzHjuw3zjCAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVR4nGJioBAMAwNYsAlycon8x6Xh+7c3jMh8RmyaC+10GYz1xTA0C8vKMHiWLUQxhIlYzbjAIA1EGIiZvJcyFyzJdQZjGNjeFY/fAFDo9h+6DLb57MVXBG1nwBaNMIArLaCnA4rBwEcjIAAA//9loCDBzLqAOwAAAABJRU5ErkJggg==",
       "EquipType": "Hat",
       "Weapon": null,
       "Ability": null,
@@ -611,8 +606,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+1 Guard"
+            "+1 Defense"
           ]
         }
       ],
@@ -623,7 +617,7 @@
       "ID": 39,
       "Name": "Iron Helmet",
       "Description": "A helmet made from Iron",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAc0lEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NIzKfEV2zX0Yyg5aqPFbN6nIyDImhSSiGDHwYUD8QYaCjuI4yAyp6mzAMm796HjgQkQH1vbBpxlyGTQwMDKDoRAfyUlIYYoy4TMaXoNATE0Vg4NMBIAAA///QeRqjWgyE5QAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAb0lEQVR4nGJioBAMAwNYsAlycon8x6Xh+7c3jMh8Rmya/TKSGbRU5TE0q8vJMCSGJqEYwkSsZlxgkAYiDHQU11HmgoreJjCGgfmr5+F3ASh0N82Y+38TAwMDsYGJEY0wgCstoKcDisHARyMgAAD//xg0IDhAfJutAAAAAElFTkSuQmCC",
       "EquipType": "Hat",
       "Weapon": null,
       "Ability": null,
@@ -632,8 +626,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+2 Guard"
+            "+2 Defense"
           ]
         }
       ],
@@ -644,7 +637,7 @@
       "ID": 40,
       "Name": "Chlorolite Helmet",
       "Description": "A helmet made from Chlorolite",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAd0lEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NIzKfEV2zbYUcg76qIFbNxsqiDIkOe1AMGfgwoH4gwsCU5IuUGZAzVx/DsPkHXMCBiAyo74XDHY8YDjM8YgBFJzrQELBkYGBAdQEjLpPxJSj0xEQRGPh0AAgAAP//ZUUcv2ghLwYAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcUlEQVR4nGJioBAMAwNYsAlycon8x6Xh+7c3jMh8RmyabSvkGPRVBTE0GyuLMiQ67EExhIlYzbjAIA1EGJiSfJEyF+TM1QdjGJh/wAW/AaDQPdzxCGzzxdvvCdrOgC0aYQBXWkBPBxSDgY9GQAAAAP//RNsgxJYATP4AAAAASUVORK5CYII=",
       "EquipType": "Hat",
       "Weapon": null,
       "Ability": null,
@@ -653,8 +646,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+3 Guard"
+            "+3 Defense"
           ]
         }
       ],
@@ -665,7 +657,7 @@
       "ID": 41,
       "Name": "Golden Helmet",
       "Description": "A helmet made from Gold",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfUlEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NIzKfEV3z1lxxBgV1MayauZT1GRQ9l6AYMvBhQP1AhAHtnMtYRDHFcLrg6hRdOIaB+9tjiDeAWIDhBe/JLxkYGF4ygKITHfCpRzEwMCxBEWPEZTK+BIWemCgCA58OAAEAAP//rsIdMJ9JmD8AAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdUlEQVR4nGJioBAMAwNYsAlycon8x6Xh+7c3jMh8Rmyat+aKMyioi2Fo5lLWZ1D0XIJiCBOxmnGBQRqIMKCdcxlNBJ1PwAVXp+iCMQzc3x6D3wBQ6HpPfgm2+cHNV/jMhgOMaIQBXGkBPR1QDAY+GgEBAAD//3yLIeZREVM8AAAAAElFTkSuQmCC",
       "EquipType": "Hat",
       "Weapon": null,
       "Ability": null,
@@ -674,8 +666,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+4 Guard"
+            "+4 Defense"
           ]
         }
       ],
@@ -686,7 +677,7 @@
       "ID": 42,
       "Name": "Cobalt Helmet",
       "Description": "A helmet made from Cobalt",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdklEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NIzKfEV2zjIEXg7iKLlbNwob6DLuqo1AMGfgwoH4gwsDZNZ2YgmtIcIFxSDkcw4Bb6zLiDSAWYHjhyYVtYAyKTnSgoi/JsAtNjBGXyfgSFHpioggMfDoABAAA//91BBzMqdml7wAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdElEQVR4nGJioBAMAwNYsAlycon8x6Xh+7c3jMh8RmyaZQy8GMRVdDE0CxvqM+yqjkIxhIlYzbjAIA1EGDi7phNVYA2JLjAOKQdjGHBrXYbfAFDoPrmwDWzzyzuX8ZkNBxjRCAO40gJ6OqAYDHw0AgIAAP//xpohPjLRuisAAAAASUVORK5CYII=",
       "EquipType": "Hat",
       "Weapon": null,
       "Ability": null,
@@ -695,8 +686,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+5 Guard"
+            "+5 Defense"
           ]
         }
       ],
@@ -707,7 +697,7 @@
       "ID": 43,
       "Name": "Obsidian Helmet",
       "Description": "A helmet made from Obsidian",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAc0lEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NIzKfEV2zqLAqgxKXBFbNVvxaDP1XZqIYMvBhQP1AhIGTjw8TJYbTBeaytnAMA4U66cQbQCzA8MLrt7fBGBSd6ECDQxBDjBGXyfgSFHpioggMfDoABAAA//8Shxys6EhPKQAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcklEQVR4nGJioBAMAwNYsAlycon8x6Xh+7c3jMh8RmyaRYVVGZS4JDA0W/FrMfRfmYliCBOxmnGBQRqIMHDy8WG8fIIuMJe1BWMYKNRJx+8CUOi+ZmD4//rtbQZiAxMjGmEAV1pATwcUg4GPRkAAAAD//0t6H+YEks8WAAAAAElFTkSuQmCC",
       "EquipType": "Hat",
       "Weapon": null,
       "Ability": null,
@@ -716,8 +706,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+6 Guard"
+            "+6 Defense"
           ]
         }
       ],
@@ -737,8 +726,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+4 Lifesteal Chance",
-            "-2 Vitality"
+            "+3 Lifesteal Chance",
+            "+3 Manasteal Chance"
           ]
         }
       ],
@@ -781,7 +770,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -794,7 +783,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -820,7 +809,7 @@
     },
     {
       "ID": 49,
-      "Name": "Wooden Stick",
+      "Name": "???",
       "Description": "???",
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZklEQVR4nGJioBDQ1wBOLpH/IIwsxkKKZtsKOTD7cAfD/+/f3jAS7QJUzY8YYJpBgJkYzS6KcgyGn/gZVi69jaKZaKe7NRlh+J0+mqs8HAdIs682Bc4mWzMDjpRGczDwuREQAAD//93/M7c52sVGAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
@@ -845,10 +834,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZklEQVR4nGJioBDQ1wBOLpH/IIwsxkKKZtsKOTD7cAfD/+/f3jAS7QJUzY8YYJpBgJkYzS6KcgyGn/gZVi69jaKZaKe7NRlh+J0+mqs8HAdIs682Bc4mWzMDjpRGczDwuREQAAD//93/M7c52sVGAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 1,
+        "Damage": 2,
         "Class": "Sword",
-        "Rate": 2,
-        "Projectiles": 2,
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
         "StrengthScaling": 0,
         "ManaCost": 0
       },
@@ -985,7 +974,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAg0lEQVR4nGJiIAJwcon8J0YdCBA0EGRYzlx9og0lyoWkAKINJNaVRBl48fZ7Yu0dQC8T60qiDNRXFSTW3gHyMk0ihVhvD1wYUjWWSQFUjxRGfJKgvCvjI4Ui9mTLM4bv397g1YcXgAxVDdP7D6KpVjjAADEuo3qkEATEehUGAAEAAP//rygmotSNdk0AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 8,
+        "Damage": 7,
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
@@ -998,7 +987,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+5 Guard"
+            "+5 Defense"
           ]
         }
       ],
@@ -1007,12 +996,12 @@
     },
     {
       "ID": 58,
-      "Name": "Scarab Sword",
+      "Name": "Scorpion Sword",
       "Description": "A sword crafted from bits of a bug",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAfUlEQVR4nGJiIAJwcon8J0YdCBA0EGSYjIEX0YYS5UJxFV1ilBFvIAgYh5QT5UqiDHx55zKx9hLvwsFtIE0ihaoGDv5IGQ1D8g0E5V1xFWUGEYFPDH/fHGUAsUkpynAaaukV8B9EU61wgIHv394wUtVAqgBivQoDgAAAAP//bX4ghzrvJscAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAfUlEQVR4nGJiIAJwcon8J0YdCBA0EGSYhbAs0YYS5UITdnZilBFvIAjkSKkQ5UqiDDzz8yex9hLvwsFtIE0ihaoGDv5IGQ1DvIARnyQo70pzC6OIPf36luH7tzd49eEFIEMdZQ3/g2iqFQ4wQIzLqB6GBAGxXoUBQAAAAP//Lh4f9HCrneIAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 8,
+        "Damage": 6,
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
@@ -1079,7 +1068,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+5 Guard",
+            "+5 Defense",
             "+5 Critical Chance",
             "+5 Dexterity"
           ]
@@ -1092,7 +1081,7 @@
       "ID": 61,
       "Name": "Cutlass",
       "Description": "A pirate's sword",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvklEQVR4nGJhIBFwcon8J1UPiubXb1+C8fHzZ/6D+ExkmwYFRBsAsu3R46tg9p1Hj0kzAJdmogzApdnJ2oPh+7c3jEzICknVDHcBSOH97TFwQ0A0MZoxvAAzBKSRGM0gwIjsXJABIMCsU4mhEQTQNYMA1pT490o7AwNfDF6NKC4A2X51ii5YgEtZH0wrei7BqxEeBshOh2lEDg+CBoCIb3cvgm3WzrlMSD1uLyC7ghQvoMQCsgQxmkEAEAAA//+32XxTkz/hngAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAvElEQVR4nGJioDIgaCAnl8h/EKaagSCw7+gOBmINJdrLjx5fJcpQ+ochMiDGlUQbeOfRY6LUETTw+7c3jE7WHsTaO8BhSFUDVeRkqWMgKFZBCZtYwILPIHQxOVltcCSRbCDIsKtTdBm4lPXB/G/nSxk+nyfOhThtQzcUBhQ9l+B1Jc4wBGnSzrmMIvbt7kWCLsRpIMyFMFcRYxheA2EAZBgpAG+MIbsSBEBBQCiW8UoyoCUfQoaBACAAAP//fatDNXG88j4AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 3,
@@ -1139,10 +1128,10 @@
       "ID": 63,
       "Name": "Khopesh",
       "Description": "A sickle on a stick is deadlier than a scythe",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAq0lEQVR4nGJhIAJwcon8h7G/f3vDSIwekgDIguPnz/x//fblfxAb2UJCgIkUi+48esyw7+gOhkePrzIQawlRFoCCxcnaA8UiYi0h2gfoltAMwOIDOU7wqScpDsgBQ98CkgCp4c9Aig9AhoHyAKmAKAvQDVeRk2WQk9UmqtggqixCN5iBhDKJJAuIdTUyGPrJlGgLnq3opq0F5IJRC0aABUTlSkqaLYAAAAD//27tVfN9iCOKAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAc0lEQVR4nGJhIAJwcon8h7G/f3vDSIwevIYdP3/m/+u3L8EY2XBsgIlYg+88ekyRw1AAzJUwl+JzJdEuJBYMfgMJAlLCj2FAvawiJ8sgJ6tNMGETbSAxhhFt4ObKUmLtHQLJZtTAQWggwYRKavEPCAAA//9QOToOuuwRkwAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 10,
+        "Damage": 6,
         "Class": "Sword",
         "Rate": 2,
         "Projectiles": 2,
@@ -1152,14 +1141,14 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "Temple of Anubis",
       "Deprecated": false
     },
     {
       "ID": 64,
-      "Name": "Heavy Blade",
+      "Name": "Granite Greatblade",
       "Description": "Weighs at least 4 cocofruits",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAlElEQVR4nGJhwAM4uUT+w9jfv71hxKeWKAAy8Pj5M2CMbDg+wESs4fuO7mAgxlCCBk5YvJokQ4l2IbGAKAORXUkVA0kBowYORQMf3bhJXQNJBUQbSGzixlkkgfKsi6IcmK0ryw8X7z90GW9RhtdAZD7I8D33H4HZFJeNUMOJKhOJDkNfbSOKHIUCQC4jtsQGBAAA//8JqzBhQibezAAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAjUlEQVR4nGJiwAM4uUT+gzA+NbgAXoNBYN/RHQzkGE7QYHINJ8pgcgwnaPDDZ8/IMpxoF5MKiDIY2dVUNZgcMGrwqMFkGHzz0RPaGEwuINpgUnMfToNBhU1FbxODupwMXGzXiVMkGY7TYGTcOH3af1JqFBZcEt+/vWFEtgSbOD5As8gjCpBTqQICAAD//0WxMrJSvZR+AAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 16,
@@ -1179,12 +1168,12 @@
           ]
         }
       ],
-      "Source": "Craftable",
+      "Source": "Stoneheart Forest",
       "Deprecated": false
     },
     {
       "ID": 65,
-      "Name": "Massive Blade",
+      "Name": "Massive Greatblade",
       "Description": "Weighs at least 5 cocofruits",
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAlElEQVR4nGJiwAM4uUT+gzA+NbgAXoNBwC8jmYEcwwkaTK7hRBlMjuEEDX504yZZhhPtYlIBUQYju5qqBpMDRg0eNZgMg58/eU4bg8kFRBtMau5jwSUBKmxcFOUYGP7+ZtD99xEieO0U0QYz4jMYmQ+yZM/9R2D2929vcOoj6GJkzciWEGMoAy0jjyhATqUKCAAA///6mi1kr/YqiwAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
@@ -1216,10 +1205,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdUlEQVR4nGJiwAI4uUT+gzA2OXSAYQBI45JcZwYQJtYQDANev30JdsHa8nCiXYLVAGIMwRoGFAFkF8D4+FxBsQuIMuDHzpuUGUCxCzjc1WnnAgwwuNIBMUmZEZsBoIwEAjGT9zJ8//YGQw1RriA2EwECAAD//8OMR24yIxByAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 3,
+        "Damage": 1,
         "Class": "Bow",
         "Rate": 2.5,
-        "Projectiles": 1,
+        "Projectiles": 3,
         "StrengthScaling": 0.5,
         "ManaCost": 0
       },
@@ -1236,7 +1225,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdUlEQVR4nGJiwAI4uUT+gzA2OXSAYQBIo19GMgMIE2sIhgGv374EuyC8qJxol2A1gBhDsIYBRQDZBTA+PldQ7AKiDHh04yZlBlDsAjkNddq5AAMMrnRATFJmxGYAKCOBwKYZcxm+f3uDoYYoVxCbiQABAAD//4GeRdF/k/PiAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 1,
+        "Damage": 2,
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 3,
@@ -1256,10 +1245,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeUlEQVR4nGJiwAI4uUT+gzA2OXSAYQBIY85cfQYQJtYQDAMu3JoIdkHpcmeCLsHqBRiYknyRoEvwGkAMwGvA929vGAm5grYugIEN619TZgDFLggIFB0gF8BSJSgmQDFCfxcQsh0EMCRgzmaAJmV8mnECUrIzIAAA//+RaDR6orWF0gAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 1,
+        "Damage": 3,
         "Class": "Bow",
         "Rate": 2.5,
-        "Projectiles": 4,
+        "Projectiles": 3,
         "StrengthScaling": 0.5,
         "ManaCost": 0
       },
@@ -1276,7 +1265,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdUlEQVR4nGJiwAI4uUT+gzA2OXSAYQBI4/3tMQwgTKwhGAa8fvsS7IIXBwuIdglWA4gxBGsYUASQXQDj43MFxS4gyoBvdy9SZgDFLuBS1qedCzDA4EoHxCRlRmwGgDISCCh6LmH4/u0NhhqiXEFsJgIEAAD//zwmS8DXFdoOAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 2,
+        "Damage": 4,
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 3,
@@ -1296,7 +1285,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeUlEQVR4nGJiwAI4uUT+gzA2OXSAYQBIo3FIOQMIE2sIhgFL7t4Gu8AmrpugS7B6AQbOrukk6BK8BhAD8Brw/dsbRkKuoK0LYODlncuUGUCxC8RVdAfIBbBUCYoJUIzQ3wWEbAcBDAmYsxmgSRmfZpyAlOwMCAAA//+xSTPtjkRlwQAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 3,
+        "Damage": 5,
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 3,
@@ -1316,7 +1305,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeUlEQVR4nGJiwAI4uUT+gzA2OXSAYQBIo7msLQMIE2sIhgGv374Eu8BBPZCgS7B6AQZOPj5M0CV4DSAG4DXg+7c3jIRcQVsXwMC9by8oM4BiFyhxSQyQC2CpEhQToBihvwsI2Q4CGBIwZzNAkzI+zTgBKdkZEAAA//9+wTMLBjeeOQAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 4,
+        "Damage": 6,
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 3,
@@ -1333,7 +1322,7 @@
       "ID": 72,
       "Name": "Lorendel's Reach",
       "Description": "An elven weapon befitting a king",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAjUlEQVR4nGJhIAJwcon8h7G/f3vDSIweJmIMNXCwYfDLSCbGPOIAyFBLr4D/4UXl/5FdTQwg6OJNi2dS5DisAOTK129fgl1LqqsJupgmANnFpLp64F0M4xPrapJd/OjGTaLU0SwoRoDBchrqlNs6tNPx0CoraFIe+8WmU+Q4nIDcWoSoipGcyhQQAAD//6lvWLXDymEKAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcUlEQVR4nGJiwAM4uUT+gzA+NTgNAGn0y0jGpxe3ASDNBg42BDXjBCADXr99CXZ+eFE5Xm/gDQOKXQBj43MFxS4gyoBHN25SZgDFLpDTUKedC7CCwZEOLL0CCNqO0wXfv71hvHDgCHVcQsgFgAAAAP//r+cznt7XP9IAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 12,
@@ -1356,10 +1345,10 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeklEQVR4nGJiwAI4uUT+gzA2OXTAgk2zuIoymP3yDsP/79/eMOIzAKsLWpl+Mry8c5cBZBAhl2A1AAaIMQSvAcQAvAaA/E/IFbR1AQx8ff+RMgModgG3IP8AuQCWKkExgStF0tYFhGwHAQwJ1MyEXzNOQEp2BgQAAP//7WEzgO1uFXsAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 6,
+        "Damage": 7,
         "Class": "Bow",
         "Rate": 2.5,
-        "Projectiles": 2,
+        "Projectiles": 3,
         "StrengthScaling": 0.5,
         "ManaCost": 0
       },
@@ -1380,7 +1369,7 @@
       "ID": 74,
       "Name": "Wooden Crossbow",
       "Description": "A simple crossbow",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAA6klEQVR4nGJioBEYNRgOWEjVwMkl8h/G/v7tDSMudTglcBm6JNcZzo+ZvBenBSQZDAKv3778LyerzYBuAbrhJIUxyFBRYXFGkCEw14IAyBLkICLJYJhLQQbADEE2nAEaVDA5RmRBXIY+enyVoT86Aqucsb4Yw9mLr+D8/kOXwcHCwoAWKTBFMA2FS1eADQXxYQAkjmwgiB3cuZKxysPxP8lBQSogOihEhcUZqjwcMeRwBQXRyQ0WeegAFoTIEQkPY2IAKJnBkhsDlszCgJZRaJZBqJKl0V1LlouJLYRoBoZeQU8zgwEBAAD//xPCgileFKjKAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAAzUlEQVR4nGJioAKgiiEshBRwcon8h7G/f3vDiE0NVkFkA5bkOsP5MZP3YjUMryEg8Prty/9ystoM6IYhG4Q3TEAGiAqLM4I0wFwBAiADkb2J0xCYC0CKYRqQDYJ5F4QZkU2EgUePrzL0R0dgNdxYX4zh7MVXcH7/ocuQ2AE5DyZRuHQFw6GuPLBidICsuW3HfsYqD0ewA6jiEpyxAwsTdACLJeTwwZnYQLECix0GLGmGASm9UCWdkJViGdBSLUGXEJN3qAKoUhQAAgAA//9E1XLjjiUDAwAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 6,
@@ -1400,11 +1389,11 @@
       "ID": 75,
       "Name": "Blunderbuss",
       "Description": "Highly inaccurate",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA4ElEQVR4nGJiGGAw6oBRB4w6YNQBow4Ymg7g5BL5P6AOoMQRIH3IehnxGfj92xtGalkMA34ZyWB604y5YPNZYIYuyXXGUBwzee9/mCNgFhfa6TLc1TKjxA0ogAXGOHvxFYYkyFEgR8AshoFvO3czvJGXI9tSOQ11OBvuO2QL8IHLjz8y7Ln/iGzLDRxswPSFA0fAUQB3gIuiHIOuLD+GZSAAE0e2HKQZpA9bOsEHYFEJ08eCzUIYQPhUDs5HThOkWs6AJWETlQvQXT2swNAsikcdMOqAUQeMOoCaABAAAP//G9Nh7eape5EAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAvElEQVR4nGJioBEYNXjUYDIN5uQS+U+WwSCNMEyJ4chmMIIYS3Kd4ZIxk/cyfP/2hpEc1/plJIPpTTPmMrCAGGcvvoJLgiyJmbwXblihnS7DXS0zYs2GAxZ0AZAlIMOQwbeduxneyMthaL5w4AhWFzPAggLZoMuPPzLsuf8IbDiIDQIgPjaAHGQMSMEGEgcb7KKIcA2yISBxEB+kEKQO3SB8gJEBLYJgmpFtJ9YwuoBhmqVHDaYIAAIAAP//H8BQX2pXHjEAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 5,
-        "Class": "Crossbow",
+        "Class": "Cannon",
         "Rate": 1,
         "Projectiles": 4,
         "StrengthScaling": 0,
@@ -1427,7 +1416,7 @@
       "ID": 76,
       "Name": "Chitin Crossbow",
       "Description": "A bug based crossbow",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAA60lEQVR4nGJioBEYNRgOWEjVwMkl8h/G/v7tDSMudTglcBkqY+AF5z+5sA2nBSQZDAKv3778LyerzYBuAbrhJIUxyFBRYXFGkCEw14IAyBLkICLJYJhLQQbADEE2nAEaVDA5RmRBXIY+enyVQcfYH6scn5Qaw6dnt+D8T6/ugIOFhQEtUmCKYBqunN0INhTEh2t+dgvFQBD79rFFjOIKFv9JDgpSAdFBISosziCuYIEhhysoiE5usMhDB7AgRI5IeBgTA0DJDJbcGLBkFga0jEKzDEKVLI3uWrJcTGwhRDMw9Ap6mhkMCAAA///tboGVTVY9BwAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAAzElEQVR4nGJioAKgiiEshBRwcon8h7G/f3vDiE0NVkFkA2QMvOD8Jxe2YTUMr3dAisVVdOGaQQaCMLLrCAKbuO7/yK5StYqDY2SDcHoHZMDZNZ0Y4jDvwVwHNgSb04xDyhluH1qL1XA+KTWGT89uwfmfXt2BxA7IdJiEql0ww8s7l8GK0QGy5pcPTjCKK1j8p5pLqBImOKP4yKJSRpCLQNEMSxfIaYYBmgRAGG9iQ3YReqJDTnBkpVgGtFRL0CXE5B2qAKoUBYAAAAD//3recMMU4vNvAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 12,
@@ -1440,7 +1429,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -1467,7 +1456,7 @@
           ]
         }
       ],
-      "Source": "Stoneheart Forest",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -1585,7 +1574,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiUlEQVR4nGJioBDQ1wBOLpH/ZBsA0pwjpYJhCFEGgDRZCMsynPn5E0OOhZBGEA3SDAIn3j5m+P7tDSNRBsCcDAIgm7FpxukFZM0GPD8YUoQxwg63AeiaCQEmYjSn3HqC1fkgwIiseY6aDIYCfJqxeoEUzXgNIEYzA7oXkCWI0UwVQHFuBAQAAP//bhE9/1h3t6sAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 8,
+        "Damage": 9,
         "Class": "Throwable",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -1598,7 +1587,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Lifesteal Chance"
+            "+3 Lifesteal Chance",
+            "+5 Critical Chance"
           ]
         }
       ],
@@ -1607,12 +1597,12 @@
     },
     {
       "ID": 83,
-      "Name": "Basic Shuriken",
-      "Description": "A ninja weapon",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7UlEQVR4nGJigAJOLpH/DAQASA0MY0i8fvvyPy4FMDGQGhiGqWEEMR49vgpWmNPaB9e0acZcOBsmjw7kZLUZWHA51y8jGUxPqS5CEYdZArLg+7c3jEzIkuiK0QGyC2GAEeZHZGeiK9RSlWe4dvshihjMBVi9ANMADweod9A1g9hgL4A4oACBAZhmkDgIIwcoOmAh5EdkAAsjZAOZcCkGxQIs/kFskLdgABResHQAdgFMEXo4IPsdPRDxugDk1KywYJxpANkVGAaQmhZY0NMAMkCOGXQvogBsGQVXhkLOeBiGYM2qOCyEsQEBAAD//y+AmV4PfKYgAAAAAElFTkSuQmCC",
+      "Name": "Rootspike Shuriken",
+      "Description": "A deadly shuriken pulled from the root of an ancient tree",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8ElEQVR4nGJigAJOLpH/DAQASA0MY0hcuDXxPy4FMDGQGhiGqWEEMY5fqAUrrA1cCNe05/4jOBsmjw4sDZoZWHA510VRDkw3r49HEYdZArLg+7c3jEzIkuiK0QGyC2GAEeZHZGeiK9SV5We4/PgjihjMBVi9ANOACAc5rJpBbLAXQBxQgMAATDNIHISRAxQdsBDyIzKAhdEeJMuYcCkGxQIs/kFskLdgABResHQAdgFMEXo4IPsd5K0wLBYxYjMAOTrRvYUsBwo3DC+QmhZY0NMAMkCOGXQvogBsGQVXhkLOeBiGYM2qOCyEsQEBAAD//9VLkYOx75kKAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 1,
+        "Damage": 5,
         "Class": "Throwable",
         "Rate": 2,
         "Projectiles": 3,
@@ -1621,8 +1611,15 @@
       },
       "Ability": null,
       "Consumable": null,
-      "Modifiers": [],
-      "Source": "",
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Health Regeneration"
+          ]
+        }
+      ],
+      "Source": "Eldertree Forest",
       "Deprecated": false
     },
     {
@@ -1632,7 +1629,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA6UlEQVR4nJRTPc6CQBR8S2i+L8FYWMgN8ALWxoMbay8gN4DCwkiipWYIg8NjN8RJiOvuvJ95P5kN+PvfvG0B4PDjXeDD8bC30/kykl/PW/DOwSHABSfQGLjW9Uho2sd4VkMFnOSpdMvtqv/dVdXknkEQABlk+ujJHpohMalBirguCrt33eSOGUQl0EDrEDPGuZeAP9oBGuMeX8oRkC9pVLBGTfsNlqXI6AKHBmfIIlAvzkafAUkKNaCsMhIoxBxoO70sfUPdZhJ+nYXcz4BCO+MlziT4RbHEQtlQRC6TKcGvagrK+QQAAP//queEUv/lkU8AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 3,
+        "Damage": 8,
         "Class": "Throwable",
         "Rate": 2,
         "Projectiles": 3,
@@ -1643,16 +1640,16 @@
       "Consumable": null,
       "Modifiers": [],
       "Source": "",
-      "Deprecated": false
+      "Deprecated": true
     },
     {
       "ID": 85,
       "Name": "Driftwood Dagger",
       "Description": "A short driftwood blade",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAe0lEQVR4nGJioBDgNICTS+Q/CJNtAAgsyXVmIGQIXgPOXnxF0BDahcEQN4CY6IMBRlwGaAsJM0jyc4P5zz9+Zbj67i3D929vMNSzYDMApPAqA8N/kAF77j/C6wKsBmAzkBh1KAAaDgSTM95Y4OQSIdlikgHF6QAQAAD//0kyIriH/i6tAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeElEQVR4nGJioBDgNICTS+Q/CJNtAAgsyXVmIGQIXgPOXnxF0BDahcEQN4CY6IMBRlwGaAsJM0jyc4P5zz9+Zbj67i3D929vMNSzYDMApPAqA8N/kAF77j/C6wKsBmAzEJcc3kAEOZ0QwGsAyN80BxSnA0AAAAD//4JXJMXy+tVJAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 2,
+        "Damage": 3,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -1669,10 +1666,10 @@
       "ID": 86,
       "Name": "Iron Dagger",
       "Description": "A short iron blade",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAd0lEQVR4nGJioBDgNICTS+Q/CJNtAAjMXz2PgZAheA24+egJQUNoFwZD3ABiog8GGHEZYOBgwyCnoQ7mP7pxk+HCgSMM37+9waoeKwAZEl5U/h+WoHC5ioUYw0iyGdkFDAwMBJMz3ljg5BIh2WKSAcXpABAAAP//cvgjbLH/9EcAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdUlEQVR4nGJioBDgNICTS+Q/CJNtAAjMXz2PgZAheA24+egJQUNoFwZD3ABiog8GGHEZYOBgwyCnoQ7mP7pxk+HCgSMM37+9waoeKwAZEl5U/h+WoHC5ioUYw/DZjDcQQU4nBHCajOxkkvxOKqA4HQACAAD//zvUJo7x0NHfAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 3,
+        "Damage": 4,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -1689,10 +1686,10 @@
       "ID": 87,
       "Name": "Chlorolite Dagger",
       "Description": "A short plant-based blade",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAd0lEQVR4nGJioBDgNICTS+Q/CJNtAAgcv1DLQMgQvAbc+HCcoCG0C4MhbgAx0QcDjLgMsK2QY9BXFQTzL95+z3C44xHD929vsKrHCkCGlC53/g9LULhcxUKMYSTZjOwCBgYGgskZbyxwcomQbDHJgOJ0AAgAAP//kYMj0+Hip4kAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdUlEQVR4nGJioBDgNICTS+Q/CJNtAAgcv1DLQMgQvAbc+HCcoCG0C4MhbgAx0QcDjLgMsK2QY9BXFQTzL95+z3C44xHD929vsKrHCkCGlC53/g9LULhcxUKMYfhsxhuIIKcTAjhNRnYySX4nFVCcDgABAAD//2FoJv3CO06NAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 4,
+        "Damage": 5,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -1712,7 +1709,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdElEQVR4nGJioBDgNICTS+Q/CJNtAAjc3x7DQMgQvAZ8u3uRoCG0C4MhbgAx0QcDjLgMqHcUZzDTgfBPXWFgaNz/kuH7tzdY1WMFIEP2lWv/hyUoXK5iIcYwfDbjDUSQ0wkBnCYjO5kkv5MKKE4HgAAAAP//Q5Ek0qAoJ0kAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 5,
+        "Damage": 6,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -1729,27 +1726,7 @@
       "ID": 89,
       "Name": "Cobalt Dagger",
       "Description": "A short cobalt blade",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeElEQVR4nGJioBDgNICTS+Q/CJNtAAi4tS5jIGQIXgPenr9I0BDahcEQN4CY6IMBRlwG8ImpMPBJqYH5n57dYvj06g7D929vMNSzYDMArPAVw3+QAU8ubMPrAqwGYDWQVAANB4LJGW8scHKJkGwxyYDidAAIAAD//0CLIxSR3BbUAAAAAElFTkSuQmCC",
-      "EquipType": "Weapon",
-      "Weapon": {
-        "Damage": 6,
-        "Class": "Sword",
-        "Rate": 3.3333333333333335,
-        "Projectiles": 1,
-        "StrengthScaling": 0,
-        "ManaCost": 0
-      },
-      "Ability": null,
-      "Consumable": null,
-      "Modifiers": [],
-      "Source": "Craftable",
-      "Deprecated": false
-    },
-    {
-      "ID": 90,
-      "Name": "Obsidian Dagger",
-      "Description": "A short obsidian blade",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdklEQVR4nGJioBDgNICTS+Q/CJNtAAgU6qQzEDIErwHHPl4jaAjtwmCIG0BM9MEAIy4DONn5GHh4xMH8L19eMnz/+Ynh+7c3GOpZsBkAVfgfZMDrt7fxugCrATgMJA1Aw4FgcsYbC5xcIiRbTDKgOB0AAgAA//9agyF6xch0/AAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeElEQVR4nGJioBDgNICTS+Q/CJNtAAi4tS5jIGQIXgPenr9I0BDahcEQN4CY6IMBRlwG8ImpMPBJqYH5n57dYvj06g7D929vMNSzYDMArPAVw3+QAU8ubMPrAqwGYDUQB8AbiCCnEwL4DXh1h6ABFAOK0wEgAAD//2bqJQ6SkqtlAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 7,
@@ -1766,10 +1743,30 @@
       "Deprecated": false
     },
     {
+      "ID": 90,
+      "Name": "Obsidian Dagger",
+      "Description": "A short obsidian blade",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAbklEQVR4nGJioBDgNICTS+Q/CJNtAAgU6qQzEDIErwHHPl4jaAjtwmCIG0BM9MEAIy4DONn5GHh4xMH8L19eMnz/+Ynh+7c3GOpZsBkAVfgfZMDrt7fxugCrATgMxApoGwuEnE8VQLEXAAEAAP//EYEgvaYJVakAAAAASUVORK5CYII=",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 8,
+        "Class": "Sword",
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
       "ID": 91,
       "Name": "Slime Dagger",
       "Description": "A short, slimy blade",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiElEQVR4nGJioBDgNICTS+Q/CJNtAAjYVsgxEDKEoBdy5urjNYSgARdvv8crT7tAhAF9VUHKDCDLC8iBRsgFjLgMENCUZOBRhkh/ufuf4cP15wzfv73BUM+CzQCwwusM/3mUpRiebHmG1wVYDcBqIKkAGg4EkzPeWODkEiHZYpIBxSkREAAA//8ukCWsiTKfhgAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiUlEQVR4nGJioBDgNICTS+Q/CJNtAAjYVsgxEDKEoBdy5urjNYSgARdvv8crT7tAhAF9VUHKDCDLC8iBRsgFjLgMENCUZOBRhkh/ufuf4cP15wzfv73BUM+CzQCwwusM/3mUpRiebHmG1wVYDcBqIA6ANxBBTicEcJqMHJD4XEAxoDglAgIAAP//LiYpC+0f2B4AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 8,
@@ -1785,7 +1782,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+5 Guard"
+            "+5 Defense"
           ]
         }
       ],
@@ -1799,7 +1796,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfUlEQVR4nGJioBDgNYCTS+Q/2QaANBuHlBM0hLZeoL8BIP/i8jMuOQwXIAfcyzuX4ZpB4gRdgKyJWHEUA75/e8P45MI2BhkDLxRFID5IHCRP0AXImpBpXADDRAakFMgnpsLw6dUduOsIegHZK/j4BA2gGiAmM1EMAAEAAP//SOUv7m6MCxEAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 8,
+        "Damage": 9,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -1816,7 +1813,7 @@
           ]
         }
       ],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -1826,7 +1823,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeklEQVR4nGJioBDgNICTS+Q/CJNtAAjMNKlgIGQIQS/sdW/GawjtwmCIG0BM9MEAIy4DxFWUGSRlJMH850+eM7y8c5fh+7c3GOpZsBkAUvjyDsN/kAEXDhzB6wKsBmAzEJcc3kAEOZ0QwGkyckDicwHFgOJ0AAgAAP//0Fkkd+isylYAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 8,
+        "Damage": 9,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -1853,7 +1850,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeUlEQVR4nGJioBDgNYCTS+Q/2QaANN/fHkPQENp4AWY7CBByBW0D8dvdi5QZQLELyDIAV4DhEmfEprDeUZzBTAchduoKA0Pj/pcM37+9wVCP1SYY3leu/R+Zj009C7oAzBZkDfhsxhuIIKcTAjhNJtYFFANAAAAA//8q8y9cm5gSKAAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 9,
+        "Damage": 10,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -1866,7 +1863,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+5 Guard",
+            "+5 Defense",
             "+5 Critical Chance",
             "+5 Dexterity"
           ]
@@ -1879,10 +1876,10 @@
       "ID": 95,
       "Name": "Demonic Sai",
       "Description": "A demonic dagger",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAApklEQVR4nGJioBDgNYCTS+Q/CONTw4JP8xw1GTA75RbD/+/f3jCS7AJiAHUNIORfbGqYkCVAfsYVcDBxmBoUA2ASKbeegAVhgXfhCwcYI4uB1CAbAncBTGGOlArcIGQAEgPJIatFMWDBzw8MPMIihIIArAakFgYYkf1IjAEg8OXtGwZYukBJHOiBBzMQpAEZICcqFlwS6IbRLCXiBcRkJooBIAAA//8W1EfgjDAyCgAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgklEQVR4nGJioBDgNYCTS+Q/2QaANM9RkyFoCG28ALN9zltGBkKuoL4LYLZd+MLBgEzjcgUTNqdjA7i8guECmI3EitMmFnKkVBjO/PwJZoNoEB8XYEQXQPYnSOOUZ3fgct+/vcFQz4IuAFOEbBA2jXi9AAMwb5ANiMlMFANAAAAA//94vTASegzdgwAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 8,
+        "Damage": 10,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -1895,7 +1892,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Lifesteal Chance"
+            "+3 Lifesteal Chance"
           ]
         }
       ],
@@ -1904,29 +1901,36 @@
     },
     {
       "ID": 96,
-      "Name": "Crude Club",
-      "Description": "Someone just hammered nails into a plank",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAABHElEQVR4nGJiIANwcon8J0cfimYQ/frty//ohjESa8ijx1cZ5GS1GZbkOsPFYybvBdPfv71hJNprYQYeDCDDQMCubBKYthCWBWOQRQRdBPMCsktA4OzFV2C6/9Blwi6CeQlkK7ohx69+QBHDaRDMJYe68hhyotTgXpqy7BaYverCDhTDsBoEcwkMwMKkPzqCwVJbAMwGBfyJt4/B3mLAFWswg0CuQfcOyCUgQ2AGEPQazBBk74BcA4o9bADDRSDXFNrpMhjri6G4BOQNGEB3DQiwoBsCiiH0GEEOC1wAw2ugMAABmGGwdILPEAwvgfJQlYcjmHaUNcTIT0QZsrY8HG4IiE+qIfAwAgUqKICxRS3JrqKonKEWAAQAAP//75Sc/1awpCoAAAAASUVORK5CYII=",
+      "Name": "Rockshard Club",
+      "Description": "Looks like a rock attached to a stick",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAArUlEQVR4nGJhwAE4uUT+45L7/u0NIy45rBIgwwwcbBg8fN3A/PnTFzJIykjC+R3FdTgNxWmguIoymA0y6PmT5yj0hQNHcBqI08sgjSAActW12w8ZTu45AObjMwwEmLAJgjSANMK8CDLM3MUBbgk+gNMmBiSvgwwDGfryzl28riMIQAZWeTj+B9H4Yh0ZYPUyNkCsy4g2kFgwauCogaMGEgMIljYwNrF5GRAAAP//vjBF+tyt6lUAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 3,
+        "Damage": 8,
         "Class": "Sword",
         "Rate": 1,
-        "Projectiles": 3,
+        "Projectiles": 2,
         "StrengthScaling": 0,
         "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
-      "Modifiers": [],
-      "Source": "",
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+Pierce"
+          ]
+        }
+      ],
+      "Source": "Stoneheart Forest",
       "Deprecated": false
     },
     {
       "ID": 97,
       "Name": "Grug's Skull Club",
       "Description": "Looks like a skull attached to a stick",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAlUlEQVR4nGJhwAE4uUT+45IDge/f3jBiE8dpIAg8enwVq7icrDZOPUz4DIRpRjYAn2FEGUgqIGjgvqM7wBiZTxYARQoIv377EoyR+fgiDGtMIRuKSw5XLBN05drycLwuQgcEw/DsxVckOYL+sWysL0ZdA0kFw8BAUmMZL4CmP+qmwyoPR5IcMfjTIdGFA7GFASAAAP//+XY3Gj9Gvf8AAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAi0lEQVR4nGJhwAE4uUT+45IDge/f3jBiE8dpIAg8enwVq7icrDZOPUz4DIRpRjYAn2FEGUgqIGjgvqM7wBiZTxYARQoIv377EoyR+fgiDGtMIRuKSw5XLBN05drycLwuQgcEw/DsxVckOYL+sWysL0ZdA0kFw8DAwR/Lg99AUtMh0YUDsYUBIAAA//8XFTLOpszQuQAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 8,
@@ -1953,7 +1957,7 @@
       "ID": 98,
       "Name": "Quarterstaff",
       "Description": "A staff approximately the same size as a quarter",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAV0lEQVR4nGJhIBJwcon8h7G/f3vDSKw+JmIVgkChnS4pykm3gBwwasEQs+Dy44+0tYAcQJIFurL8tLWAHDDCLBj6qWjUghFgwcgsKohufpDbbAEEAAD//zSkDw7tTkaLAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAU0lEQVR4nGJhIAA4uUT+w9jfv71hJKSeiZACECi00yVGGfEGkgKGiYGXH3+kroGkAKIM1JXlp66BpIBhYuDgj+VRAwehgaRkPYJFOqlVACAAAP//xtsPBsY7a8gAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 13,
@@ -1989,7 +1993,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Manasteal Chance"
+            "+3 Manasteal Chance"
           ]
         }
       ],
@@ -2096,7 +2100,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+100 Guard"
+            "+100 Dodge"
           ]
         }
       ],
@@ -2145,32 +2149,39 @@
     },
     {
       "ID": 107,
-      "Name": "Ironwood Bow",
-      "Description": "A bow crafted from Ironwood",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA80lEQVR4nGLh5BL5z4AEvn97w8hAR8BET8uwARYYwy8jGUxvmjH3PykGUBpigycEYODR46tgOqe1jygDYCFGbkgMvhAgFaCnHVJDYsBDAO5aWHkASwNystp4NcJ8DgOPbtwE0xcOHAHTsJAQFRVFUff69WsU/uAJARjAFRLocQtTR2xI4AKDLwRggF4hMXhDAAYoDQkY2DRjLlZ9gz8EYIBWITF0QgAGKA2JQRcCJNeGMJfLyWqjh8TQrA3Jbg8QCgliwdANARjAExJE6R/wEKB6Lwi9nEAH6OXG8AsBGCC2Thi+IQAD6L1vdDDgIQAIAAD///iJnrITe6XUAAAAAElFTkSuQmCC",
+      "Name": "Elderwood Bow",
+      "Description": "A bow crafted from an ancient tree",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjUlEQVR4nGJiwAI4uUT+gzA2OXSAYQBIY85cfYZCO10GYg3BMODCrYlgF5QudyboEqxegIEpyRcJugSvASDwOx6/Eryy37+9YSTkCoIuIASIMsBYX4wyAyh2wdmLrygzAF9M4DUAlipBMQGKEbJdgA/gNQAU//hsBwEMCZizGaBJGZ9mnICU7AwIAAD//9RhNcJy/r/vAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 1,
+        "Damage": 3,
         "Class": "Bow",
         "Rate": 2.5,
-        "Projectiles": 2,
+        "Projectiles": 3,
         "StrengthScaling": 0.5,
         "ManaCost": 0
       },
       "Ability": null,
       "Consumable": null,
-      "Modifiers": [],
-      "Source": "",
-      "Deprecated": true
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Health Regeneration"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
     },
     {
       "ID": 108,
-      "Name": "Crystal Sai",
-      "Description": "A crystaline three pronged dagger",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAy0lEQVR4nGJioBBQbAALKYo5uUT+w9jfv71hxOsCZMUwftaW/QwgjAywGgBTDDMExgeBOxef4zcAWTE2zbuqo+DOxzAApNitdRmYPc3HEUzj08yALRDfnr8IZxPSDAIYAiBXGIeUMwgb6sPFQJphAN0QgukAphkWA+ixw4hue6GdLoOxvhhD/3MTsBjIJSr6kmA2KFxwhgGy5rMXXzGcPdQJFjdmKIe7BFsYoNi+tjz8f5WH439kZ4LY6M7GawjRiqkFKM6NgAAAAP//6EFm35WFItYAAAAASUVORK5CYII=",
+      "Name": "Rootspike Dagger",
+      "Description": "A short dagger pulled from the root of an ancient tree",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeUlEQVR4nGJioBDgNICTS+Q/CJNtAAjMP+DCQMgQvAZcqntJ0BCCYUDIENoF4vdvbxj7D10m3wCKXUCxAcSkARBgwaUZFPKgGACBpYm3SHMWLBWCcJWHI94UidULoBgAYWIsIxiIlx9/xCuP1xZkpxPrIpIBIAAA//9cDi8yflMIswAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 4,
+        "Damage": 5,
         "Class": "Sword",
         "Rate": 2.5,
         "Projectiles": 2,
@@ -2183,12 +2194,12 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+10 Guard"
+            "+1 Health Regeneration"
           ]
         }
       ],
-      "Source": "",
-      "Deprecated": true
+      "Source": "Eldertree Forest",
+      "Deprecated": false
     },
     {
       "ID": 109,
@@ -2203,7 +2214,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+5 Guard"
+            "+5 Dodge"
           ]
         }
       ],
@@ -2223,7 +2234,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+10 Guard",
+            "+10 Dodge",
             "-2 Speed"
           ]
         }
@@ -2244,7 +2255,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+20 Guard",
+            "+20 Dodge",
             "-5 Speed"
           ]
         }
@@ -2270,7 +2281,7 @@
         }
       ],
       "Source": "",
-      "Deprecated": false
+      "Deprecated": true
     },
     {
       "ID": 113,
@@ -2316,7 +2327,7 @@
       "ID": 115,
       "Name": "Eclectic Robe",
       "Description": "A grand, red robe",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA40lEQVR4nGJhQAKcXCL/GYgA37+9YYSxGZE1H/PVIEY/g9XmG3BDGJE1Lzv7h8GA5wdezRe+cDBEGbPADWFClgRJEALoarB64drNL2CbkAHIZVrqPBhegLsAJACSQLap7ORGhuK5Fii2ImtGMQAZgGwChcffK+0MzDqVYDbMdnSA19O9yScYGBj88SlBuAA9DGD+hsUKTAykBjm9YPUCegDiEsNpACmACd35MICcoNATF7I3cAZiyq0nKPwcKRWs6hix2Y4e17hcCVLHhJ6AsGlmwJLQMNSBbCAmO6OrAwQAAP//u6d6snSAUJsAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABBElEQVR4nIRTsU6EQBAdNlsoMTFRGo3aaGxs/ChKP8fSj7KxIWChxgo7w9Fxecu9u2GYzb1kA8zOe/N2mI2iUFb36XlxdSl/3eek9zZDX4iDRfC0rPakl+sHeT4b0/v7/4m8/rauWNRkkixBC857MlEkkPz1/ZFISEAiCD65FeTSbbBnom0+czEisLpF3fykSlh4t6CL5ODu9mmVcAzkBKpZEZwbMSzdD5LpOmpLWgTnfXu82X2NK/vEqonodA7eXrQB/v9D9RleI10BEFGpbvxBskJpmjgUbJb3v/UR6BLTGMS5KEjk0tDC5ESbkLsHnojkbmNRnqf40HeLuK0ObAMAAP//RkmTV75CmBgAAAAASUVORK5CYII=",
       "EquipType": "Armor",
       "Weapon": null,
       "Ability": null,
@@ -2330,13 +2341,13 @@
         }
       ],
       "Source": "",
-      "Deprecated": false
+      "Deprecated": true
     },
     {
       "ID": 116,
       "Name": "Robe of Destruction",
       "Description": "A robe of destructive power",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA5klEQVR4nGJhQAKcXCL/GYgA37+9YYSxGZE1zzSpIEY/Q/qZDrghjMia5708ymDFr4VX87GP1xiSxK3hhjAhS4IkCAF0NVi9cOPHe7BNyADkMg0OQexewGYICHiuj2X4e6WdYVetDNhQkAHImkGACZdTQeEB0sysUwlmw2xHByz4/BuR9pCBgSEDnxKEC9DDAOZvWKzAxEBqkNMLVi+gByAuMZwGkAKY0J0PA8gJCj1xIXsDZyD2X5mJwjeXtcXuAmy2n3x8GBzXyBgkhssVYMYiux4wxpcj8aoDCRCTndHVAQIAAP//CKB//Nfh/eEAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+0lEQVR4nIRTrc7CQBC8Xk58Xw0BahBgMCQgeadqHI+AQ/edkJBgigBbgis4yFwyZLvdC5Nc2uzuzP7cXnACeTGP39Fk7O715S19z7bJnIGO8T8vvqTNqnSLv2H8P78ebn+sTLFMkknSBClIH0U8ydfbKToQgEAQUmTEslqve2LZ/KZshGd2jfKwi5lw8K/BKmIFs+myF/AL5HiqaRH0DRuOnAfJrDrIkqQI+q3WWzO7bLk3REw6BcsXtIH3r7NbgzQFQEQmTeAuaHvcJi4Fh2Xdt2yBVWIbvTMeCgJ5JKQwOUEHpN6BJeJSrzHLB9HeNnXHrrMDnwAAAP//4eyQQcOlHP4AAAAASUVORK5CYII=",
       "EquipType": "Armor",
       "Weapon": null,
       "Ability": null,
@@ -2350,7 +2361,7 @@
         }
       ],
       "Source": "",
-      "Deprecated": false
+      "Deprecated": true
     },
     {
       "ID": 117,
@@ -2385,8 +2396,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+1 Guard"
+            "+2 Defense",
+            "-1 Speed"
           ]
         }
       ],
@@ -2406,9 +2417,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+2 Guard",
-            "-1 Speed"
+            "+3 Defense",
+            "-2 Speed"
           ]
         }
       ],
@@ -2428,9 +2438,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Vitality",
-            "+3 Guard",
-            "-2 Speed"
+            "+4 Defense",
+            "-3 Speed"
           ]
         }
       ],
@@ -2450,9 +2459,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Vitality",
-            "+4 Guard",
-            "-3 Speed"
+            "+5 Defense",
+            "-4 Speed"
           ]
         }
       ],
@@ -2472,9 +2480,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+3 Vitality",
-            "+5 Guard",
-            "-4 Speed"
+            "+6 Defense",
+            "-5 Speed"
           ]
         }
       ],
@@ -2494,9 +2501,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+3 Vitality",
-            "+6 Guard",
-            "-5 Speed"
+            "+7 Defense",
+            "-6 Speed"
           ]
         }
       ],
@@ -2516,9 +2522,9 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+4 Vitality",
-            "+7 Guard",
-            "-6 Speed"
+            "+2 Vitality",
+            "+5 Defense",
+            "-4 Speed"
           ]
         }
       ],
@@ -2558,7 +2564,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+5 Guard"
+            "+5 Defense"
           ]
         },
         {
@@ -2584,9 +2590,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Strength",
-            "+5 Critical Chance",
-            "-3 Vitality"
+            "+5 Strength",
+            "+5 Critical Chance"
           ]
         }
       ],
@@ -2595,9 +2600,9 @@
     },
     {
       "ID": 128,
-      "Name": "Iron Ring",
-      "Description": "A basic iron band",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuElEQVR4nGJioBBQbAALPklOLpH/yPzv394woqvBEEDW/OjxVRQxOVltDEOwegFd851Hj8H0vqM7MFyFVfPrty/hGMSH4RVbN/0/fv7Mf2RDmPDZDHMyzNnyUlIYFjIR0oys+OGzZ7gNQAbomkGGz189D6uXMQyABRg2zSAvOFl7oBiOkQ5U5GThGkE0Ps0M6OkApAkUVSC/gjTA/IxLM4YByIYgA1yasRrAQGQSphqgODcCAgAA//+yrG90OQ5UsQAAAABJRU5ErkJggg==",
+      "Name": "Basic Defense Ring",
+      "Description": "A ring with a basic enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAApklEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK7ZwMEGzH7+5DlDr6cCiuKYyXsxDGHCphkXWJLrjOFCRkK2g2xFNgDdJSiBCNKIrhmkEKb47MVXGK5CCURkP2PzLzaANRrRNYO8V2iny2CsL0acAcgAXTO64RjpAFkjiManmQFbOoCFNCzA8GnGMADdEBjAF6BYBdETCzGxQTagODcCAgAA//8fSV8qYw9R1AAAAABJRU5ErkJggg==",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -2606,18 +2611,18 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+4 Guard"
+            "+1 Defense"
           ]
         }
       ],
-      "Source": "Stoneheart Forest",
+      "Source": "",
       "Deprecated": false
     },
     {
       "ID": 129,
-      "Name": "Ring of Health",
-      "Description": "A gold band with a small inset ruby",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoklEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75mK8GmH3t5hcGyzxBFMXaOZcxDGHCphkX2JorjuFCrGGAbDvIVhjGZggLukYQQNYMczKusEExANnP2PyLDWD1ArpmkO0gpxNtADJA1+w9+SWK4RjpAFkjAzTQcGlmwJYOcDkVm2YML4AUgBQSqxnDBejORzYYq7OoASjOjYAAAAD//13ZU4J2siF9AAAAAElFTkSuQmCC",
+      "Name": "Basic Vitality Ring",
+      "Description": "A ring with a basic enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAp0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK55r3szmH3n7VcGbsvTKIpjJu/FMIQJm2ZcYEmuM4YLsYYBsu0gW2EYmyFM6BrRNYOcDHP22YuvMCxDCURkP2PzLzaA1QvomkFOLrTTZTDWFyPOAGSArhndcIx0gKwRROPTzIAtHYBCmQEpwPBpxjAA3RAYwBegWAXREwsxsUE2oDg3AgIAAP//GfBfm70Nzo8AAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -2630,7 +2635,7 @@
           ]
         }
       ],
-      "Source": "Pirate Cove",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -2646,11 +2651,11 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Lifesteal Chance"
+            "+2 Lifesteal Chance"
           ]
         }
       ],
-      "Source": "Eldertree Forest",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -2671,7 +2676,7 @@
         }
       ],
       "Source": "",
-      "Deprecated": false
+      "Deprecated": true
     },
     {
       "ID": 132,
@@ -2690,7 +2695,7 @@
           ]
         }
       ],
-      "Source": "Slime Pit",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -2711,7 +2716,7 @@
         }
       ],
       "Source": "",
-      "Deprecated": false
+      "Deprecated": true
     },
     {
       "ID": 134,
@@ -2735,9 +2740,9 @@
     },
     {
       "ID": 135,
-      "Name": "Obsidian Ring",
-      "Description": "A basic obsidian band",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALPklOLpH/yPzv394woqvBEEDWXKiTjiLWf2UmhiFYvYCu+djHa2DaXNYWw1UYLkDXDLIVBkSFVRmUuCQYTj4+DHcJEyHNIIUwxSDN6ICJkGZkxfe+vcBtADJA1wwyHOR8bADDAFiAYdOM7n+sBljxa8E1EtLMgB4LIA2gqAL5FaQB5mdcmjEMQDYEGeDSjNUABiKTMNUAxbkREAAA//8VAl/TXZ9DQQAAAABJRU5ErkJggg==",
+      "Name": "Lesser Defense Ring",
+      "Description": "A ring with a lesser enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAp0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK7ZwMEGzH7+5DnD8oVTURQ7WXtgGMKETTMusO/oDgwXYg0DZNtBtsIwNkOY0DWiawY5Gebsh8+eYViGEojIfsbmX2wAqxfQNYOcPH/1PAZ5KSniDEAG6JrRDcdIB8gaQTQ+zQzY0gEolBmQAgyfZgwD0A2BAXwBilUQPbEQExtkA4pzIyAAAP//Fv9ddjmnDt0AAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -2746,11 +2751,11 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+6 Guard"
+            "+2 Defense"
           ]
         }
       ],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -2766,7 +2771,9 @@
         {
           "Filter": "With - Monk Hood - Monk Robe - Monk Boots:",
           "Modifiers": [
-            "+2 Strength"
+            "+4 Defense",
+            "+4 Strength",
+            "+4 Speed"
           ]
         }
       ],
@@ -2787,7 +2794,8 @@
           "Filter": "",
           "Modifiers": [
             "+15 Critical Chance",
-            "+2 Lifesteal Chance"
+            "+3 Lifesteal Chance",
+            "+1 Lifesteal Power"
           ]
         }
       ],
@@ -2803,7 +2811,7 @@
       "Weapon": null,
       "Ability": null,
       "Consumable": {
-        "Heal": 2,
+        "Heal": 10,
         "Mana": 0,
         "Modifiers": null
       },
@@ -2820,12 +2828,12 @@
       "Weapon": null,
       "Ability": null,
       "Consumable": {
-        "Heal": 2,
+        "Heal": 20,
         "Mana": 0,
         "Modifiers": null
       },
       "Modifiers": [],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -2837,7 +2845,7 @@
       "Weapon": null,
       "Ability": null,
       "Consumable": {
-        "Heal": 2,
+        "Heal": 30,
         "Mana": 0,
         "Modifiers": null
       },
@@ -2854,7 +2862,7 @@
       "Weapon": null,
       "Ability": null,
       "Consumable": {
-        "Heal": 2,
+        "Heal": 40,
         "Mana": 0,
         "Modifiers": null
       },
@@ -2890,7 +2898,7 @@
       "ID": 143,
       "Name": "Strength Crystal",
       "Description": "A small crystal that you can barely see through",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdElEQVR4nGJioBAMcgM4uUT+gzBZBoA0+mUkMxg42DDgMwSrATDNMIDPEAwD0DUTMoSJGM34DGFBV/Toxk0U/vMnz3EaiOGC79/eMF44cASn4pd37oLV4DQAnyHYNGM1AJshuDQTBMQkJIrBwGcmQAAAAP//zxQ6PvfN/DIAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdElEQVR4nGJioBAMcgM4uUT+gzBZBoA0XqzRYjjmq8GAzxCsBsA0wwA+QzAMQNdMyBAmYjTjM4QFXdHXi/9Q+NdufsFpIIYLvn97w2i1+QZOxSm3noDV4DQAnyHYNGM1AJshuDQTBMQkJIrBwGcmQAAAAP//BOI65xAuj7sAAAAASUVORK5CYII=",
       "EquipType": "Consumable",
       "Weapon": null,
       "Ability": null,
@@ -2914,7 +2922,7 @@
       "ID": 144,
       "Name": "Speed Crystal",
       "Description": "A small crystal that you can barely see through",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdElEQVR4nGJioBAMcgM4uUT+gzBZBoA0XqzRYjjmq8GAzxCsBsA0wwA+QzAMQNdMyBAmYjTjM4QFXdHXi/9Q+NdufsFpIIYLvn97w2i1+QZOxSm3noDV4DQAnyHYNGM1AJshuDQTBMQkJIrBwGcmQAAAAP//BOI65xAuj7sAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAe0lEQVR4nGJioBAMcgM4uUT+gzBZJoM0Xrg18f+KUxF4DcHqApCG4xdq4fz5B1wYcBmCYQC6ZkKGMBGjGZ8hLOiKbnw4jsI/e/c1TgMxXPD92xvGRIc9OBVPSb4IVoPTAHyGYNOM1QBshuDSTBBQlJCIBQOfmQABAAD//2IfPrx15nIIAAAAAElFTkSuQmCC",
       "EquipType": "Consumable",
       "Weapon": null,
       "Ability": null,
@@ -2938,7 +2946,7 @@
       "ID": 145,
       "Name": "Dexterity Crystal",
       "Description": "A small crystal that you can barely see through",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfklEQVR4nGJioBAMcgM4uUT+gzBZJoM0Lrl7+3/xvst4DcHqApCG2ZePw/lZW/Yz4DIEwwB0zYQMYSJGMz5DWNAVnX/4A4V/5+JznAZiuOD7tzeM03wccSreVR0FVoPTAHyGYNOMF4D8CopC//5dlKUFsjUTCwY+MwECAAD//6xmPmV0kJ6bAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdElEQVR4nGJioBAMcgM4uUT+gzBZBoA03t8ew3B1ii4DPkOwGgDTDAP4DMEwAF0zIUOYiNGMzxAWdEXf7l5E4T+4+QqngRgu+P7tDaN2zmWcir0nvwSrwWkAPkOwacZqADZDcGkmCIhJSBSDgc9MgAAAAP//TV87/c+hCrcAAAAASUVORK5CYII=",
       "EquipType": "Consumable",
       "Weapon": null,
       "Ability": null,
@@ -2968,7 +2976,7 @@
       "Ability": null,
       "Consumable": {
         "Heal": 0,
-        "Mana": 1,
+        "Mana": 10,
         "Modifiers": null
       },
       "Modifiers": [],
@@ -2987,12 +2995,12 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 5
       },
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -3007,7 +3015,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 5
       },
       "Ability": null,
       "Consumable": null,
@@ -3027,7 +3035,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 5
       },
       "Ability": null,
       "Consumable": null,
@@ -3047,7 +3055,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -3067,7 +3075,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -3087,7 +3095,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -3107,7 +3115,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -3127,7 +3135,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -3147,7 +3155,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -3167,7 +3175,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 20
       },
       "Ability": null,
       "Consumable": null,
@@ -3187,7 +3195,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 20
       },
       "Ability": null,
       "Consumable": null,
@@ -3207,7 +3215,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 20
       },
       "Ability": null,
       "Consumable": null,
@@ -3227,7 +3235,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 5
       },
       "Ability": null,
       "Consumable": null,
@@ -3247,7 +3255,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -3267,7 +3275,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -3287,7 +3295,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 20
       },
       "Ability": null,
       "Consumable": null,
@@ -3308,7 +3316,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Speed"
+            "+1 Speed",
+            "+1 Dexterity"
           ]
         }
       ],
@@ -3328,7 +3337,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Speed"
+            "+1 Defense"
           ]
         }
       ],
@@ -3348,8 +3357,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+2 Speed"
+            "+2 Defense"
           ]
         }
       ],
@@ -3369,8 +3377,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+3 Speed"
+            "+3 Defense"
           ]
         }
       ],
@@ -3390,8 +3397,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+4 Speed"
+            "+4 Defense"
           ]
         }
       ],
@@ -3411,8 +3417,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+5 Speed"
+            "+5 Defense"
           ]
         }
       ],
@@ -3432,11 +3437,11 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+5 Speed"
+            "+4 Speed"
           ]
         },
         {
-          "Filter": "With - Monk Robe:",
+          "Filter": "With - Monk Hood:",
           "Modifiers": [
             "+1 Strength"
           ]
@@ -3472,11 +3477,11 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAzklEQVR4nGJhQAKcXCL/GdDA929vGNHFCKljQZf0y0hmeHTjJph94cARrAaAgIGDDZiW01Bn2DRjLoochqEwhSCDQRq/ff6EIc/FywdXhw1gNRQGYAa6NE6Ei+2pzweLwwzGBpjwGYoM1hakEKuUeEODJ8wh2lC83gd5EeRVkJfRxUk2FDn2YUDNWI/h1tlLcD4oEkHqsEUWShrElf5A4i6Kcgx77j+C87Gpw+pSbAkdGyCkjuiIIgWMGjpq6Ig1lKhsiZzXicnKgAAAAP//FtZOZ5P/wKQAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 30,
+        "Damage": 15,
         "Class": "Hammer",
-        "Rate": 1,
+        "Rate": 2,
         "Projectiles": 1,
-        "StrengthScaling": 3,
+        "StrengthScaling": 1.5,
         "ManaCost": 0
       },
       "Ability": null,
@@ -3511,8 +3516,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+3 Vitality",
-            "+7 Guard"
+            "+6 Defense"
           ]
         }
       ],
@@ -3563,7 +3567,7 @@
       "ID": 176,
       "Name": "Graviton Boots",
       "Description": "These boots are made for dashing",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABAElEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBbHBhjRNfv5+TEsW77xv4GDDVz8woEjDDzcjHC1r1+/xm3Al6//wZqfP3kOF3955y6c7eBoz3jm1CG4ISy4/IasCdk1B/Yf/A8yZPvWtahhALLdysoKzAbZDtMEcw0Mg/ggQ2D64C5A9zsuL0jKSGIPRFBoIzsVFnjiKsoomkAGgwz8/u0NI94wAGnG5hp0AA8DUMCANKFrhjkb5gqQ7ZramowYBoCiBtkQdABzOkjz4wc3MMOAARoTIKCuqc9w9swFlABF1oyckLACkEGg5IucnI1MbXEmZ4oAxbkREAAA///mxoSLzZP4dQAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJklEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBbHBhjRNfv5+TEsW77xv1vrMrj4ruooBh5uRrja169f4zbgy9f/YM0X59fCxV/euQtnOzjaM545dQhuCAsuvyFrQnPNf5Ah27euxfS7v78/2O8Keub//ft3gf0PokF8GIaJw/TBXQDzu4GDDYOYaxZOL6ADuAGwgHu1exqYLykjCdYIMgjZC8gGowQiyFkw20GGXDhwhAFm4PMnzzHC5/u3N2C9TMihC9IE0wwyDMQGGQhyjX5iM4OMQQhYs6a2JiOGX0CBCEowsMRj6RUADjAYDQpAkLiRqS1KooK7ABSvoPgFJRhjEwOwa2Dg7fmLcJsfP7iBkpCwAnTXYLOZaoDi3AgIAAD//1MAoLn0qTg6AAAAAElFTkSuQmCC",
       "EquipType": "Boots",
       "Weapon": null,
       "Ability": null,
@@ -3572,7 +3576,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+200 Dash Distance"
+            "+2 Defense",
+            "+50 Dash Distance"
           ]
         }
       ],
@@ -3586,11 +3591,11 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAqklEQVR4nGJhIAJwcon8h7G/f3vDSEg9EzGGgkChnS6xShlYsLkGG7j8+CNBdTBfoHj/0eOrWBXLyWqTpIYJlwSIjcxHV4euFhkQHaakABTv7zu6AysbHaDLgfhO1h7YDVWRk4V7BRR22LyPTR49nPGGKQOWdAnj4wtTFnTFuICuLD/DnvvEqaVJRI0aOtwMhZVSVDWUFDCwhoJyFLGAYH3DQEYdBQgAAP//Gzw+rafhOmwAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 20,
+        "Damage": 10,
         "Class": "Hammer",
-        "Rate": 1,
+        "Rate": 2,
         "Projectiles": 1,
-        "StrengthScaling": 2.5,
+        "StrengthScaling": 1.5,
         "ManaCost": 0
       },
       "Ability": null,
@@ -3606,7 +3611,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeElEQVR4nGJioBDgNICTS+Q/CJNtAAg8vbWXgZAheA04c+YcQUMIhgEhQ2gXiN+/vWH0jyol3wCKXUBMFOI0AKR547JuylwAAjBDQDFBEoClQhCe3FmGN0VidQEoBkCYGMsIxoK6uiZeeby2IDudWBeRDAABAAD//+kSL9zSKEINAAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 10,
+        "Damage": 11,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -3623,7 +3628,7 @@
       "ID": 179,
       "Name": "Bone Scythe",
       "Description": "A scythe made from bone",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA5klEQVR4nGJiGGAw6oABdwALKYo5uUT+w9jfv71hpIYDiA4BmOVd9UlwPjZMqgOI8gXIYJjF6uqaeNX6R5WCaWJDiKQoIGQ5CGxc1g1zyH9iHEKSA2DAxMQIq/iZM+ewOgSfI0h2AC7Lcck9vbWXQVrNGacjSHLAzZvXwRgEoqOjQQYT1ANyAFUALJVP7iwjKcUTUkt0NoQF4d37j1D4xOjDp3bAS0KyHUBOoUM1B6THuVDDbvIcMHPRHqpZTrIDqFUBke0AWoBRB4w6YNQBow4YcAeQBahVEw4KMOBRMOAOAAQAAP//fIJWsyc0xL8AAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAy0lEQVR4nGJhwAM4uUT+w9jfv71hxKcWHTARMrSrPgnOR8f4DMbqCpAmmIHq6po4NftHlYJpbL7BGxT4DAWBjcu6YRb8R7cAr8EwYGJihCF25sw5rBbADCdoMDZDcYk/vbWXQVrNGWw4XoNv3rwOxiAQHR0N0oTXESCDCQJYzE/uLCMqFSDrYcCX3GBhdff+IxQ+PgBSA1OH02BsriFWLdEGp8e5kGImcQbPXLSHZEMJGkxq+UC0wZSAUYNHDaajwQQzALkVKiAAAP//upRYVsWiOekAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 12,
@@ -3652,7 +3657,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+50 Critical Chance",
+            "+40 Critical Chance",
             "-2 Dashes"
           ]
         }
@@ -3703,9 +3708,9 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+8 Vitality",
-            "+20 Guard",
-            "-20 Speed"
+            "+3 Vitality",
+            "+6 Defense",
+            "-10 Speed"
           ]
         }
       ],
@@ -3725,8 +3730,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+4 Vitality",
-            "+10 Guard",
+            "+2 Vitality",
+            "+5 Defense",
             "-10 Speed"
           ]
         }
@@ -3747,8 +3752,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+4 Vitality",
-            "+10 Guard",
+            "+2 Vitality",
+            "+5 Defense",
             "-10 Speed"
           ]
         }
@@ -3758,9 +3763,9 @@
     },
     {
       "ID": 186,
-      "Name": "Ring of Vitality",
-      "Description": "A gold band with an inset ruby",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAsUlEQVR4nGJioBBQbAALNkFOLpH/MPb3b28YSTIApPmYrwaYfe3mF4aUWwz/keXRDWTBZTMMXJ2ii8LXzrn8H9kQJnSbYbbjAltzxVEsIioQtXMuwzG6ISheAPkZm2aYk7F5EW4ASBEowJD9jKwZF8DpBXTNINtBTifaAGSArtl78ku44VgTErJGBmigYdMMAhj+w+VUbJqxegGkAKSQGM1YXYDufGSDcamlCAACAAD//6atXr5HyiChAAAAAElFTkSuQmCC",
+      "Name": "Lesser Vitality Ring",
+      "Description": "A ring with a lesser enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAp0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK55r3szmH3n7VcG1YkOKIqdrD0wDGHCphkX2Hd0B4YLsYYBsu0gW2EYmyFM6BrRNYOcDHP2w2fPMCxDCURkP2PzLzaA1QvomkFOnr96HoO8lBRxBiADdM3ohmOkA2SNIBqfZgZs6QAUygxIAYZPM4YB6IbAAL4AxSqInliIiQ2yAcW5ERAAAP//ZEFbwM8jQ6YAAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -3773,14 +3778,14 @@
           ]
         }
       ],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
       "ID": 187,
-      "Name": "Ring of Life",
-      "Description": "A gold band with large inset ruby",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuUlEQVR4nGJioBCwoAtwcon8R+Z///aGkWgDQJqP+WrA+ddufmFIucXwH58hLPg0Y3MVumEs2DQjg6tTdFH42jmXUVyENRCRbUcHW3PFUVzEgk+jZZ4gzFYUA0DYezIkbJiI0QxSiCsgwS4ASYJCG93PMM04/YMcBugK0TWD/A1yOk4D8AF0zd6TX8INx0iJ6BoZoAGHTTMIYPgPl1OxacbqBZACkEJiNGN1AbrzkQ3GpZYiAAgAAP//D7hynXKr+qYAAAAASUVORK5CYII=",
+      "Name": "Standard Vitality Ring",
+      "Description": "A ring with a standard enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAp0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK55r3szmH3n7VcGm4StKIq1cy5jGMKETTMucHWKLoYLsYYBsu0gW2EYmyFM6BrRNYOcDHP2g5uvMCxDCURkP2PzLzaA1QvomkFO3porzqCgLkacAcgAXTO64RjpAFkjiManmQFbOgCFMgNSgOHTjGEAuiEwgC9AsQqiJxZiYoNsQHFuBAQAAP//fyVftsjRG8MAAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -3789,18 +3794,18 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+4 Vitality"
+            "+3 Vitality"
           ]
         }
       ],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
       "ID": 188,
-      "Name": "Rockshard Ring",
-      "Description": "A basic rockshard band",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAsUlEQVR4nGJioBBQbAALPklOLpH/yPzv394woqvBEEDWPH/1PBSxxNAkDEOwegFd881HT8B0RW8ThqswXICuGWQrDPhlJDNoqcozdBTXwV3CREgzSCFMMUgzOmAipBlZ8bXbD3EbgAzQNYMMBzkfG8AwABZg2DSj+58BWzpQl5OBa2SABhwuzQzosQDSBIoqkF9BGmB+xqUZwwBkQ5ABLs1YDWAgMglTDVCcGwEBAAD//1DDYIOxTOOjAAAAAElFTkSuQmCC",
+      "Name": "Standard Defense Ring",
+      "Description": "A ring with a standard enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAp0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK7ZwMEGzH7+5DnDvgIuFMXaOZcxDGHCphkXuDpFF8OFWMMA2XaQrTCMzRAmdI3omkFOhjn7wc1XGJahBCKyn7H5FxvA6gV0zSAnb80VZ1BQFyPOAGSArhndcIx0gKwRROPTzIAtHYBCmQEpwPBpxjAA3RAYwBegWAXREwsxsUE2oDg3AgIAAP//pj5dbJooi0UAAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -3809,13 +3814,11 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Vitality",
-            "+8 Guard",
-            "-4 Speed"
+            "+3 Defense"
           ]
         }
       ],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -3871,7 +3874,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+2 Lifesteal Chance"
+            "+3 Lifesteal Chance"
           ]
         }
       ],
@@ -3891,7 +3894,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+4 Lifesteal Chance"
+            "+5 Lifesteal Chance",
+            "+2 Lifesteal Power"
           ]
         }
       ],
@@ -3915,10 +3919,10 @@
       "ID": 194,
       "Name": "Scorpion Dagger",
       "Description": "A dagger made from a scorpion stinger",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjElEQVR4nGJioBDgNICTS+Q/CJNtAAjkSKkwEDIErwFnfv4kaAjBMCBkCE4Dvn97w3ji7WNC5hN2AdkGgJxsISxLuQtM2NkZpjy7A/YS0QYQE/8wwIJLQlRYleEuAwPD3Z/4DcDphddvb6PQJBmA7l9c/sfrAhBQ4pLAazsI4DQZOSDxuYBiAAgAAP//AmwtThFrWh4AAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjElEQVR4nGJioBDgNICTS+Q/CJNtAAjkSKkwEDIErwFnfv4kaAjBMCBkCE4Dvn97w3ji7WNC5hN2AdkGgJxsISxLuQtM2NkZpjy7A/YS0QYQE/8wwIJLQppbmOHxj28EDcDphadf34JpQjGB1QB0/+LyP14XgIAsBxde20EAp8nIAYnPBRQDQAAAAP//ALctPNSCmu4AAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 9,
+        "Damage": 8,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -3942,10 +3946,10 @@
       "ID": 195,
       "Name": "Scorpion Slinger",
       "Description": "A simple crossbow",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAABEklEQVR4nGJioBEYNRgOWEjVwMkl8h/G/v7tDSNVDAYZaiEsC+efYGD4j8sCnDbiAq/fvvwvJ6vNgGLB28cYhpMUxiBDRYXFGUGGgAyDAZAlyEFEkothLkUHMJcjWwSyGG4wuo3I4NHjqwyWGnY4LQ3kFwTTBjw/GFJuPQEbzMKAFikm7Oxg+szPn2B22cmNDF3m/gyyHFxwg0DiMHkQDcL7H59nLFWxgDuOZumYEebifUd3MFT5paKEFQyAgkJUWJxBRVQdqyHYggLFYBBwsvbAmi5JjTx4BlGRk2UAacSVm0DJDJbcGLBkFga0jAJXhC6BCxCbQUjKeRhZGup9qmRpYgshmoGhV9DTzGBAAAAA//9Va5CgyO6UhAAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAA0UlEQVR4nGJioAKgiiEshBRwcon8h7G/f3vDSLIhIANypFTg/CnPGP5jMwyrycjg9duX/+VktRlQDbuDYhDeMAEZICoszgjSANIIAyADkb2J0xCYC0CKYRqQDYJ5F4QZkU2EgUePrzKEGXhgNdyEnZ3hzM+fcP6Jt48hAQtyHkxi1YUdDF3m/mDF6ACmBiTXfecEo6OsIdgBVHEJztiBhQk6gMUScvjgTCegWIHFDgOWNMOAlF6okk7wGoKZYu9guIIolxCTd6gCqFIUAAIAAP//2SlyXxC6feAAAAAASUVORK5CYII=",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 40,
+        "Damage": 35,
         "Class": "Crossbow",
         "Rate": 1,
         "Projectiles": 1,
@@ -3991,7 +3995,7 @@
         {
           "Filter": "With Crossbow:",
           "Modifiers": [
-            "+10 Dexterity"
+            "+15 Dexterity"
           ]
         }
       ],
@@ -4011,7 +4015,8 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Strength"
+            "+1 Strength",
+            "+1 Vitality"
           ]
         }
       ],
@@ -4030,7 +4035,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 5
       },
       "Ability": null,
       "Consumable": null,
@@ -4050,7 +4055,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 5
       },
       "Ability": null,
       "Consumable": null,
@@ -4070,7 +4075,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 5
       },
       "Ability": null,
       "Consumable": null,
@@ -4090,7 +4095,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 20
       },
       "Ability": null,
       "Consumable": null,
@@ -4110,7 +4115,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 40
       },
       "Ability": null,
       "Consumable": null,
@@ -4130,7 +4135,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 50
       },
       "Ability": null,
       "Consumable": null,
@@ -4150,7 +4155,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4170,7 +4175,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4190,7 +4195,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4210,7 +4215,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4230,7 +4235,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4250,7 +4255,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4270,7 +4275,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4290,7 +4295,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4310,7 +4315,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4330,7 +4335,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4350,7 +4355,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4370,7 +4375,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -4390,7 +4395,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 50
       },
       "Ability": null,
       "Consumable": null,
@@ -4410,7 +4415,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 40
       },
       "Ability": null,
       "Consumable": null,
@@ -4430,7 +4435,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 30
       },
       "Ability": null,
       "Consumable": null,
@@ -4450,7 +4455,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 20
       },
       "Ability": null,
       "Consumable": null,
@@ -4470,7 +4475,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 40
       },
       "Ability": null,
       "Consumable": null,
@@ -4490,7 +4495,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 45
       },
       "Ability": null,
       "Consumable": null,
@@ -4510,7 +4515,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 50
       },
       "Ability": null,
       "Consumable": null,
@@ -4530,7 +4535,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 50
       },
       "Ability": null,
       "Consumable": null,
@@ -4550,7 +4555,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 20
       },
       "Ability": null,
       "Consumable": null,
@@ -4570,7 +4575,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 20
       },
       "Ability": null,
       "Consumable": null,
@@ -4590,7 +4595,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 20
       },
       "Ability": null,
       "Consumable": null,
@@ -4610,7 +4615,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 20
       },
       "Ability": null,
       "Consumable": null,
@@ -4630,7 +4635,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 50
       },
       "Ability": null,
       "Consumable": null,
@@ -4650,7 +4655,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 50
       },
       "Ability": null,
       "Consumable": null,
@@ -4670,7 +4675,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 50
       },
       "Ability": null,
       "Consumable": null,
@@ -4690,7 +4695,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 50
       },
       "Ability": null,
       "Consumable": null,
@@ -4710,7 +4715,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 10
       },
       "Ability": null,
       "Consumable": null,
@@ -4730,7 +4735,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 10
       },
       "Ability": null,
       "Consumable": null,
@@ -4750,7 +4755,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 10
       },
       "Ability": null,
       "Consumable": null,
@@ -4770,7 +4775,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 10
       },
       "Ability": null,
       "Consumable": null,
@@ -4790,7 +4795,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 50
       },
       "Ability": null,
       "Consumable": null,
@@ -4810,7 +4815,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 55
       },
       "Ability": null,
       "Consumable": null,
@@ -4830,7 +4835,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 60
       },
       "Ability": null,
       "Consumable": null,
@@ -4850,7 +4855,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 50
       },
       "Ability": null,
       "Consumable": null,
@@ -4891,9 +4896,9 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+1 Strength",
-            "+1 Vitality",
-            "+3 Guard"
+            "+4 Strength",
+            "+4 Vitality",
+            "+4 Defense"
           ]
         }
       ],
@@ -4907,11 +4912,11 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAArklEQVR4nGJhIANwcon8Rxf7/u0NI4yN1VBsmtCBgYMNmJbTUGfYNGMuihxOl4qrKDPw83PjNRhkIDZAlPe5ePng7G+fPxFUz0SMoSDw/MlzYpUSb6ikjCTRhhLlfWK8TJShL+/cZXiJxFcz1mO4dfYSnA+K/Uc3bmKNLEZibAYlMRdFOYY99x+B0yNZ6ZQQQDYAGyA6okgBo4aOGjpiDSU678PYhLIoCAACAAD///jLLj3iiwZ1AAAAAElFTkSuQmCC",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 25,
+        "Damage": 15,
         "Class": "Hammer",
-        "Rate": 1,
+        "Rate": 2,
         "Projectiles": 1,
-        "StrengthScaling": 3,
+        "StrengthScaling": 1.5,
         "ManaCost": 0
       },
       "Ability": null,
@@ -4934,7 +4939,7 @@
           "Filter": "",
           "Modifiers": [
             "+1 Strength",
-            "+3 Guard"
+            "+1 Defense"
           ]
         }
       ],
@@ -4954,7 +4959,7 @@
         {
           "Filter": "With Hammer:",
           "Modifiers": [
-            "+10 Dexterity"
+            "+15 Dexterity"
           ]
         }
       ],
@@ -4988,7 +4993,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAjklEQVR4nGJioBDgNICTS+Q/CJNtAAi4tS5jIGQIXgPenr/IkLVlP15D8BogbKiPT5qwASBw5+JzvK6gXSwwQMMABE4u2EGe6SBnF++7jDc6GfFpFldRZpCUkWR4/uQ5w8s7dxm+f3uDoR6vF0CakGlsAKcB6LZhs52gC0AA5HyyAbH5gSJAcUICBAAA//9dTjSKUB1gDQAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 10,
+        "Damage": 12,
         "Class": "Sword",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
@@ -4998,7 +5003,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -5017,7 +5022,14 @@
       },
       "Ability": null,
       "Consumable": null,
-      "Modifiers": [],
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Critical Chance"
+          ]
+        }
+      ],
       "Source": "Craftable",
       "Deprecated": false
     },
@@ -5025,14 +5037,14 @@
       "ID": 249,
       "Name": "Mythril Greatblade",
       "Description": "A sharp Mythril greatblade",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAlklEQVR4nGJiIAA4uUT+gzAhdciAoKEgkLVlP0mGE2UozGCY4VQx9M7F5yiGEzKYaJeSAog2FNm1VDOUFECUoW/PX6S+ocKG+tQ3lCYuJRWMen+ADSU2VzHikwQVHOIqymC2pIwkXPzCgSMM37+9wamXoKHIfAMHG7CBIIDPUBZ8hiJrRLYAn4EMtIooogEp1QkgAAD//4jtNfCznyssAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAlElEQVR4nGJioBHAazAnl8h/EKa6wSCQtWU/WRYQFRQgw2EWUM3gOxefo1hArOEDE3kwgOxqqhpMDiBo8NvzF2ljsLChPm0MppmLyQWjQTGIDCY19zHikgAVNuIqymC2pIwkXPzCgSMM37+9wamPKIOR+QYONmBDQYAYg1lwSSBrRraEGEMZaBl5RAFyqiZAAAAA//9TLDXyO/CSWgAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 16,
+        "Damage": 20,
         "Class": "Sword",
         "Rate": 1,
         "Projectiles": 2,
-        "StrengthScaling": 3,
+        "StrengthScaling": 2.5,
         "ManaCost": 0
       },
       "Ability": null,
@@ -5048,7 +5060,7 @@
       "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAYUlEQVR4nGJiwAI4uUT+gzA2OYIApHHJ3dtgTJYhIE2v3778DzOIZEOQDSDGEKxhQBFAdgEDUpjgcgXFLiDKgPMPf1BmAMUuMJTnoJ0LMMDgSgdkJ2WKMhMDidkZEAAA//9xo1HgojE4WQAAAABJRU5ErkJggg==",
       "EquipType": "Weapon",
       "Weapon": {
-        "Damage": 6,
+        "Damage": 8,
         "Class": "Bow",
         "Rate": 2.5,
         "Projectiles": 3,
@@ -5073,7 +5085,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -5093,7 +5105,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -5113,7 +5125,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -5133,7 +5145,7 @@
         "Rate": -1,
         "Projectiles": 1,
         "StrengthScaling": 0,
-        "ManaCost": 1
+        "ManaCost": 25
       },
       "Ability": null,
       "Consumable": null,
@@ -5164,7 +5176,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -5185,6 +5197,1810 @@
         }
       ],
       "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 258,
+      "Name": "Strange Potion",
+      "Description": "A small vial filled with strange ghastly fluids",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAkklEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NI14DQIBPTIWBT0oNQ/zJhW0YYozYXDD78nGG8w9/oIgbynMwpOpaYrgAIwxACkAKQRoIacZqADK4c/E5GOMDRMXC6k33KTMg1E+RdAOQbSXLBci2quhL4jQAazoAAVA04tMIAxjRAgPoKRJbFFIFUJyZAAEAAP//6QcuAd5z594AAAAASUVORK5CYII=",
+      "EquipType": "Consumable",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": {
+        "Heal": 1000,
+        "Mana": 0,
+        "Modifiers": null
+      },
+      "Modifiers": [],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 259,
+      "Name": "Defense Crystal",
+      "Description": "A small crystal that you can barely see through",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdElEQVR4nGJioBAMcgM4uUT+gzBZBoA0+mUkMxg42DDgMwSrATDNMIDPEAwD0DUTMoSJGM34DGFBV/Toxk0U/vMnz3EaiOGC79/eMF44cASn4pd37oLV4DQAnyHYNGM1AJshuDQTBMQkJIrBwGcmQAAAAP//zxQ6PvfN/DIAAAAASUVORK5CYII=",
+      "EquipType": "Consumable",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": {
+        "Heal": 0,
+        "Mana": 0,
+        "Modifiers": [
+          {
+            "Filter": "",
+            "Modifiers": [
+              "+1 Defense"
+            ]
+          }
+        ]
+      },
+      "Modifiers": [],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 260,
+      "Name": "Willpower Crystal",
+      "Description": "A small crystal that you can barely see through",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfklEQVR4nGJioBAMcgM4uUT+gzBZJoM0Lrl7+3/xvst4DcHqApCG2ZePw/lZW/Yz4DIEwwB0zYQMYSJGMz5DWNAVnX/4A4V/5+JznAZiuOD7tzeM03wccSreVR0FVoPTAHyGYNOMF4D8CopC//5dlKUFsjUTCwY+MwECAAD//6xmPmV0kJ6bAAAAAElFTkSuQmCC",
+      "EquipType": "Consumable",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": {
+        "Heal": 0,
+        "Mana": 0,
+        "Modifiers": [
+          {
+            "Filter": "",
+            "Modifiers": [
+              "+1 Willpower"
+            ]
+          }
+        ]
+      },
+      "Modifiers": [],
+      "Source": "Alivarg's Tower, Chamber of the Awakened",
+      "Deprecated": false
+    },
+    {
+      "ID": 261,
+      "Name": "Greater Vitality Ring",
+      "Description": "A ring with a greater enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvElEQVR4nGJioBCwoAtwcon8h7G/f3vDSMgARnTNe92bwew7b78ypJ/pQFGMzUAWbJph4OoUXRS+ds7l/+iGMOHSjA2ADET2ItwAdAByvk3CVpitcIzNEBZkTTCArBnmZJCmBzdfMSioi2GGAUhR+pmO/8h+RtaMD2D1ArpmkO1bc8UxbMdpADJA14xuOEZCQtYIovFpZsCWkGDhAAowEMCnGcMAdENgAF+AYhVETyzExAbZgOLsDAgAAP//l+NqBGE47O8AAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+4 Vitality"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 262,
+      "Name": "Superior Vitality Ring",
+      "Description": "A ring with a superior enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAwElEQVR4nGJioBCwYBPk5BL5D2N///aGEZ8BGJIgzXvdm8HsO2+/MqSf6cBrCAsuzcS6iIWQ5qtTdFH42jmX/yMbwoRLM8j52ADIQGQXYY0FmGabhK0wW+EY3RAWXDYia4Y5GaTpwc1XDArqYqhhAFKQfqbjP7qfkTXjAnAvoCtE1wyyfWuuOIrtOMMAHaBrRjYca0pE1giicWlmwJUSYeEACjAQwKUZqwHohsAArgDFGcLIiYWBiExFNgAEAAD//3y2dkuO/ID2AAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Vitality"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 263,
+      "Name": "Paragon Vitality Ring",
+      "Description": "A ring with a paragon enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvUlEQVR4nGJioBCwoAtwcon8R+Z///aGEZ8BjOia97o3w/l33n5lSD/TgdcQFnyasbkK3TAWbJqRwdUpuih87ZzL/5ENwRqIyLZjMxDZRSz4NNokbIXZimIACMNcwkSMZpBCmLMf3HyFog7sApBk+pmO/+h+hmnG6R/kMEBXiK4Z5O+tueIMCupi2A3AB9A1IxuOkRLRNYJoXJoZ0FMiTBMsHGABhkszVgPQDYEBXAGKM4RJzVRkA0AAAAD//4lNepLYczd4AAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+6 Vitality"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 264,
+      "Name": "Greater Defense Ring",
+      "Description": "A ring with a greater enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAu0lEQVR4nGJioBCwoAtwcon8h7G/f3vDSJIBIM0GDjZg9vMnzxle3mH4jyyPzUAWbJph4OoUXRS+ds7l/+iGMOHSjA2ADET2ItwAdABy/r4CLpitcIzNEBZkTTCArBnmZJCmBzdfMSioi2GGAUgRKMCQ/YysGR/A6gV0zSDbt+aKY9iO0wBkgK4Z3XCMhISsEUTj0wwCjOiaYOEACjAQwKcZwwB0Q2AAX4BiFURPLMTEBtmA4uwMCAAA//8MWWgzUEg6IwAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+4 Defense"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 265,
+      "Name": "Superior Defense Ring",
+      "Description": "A ring with a superior enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAv0lEQVR4nGJioBCwYBPk5BL5D2N///aGkSQDQJoNHGzA7OdPnjO8vMPwH58hLLg0E+siFkKar07RReFr51xGcRETLs0g52MDIAORXYQ1FmCa9xVwwWyFY3RDWHDZiKwZ5mSQpgc3XzEoqIuhhgFIASi00f2MrBkXgHsBXSG6ZpDtW3PFUWzHGQboAF0zsuFYUyKyRhCNSzMIYPgPpAkWDqAAAwFcmrEagG4IDOAKUJwhjJxYGIjIVGQDQAAAAP//jMNzk2RwzU0AAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Defense"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 266,
+      "Name": "Paragon Defense Ring",
+      "Description": "A ring with a paragon enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuklEQVR4nGJioBCwoAtwcon8R+Z///aGkWgDQJoNHGzg/OdPnjO8vMPwH58hLPg0Y3MVumEs2DQjg6tTdFH42jmXUVyENRCRbcdmILKLWPBp3FfABbMVxQAQhrmEiRjNIIUwZz+4+QpFHdgFIElQaKP7GaYZp3+QwwBdIbpmkL+35oozKKiLYTcAH0DXjGw4RkpE1wiicWkGAQz/gTTBwgEWYLg0YzUA3RAYwBWgOEOY1ExFNgAEAAD//8O6eKks4m0xAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+6 Defense"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 267,
+      "Name": "Basic Dexterity Ring",
+      "Description": "A ring with a basic enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75/vYYMPvBtYMMTx+ooSiOmbwXwxAmbJpxgSW5zhguZCRkO8hWZAPQXYISBiCNIICsGaYQZMHZi68YjPXFUFyFYgCyn7H5FxvAGo3omkG2F9rpYtiO0wBkgK4Z3XCMdICsEUTj08yALR3AQhoUYCCATzOGAeiGwAC+AMUqiJ5YiIkNsgHFuREQAAD//xZLYjNUyRCdAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Dexterity"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 268,
+      "Name": "Lesser Dexterity Ring",
+      "Description": "A ring with a lesser enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75/vYYMPvBtYMM/y1moyh2svbAMIQJm2ZcYN/RHRguxBoGyLaDbIVhbIawoGsEAWTNMCeDND189oxBXkoKxTIUA5D9jM2/2ABWL6BrBtk+f/U8DNtxGoAM0DWjG46RDpA1gmh8mhmwpQNQKIMAKMBAAJ9mDAPQDYEBfAGKVRA9sRATG2QDinMjIAAA//+qE1sUITK6hAAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+4 Dexterity"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 269,
+      "Name": "Standard Dexterity Ring",
+      "Description": "A ring with a standard enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75/vYYMPvBtYMMYuwCKIq1cy5jGMKETTMucHWKLoYLsYYBsu0gW2EYmyEs6BpBAFkzzMkgTQ9uvmJQUBdDsQzFAGQ/Y/MvNoDVC+iaQbZvzRXHsB2nAcgAXTO64RjpAFkjiManmQFbOgCFMgiAAgwE8GnGMADdEBjAF6BYBdETCzGxQTagODcCAgAA//+9MVcUqVh5VgAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+6 Dexterity"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 270,
+      "Name": "Greater Dexterity Ring",
+      "Description": "A ring with a greater enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvUlEQVR4nGJioBCwoAtwcon8h7G/f3vDSJIBIM33t8eA2Q+uHWRwLGb4jyyPzUBGbJphBoixC6Ao1s65jGEIEzbNuMDVKbooXoQbgA6QbQfZCsPYDGFB1gQDyJphTgZpenDzFYOCuhgDhgtAihyLH4M1YtOMD2D1ArpmkO1bc8UxbMdpADJA14xuOEZCQtYIovFpZkBOBzBNoFAGAVCAgQA+zRgGoBsCA/gCFKsgemIhJjbIBhRnZ0AAAAD//0KiZc6/bLMqAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+8 Dexterity"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 271,
+      "Name": "Superior Dexterity Ring",
+      "Description": "A ring with a superior enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAv0lEQVR4nGJioBCwYBPk5BL5D2N///aGkSQDQJrvb48Bsx9cO8jgWMzwH58hLLg0E+siRnyaQS4QYxdAEdPOuYxiCBM+zdjA1Sm6KC7CGgswzTDbQbbCMLohLLhsRNYMczJI04ObrxgU1MXg6lhgAQMKbZjpuPyLDcC9gK4QXTPI9q254ii24wwDdICuGdlwrCkRWSOIxqWZATkdIGuChQMowEAAl2asBqAbAgO4AhRnCCMnFgYiMhXZABAAAP//kXJzk/xSS+4AAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+10 Dexterity"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 272,
+      "Name": "Paragon Dexterity Ring",
+      "Description": "A ring with a paragon enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvklEQVR4nGJioBCwoAtwcon8R+Z///aGkWgDQJrvb4+B8x9cO8jgWMzwH58hLPg0Y3MVumGM2DQjGyDGLoAirp1zGcUQrIGIbDs6uDpFF8VFLPg0wmwH2YpsAAhr51wGhw0TMZpBCmHOfnDzFYo6sAtAkqDQhtmAy7/YANwF6ArRNYP8vTVXnEFBXQy7AfgAumZkwzFSIrpGEI1LMwMsHaBrgoUDLMBwacZqALohMIArQHGGMKmZimwACAAA//+flncoWY9DcgAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+12 Dexterity"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 273,
+      "Name": "Basic Speed Ring",
+      "Description": "A ring with a basic enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAp0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK55/gEXMPvs3dcMFhdEUBTHTN6LYQgTNs24wJJcZwwXYg0DZNtBtsIwNkOY0DWiawY5GebssxdfYViGEojIfsbmX2wAqxfQNYOcXGiny2CsL0acAcgAXTO64RjpAFkjiManmQFbOgCFMgNSgOHTjGEAuiEwgC9AsQqiJxZiYoNsQHFuBAQAAP//l+JfYzFllqIAAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Speed"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 274,
+      "Name": "Lesser Speed Ring",
+      "Description": "A ring with a lesser enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK55/gEXMPvs3dcMQRqdKIqdrD0wDGHCphkX2Hd0B4YLsYYBsu0gW2EYmyEs6BpBAFkzzMkgTQ+fPWOQl5JCsQzFAGQ/Y/MvNoDVC+iaweGzeh6G7TgNQAbomtENx0gHyBpBND7NDNjSASiUQQAUYCCATzOGAeiGwAC+AMUqiJ5YiIkNsgHFuREQAAD//yyZV5TuFvuHAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+4 Speed"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 275,
+      "Name": "Standard Speed Ring",
+      "Description": "A ring with a standard enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK55/gEXMPvs3dcMmd//oSjWzrmMYQgTNs24wNUpuhguxBoGyLaDbIVhbIawoGsEAWTNMCeDND24+YpBQV0MxTIUA5D9jM2/2ABWL6BrBtm+NVccw3acBiADdM3ohmOkA2SNIBqfZgZs6QAUyiAACjAQwKcZwwB0Q2AAX4BiFURPLMTEBtmA4twICAAA///uiF+UEO7KrgAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+6 Speed"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 276,
+      "Name": "Greater Speed Ring",
+      "Description": "A ring with a greater enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvUlEQVR4nGJioBCwoAtwcon8h7G/f3vDSMgARnTN8w+4gNln775mmJJ8EUUxNgNZsGmGgatTdFH42jmX/6MbwoRLMzYAMhDZi3AD0AHI+Znf/8FshWNshrAga4IBZM0wJ4M0Pbj5ikFBXQwzDECKpiRf/I/sZ2TN+ABWL6BrBtm+NVccw3acBiADdM3ohmMkJGSNIBqfZgZsCQkWDqAAAwF8mjEMQDcEBvAFKFZB9MRCTGyQDSjOzoAAAAD///dxbBHcAcqzAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+8 Speed"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 277,
+      "Name": "Superior Speed Ring",
+      "Description": "A ring with a superior enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAwUlEQVR4nGJioBCwYBPk5BL5D2N///aGEZ8BGJIgzfMPuIDZZ+++ZpiSfBGvISy4NBPrIhZCmq9O0UXha+dc/o9sCBMuzSDnYwMgA5FdhDUWYJozv/+D2QrH6Iaw4LIRWTPMySBND26+YlBQF0MNA5CCKckX/6P7GVkzLgD3ArpCdM0g27fmiqPYjjMM0AG6ZmTDsaZEZI0gGpdmBlwpERYOoAADAVyasRqAbggM4ApQnCGMnFgYiMhUZANAAAAA//86xnhLL9SMMQAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+10 Speed"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 278,
+      "Name": "Paragon Speed Ring",
+      "Description": "A ring with a paragon enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvUlEQVR4nGJioBCwoAtwcon8R+Z///aGEZ8BjOia5x9wgfPP3n3NMCX5Il5DWPBpxuYqdMNYsGlGBlen6KLwtXMu/0c2BGsgItuOzUBkF7Hg05j5/R/MVhQDQBjmEiZiNIMUwpz94OYrFHVgF4AkpyRf/I/uZ5hmnP5BDgN0heiaQf7emivOoKAuht0AfABdM7LhGCkRXSOIxqWZAT0lwjTBwgEWYLg0YzUA3RAYwBWgOEOY1ExFNgAEAAD//3ZFfE1pujtgAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+12 Speed"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 279,
+      "Name": "Basic Strength Ring",
+      "Description": "A ring with a basic enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAApklEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75mK8GmH3t5hcGDnd1FMUxk/diGMKETTMusCTXGcOFjIRsB9mKbAC6S1ACEaQRXTNIIUzx2YuvMFyFEojIfsbmX2wAazSiawZ5r9BOl8FYX4w4A5ABumZ0wzHSAbJGEI1PMwO2dAALaViA4dOMYQC6ITCAL0CxCqInFmJig2xAcW4EBAAA//81ll6bNZ75lQAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Strength"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 280,
+      "Name": "Lesser Strength Ring",
+      "Description": "A ring with a lesser enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75mK8GmH3t5hcGpflzUBQ7WXtgGMKETTMusO/oDgwXYg0DZNtBtsIwNkNY0DWCALJmmJNBmh4+e8YgLyWFYhmKAch+xuZfbACrF9A1g2yfv3oehu04DUAG6JrRDcdIB8gaQTQ+zQzY0gEolEEAFGAggE8zhgHohsAAvgDFKoieWIiJDbIBxbkREAAA///QuFhW9aWi5gAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Strength"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 281,
+      "Name": "Standard Strength Ring",
+      "Description": "A ring with a standard enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAp0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75mK8GmH3t5hcGyzxBFMXaOZcxDGHCphkXuDpFF8OFWMMA2XaQrTCMzRAmdI3omkFOhjn7wc1XGJahBCKyn7H5FxvA6gV0zSAnb80VZ1BQFyPOAGSArhndcIx0gKwRROPTzIAtHYBCmQEpwPBpxjAA3RAYwBegWAXREwsxsUE2oDg3AgIAAP//ND9cTqFHWOgAAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+3 Strength"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 282,
+      "Name": "Greater Strength Ring",
+      "Description": "A ring with a greater enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAu0lEQVR4nGJioBCwoAtwcon8h7G/f3vDSJIBIM3HfDXA7Gs3vzCk3GL4jyyPzUAWbJph4OoUXRS+ds7l/+iGMOHSjA2ADET2ItwAdAByvmWeIMxWOMZmCAuyJhhA1gxzMkjTg5uvGBTUxTDDAKQIFGDIfkbWjA9g9QK6ZpDtW3PFMWzHaQAyQNeMbjhGQkLWCKLxaQYBRnRNsHAABRgI4NOMYQC6ITCAL0CxCqInFmJig2xAcXYGBAAA//9or2elWMmTdAAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+4 Strength"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 283,
+      "Name": "Superior Strength Ring",
+      "Description": "A ring with a superior enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvklEQVR4nGJioBCwYBPk5BL5D2N///aGkSQDQJqP+WqA2ddufmFIucXwH58hLLg0E+siFkKar07RReFr51xGcRETLs0g52MDIAORXYQ1FmCaLfMEYbbCMbohLLhsRNYMczJI04ObrxgU1MVQwwCkABTa6H5G1owLwL2ArhBdM8j2rbniKLbjDAN0gK4Z2XCsKRFZI4jGpRkEMPwH0gQLB1CAgQAuzVgNQDcEBnAFKM4QRk4sDERkKrIBIAAA//+1vHOF85prbgAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Strength"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 284,
+      "Name": "Paragon Strength Ring",
+      "Description": "A ring with a paragon enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuklEQVR4nGJioBCwoAtwcon8R+Z///aGkWgDQJqP+WrA+ddufmFIucXwH58hLPg0Y3MVumEs2DQjg6tTdFH42jmXUVyENRCRbcdmILKLWPBptMwThNmKYgAIw1zCRIxmkEKYsx/cfIWiDuwCkCQotNH9DNOM0z/IYYCuEF0zyN9bc8UZFNTFsBuAD6BrRjYcIyWiawTRuDSDAIb/QJpg4QALMFyasRqAbggM4ApQnCFMaqYiGwACAAD//zgQd/1ctguOAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+6 Strength"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 285,
+      "Name": "Basic Willpower Ring",
+      "Description": "A ring with a basic enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAp0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK45a8t+MPvOxecMcS/moiiOmbwXwxAmbJpxgSW5zhguxBoGyLaDbIVhbIYwoWtE1wxyMszZZy++wrAMJRCR/YzNv9gAVi+gawY5udBOl8FYX4w4A5ABumZ0wzHSAbJGEI1PMwO2dAAKZQakAMOnGcMAdENgAF+AYhVETyzExAbZgOLcCAgAAP//KQ9i7yzMtigAAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Willpower"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 286,
+      "Name": "Lesser Willpower Ring",
+      "Description": "A ring with a lesser enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK45a8t+MPvOxecMFQ5CKIqdrD0wDGHCphkX2Hd0B4YLsYYBsu0gW2EYmyEs6BpBAFkzzMkgTQ+fPWOQl5JCsQzFAGQ/Y/MvNoDVC+iaQbbPXz0Pw3acBiADdM3ohmOkA2SNIBqfZgZs6QAUyiAACjAQwKcZwwB0Q2AAX4BiFURPLMTEBtmA4twICAAA//80hlch4W0xhQAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Willpower"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 287,
+      "Name": "Standard Willpower Ring",
+      "Description": "A ring with a standard enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK45a8t+MPvOxecM/fztKIq1cy5jGMKETTMucHWKLoYLsYYBsu0gW2EYmyEs6BpBAFkzzMkgTQ9uvmJQUBdDsQzFAGQ/Y/MvNoDVC+iaQbZvzRXHsB2nAcgAXTO64RjpAFkjiManmQFbOgCFMgiAAgwE8GnGMADdEBjAF6BYBdETCzGxQTagODcCAgAA//9m31shyswcXAAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+3 Willpower"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 288,
+      "Name": "Greater Willpower Ring",
+      "Description": "A ring with a greater enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvElEQVR4nGJioBCwoAtwcon8h7G/f3vDSMgARnTNWVv2g9l3Lj5n2FUdhaIYm4Es2DTDwNUpuih87ZzL/9ENYcKlGRsAGYjsRbgB6ADk/H7+dpitcIzNEBZkTTCArBnmZJCmBzdfMSioi2GGAUjRruqo/8h+RtaMD2D1ArpmkO1bc8UxbMdpADJA14xuOEZCQtYIovFpZsCWkGDhAAowEMCnGcMAdENgAF+AYhVETyzExAbZgOLsDAgAAP//lbhp2JGaO/gAAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+4 Willpower"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 289,
+      "Name": "Superior Willpower Ring",
+      "Description": "A ring with a superior enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAwElEQVR4nGJioBCwYBPk5BL5D2N///aGEZ8BGJIgzVlb9oPZdy4+Z9hVHYXXEBZcmol1EQshzVen6KLwtXMu/0c2hAmXZpDzsQGQgcguwhoLMM39/O0wW+EY3RAWXDYia4Y5GaTpwc1XDArqYqhhAFKwqzrqP7qfkTXjAnAvoCtE1wyyfWuuOIrtOMMAHaBrRjYca0pE1giicWlmwJUSYeEACjAQwKUZqwHohsAArgDFGcLIiYWBiExFNgAEAAD//yttdkvqtYPlAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Willpower"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 290,
+      "Name": "Paragon Willpower Ring",
+      "Description": "A ring with a paragon enchantment",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvUlEQVR4nGJioBCwoAtwcon8R+Z///aGEZ8BjOias7bsh/PvXHzOsKs6Cq8hLPg0Y3MVumEs2DQjg6tTdFH42jmX/yMbgjUQkW3HZiCyi1jwaeznb4fZimIACMNcwkSMZpBCmLMf3HyFog7sApDkruqo/+h+hmnG6R/kMEBXiK4Z5O+tueIMCupi2A3AB9A1IxuOkRLRNYJoXJoZ0FMiTBMsHGABhkszVgPQDYEBXAGKM4RJzVRkA0AAAAD//8dfehL9SP53AAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+6 Willpower"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 291,
+      "Name": "Acorn Ring",
+      "Description": "A simple wooden ring with an acorn affixed",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAyElEQVR4nGJioBCwwBicXCL/kSW+f3vDSIwBjDDNhXa6cEFjfTGGmMl7MRRjM5QFl8kuinIMurL8KGL9hy7/RzcEIwxAti/YchuroSBXonuVBVkjCMA0w2zvP3QZxVUgQ5BdwgLzW8zkvf9BCtA1wxSCbEb3EoYXQAqwaYaBy48/4jcABtA1g2yHuY4oA5ABsmaQ69ANxxmNsNDGp5kBlpCQNYFCGeRXkAaYn3FpxjCAAUuqZMARoDgNYKAgX5AFKM7OgAAAAP//rollAyIrztcAAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Health Regeneration"
+          ]
+        }
+      ],
+      "Source": "Eldertree Forest",
+      "Deprecated": false
+    },
+    {
+      "ID": 292,
+      "Name": "Rockshard Rifle",
+      "Description": "Highly accurate",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAi0lEQVR4nGJioBEYNXjUYDIN5uQS+U8Tg8kxnBFd0/dvbxgpMRBmBiNIo19GMlxw04y5KIoMHGwY5DTUSTIYZAbYYJBmfOD5k+cMkjKSWOUuHDiC28XiKspwwZd37sJdCjIQxscF0IMOBYAMh2FkMQU9c7gYOWGN1zKqGEZNMEyz9KjBFAFAAAAA///O3jNJt/H+7gAAAABJRU5ErkJggg==",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 7,
+        "Class": "Cannon",
+        "Rate": 1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 293,
+      "Name": "Rockshard Throwing Knife",
+      "Description": "I guess I just throw it?",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAi0lEQVR4nGJioBDQ1wBOLpH/ZBsA0mzgYINhCFEGgDSJqygzPH/yHEOOhZBGEA3SDAIv79xl+P7tDSNRBsCcDAIgm7FpxukFZM1yGuoM5i4OOF2JYQC6ZkKAiRjNm2bMxep8BuQwAGn2y0jGUIBPM1YvkKIZrwHEaAYBuAL0FEaMZqoAinMjIAAA//9sFzozCNQwaAAAAABJRU5ErkJggg==",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 5,
+        "Class": "Throwable",
+        "Rate": 2.5,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+10 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 294,
+      "Name": "Goldleaf Boots",
+      "Description": "Boots fashioned from a special elven leaf",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABLUlEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBbHBhjRNfv5+TEsW77x//wDLnDxRIc9DDzcjHC1r1+/hsuxoJsI0zxvxy0U8S9f//8H0Q6O9oxnTh2CG4JhAAwc7ngEZ6O55j/IkO1b16KGAcj5VlZWYDbIdpgmmGtgGMQ/sP/gf5g+uAEgv+/afRTsfH1VQRQvgFwDwyBwdYouOJBRvADz+9m7EL+BDDnM8AjFNSBgduUlildxhsGU5IsMMAORXSP29SeD9+SXDN+/vQHHCjxqQHEN8htIEyjakF0DV3PhBYpmlDAARQ0odEGasQGYZk1tTUbkRIWRkEBAXVOf4eyZC/DEBPICKABBmh8/uIGSkLACkEEgLyEnZyNTW5zJmSJAcW4EBAAA//+IGZt8PYCYswAAAABJRU5ErkJggg==",
+      "EquipType": "Boots",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "With Bow:",
+          "Modifiers": [
+            "+5 Speed",
+            "+6 Dexterity"
+          ]
+        }
+      ],
+      "Source": "Elvewood Forest",
+      "Deprecated": false
+    },
+    {
+      "ID": 295,
+      "Name": "Lorendel's Ring",
+      "Description": "A gold-winged ring, fit for a king",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBBQbAALMoeTS+Q/jP392xtGZD5MDN0ARmTN97fHwCUUPZcwXJ2ii6JYO+cyhiGMyJq/3b0Il+BS1kfh4zKEEd3pIIBsM0gDujiyIUwwv8EE0DUjy2EDTMhhgE0zLo0YBuDzJ7rhBA1ABoRcxoJPIwNamKDLMSCnA0JORY9WEB+UVjACCZshsKhET2ggr2ANZVxJGD2pY3UqqYDi3AgIAAD//7QGaY00qWOwAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "With Bow:",
+          "Modifiers": [
+            "+5 Speed",
+            "+5 Dexterity"
+          ]
+        }
+      ],
+      "Source": "Elvewood Forest",
+      "Deprecated": false
+    },
+    {
+      "ID": 296,
+      "Name": "Scorpion King's Ring",
+      "Description": "They say the queen kills the king to feed her offspring",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAm0lEQVR4nGJioBBQbAALPklOLpH/yPzv394wEm0ASHOOlAqK2JRnDP/RDcHqBZBmC2FZhjM/f6KIg8TQXYXhJJhmGDjx9jGKATAxmEuYCGkGKcTmdwwvoPsZ2RZ8ACMMTNjZMTRjC1CcBqAD5ADFZjhOA0Aa0W2e8uwOhrcYsdmGzVvYNGMYgMsQfAGKVZCYJEw1QHFuBAQAAP//NSVX4k4HpjYAAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "-5 Strength",
+            "+20 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Scorpion Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 297,
+      "Name": "Graviton Helmet",
+      "Description": "A helmet imbued with graviton",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAxklEQVR4nGJioBCgGMDJJfIfl0J8cnAF/v27/mNTiE8OxQWvdk9jcGtdBtaAjEFyHI/3wuWQ9bCgmwgyxMDBBswWc82Ciz26cZNBDovL4S74/u0N44UDRzAMQzYIZAheLyArJhYwInNA/gM5H2TIruoonJpAroWxMcLg+ZPnDAxQpxMDcCYkkEtggYksRtAAGYMQiCuIBIzoAqBwMA4pZ3hyYQ3cQBAA8SVlJBlAMYUcBhgGMBBItsiaqQKomxvJAYAAAAD//w2eTirboxyHAAAAAElFTkSuQmCC",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Speed",
+            "+15 Cooldown Reduction"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 298,
+      "Name": "Graviton Rifle",
+      "Description": "Shoots graviton charged bullets",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAmElEQVR4nGJioBEYNXjUYDIN5uQS+U8Tg8kxnBFd0/dvbxgpMRBmBiNIo19GMlxw04y5KIoMHGwYmEWsGYQN9Rnenr+IQuMCu6qjGMAGgzTjA8+fPGeQMQjBKnd2TSduF4urKMMFX965C3cpyED9xGawC/B5G6ckyHAYRhZT0DOHi5ET1ngto4ph1ATDNEuPGkwRAAQAAP//uNY5SXcI9i4AAAAASUVORK5CYII=",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 14,
+        "Class": "Cannon",
+        "Rate": 1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 299,
+      "Name": "Elderwood Helmet",
+      "Description": "A helmet made from Elderwood",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqklEQVR4nGJioBAMvAEs2AQ5uUT+YxP//u0NI7oYhgBIs22FHEP6V1WGmdy3wWIgNgjETN6LYQgjuuZCO10GY30xsGaYRmSAbgjeMAAZAnMFLoA1DECaDnc8gvMPMzzCaQDFsYARBjI+UgwdipooikD+BoEluc7EhUHF/etEuwAlDEAmP9nCAE4DFT4MDKGfhFEUC8vK4PcCunewiWNLTBSBgc9MgAAAAP//LKU5eWUH3QsAAAAASUVORK5CYII=",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Health Regeneration"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 300,
+      "Name": "Elderwood Boots",
+      "Description": "Boots made from Elderwood",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABMklEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBbHBhjRNfv5+TEsW77xf85cfbCYxQURhpjJexl4uBnhal+/fo3bgC9f/4M1sy78BxfvP3QZznZwtGc8c+oQ3BAWbM4C23poL5y/JNcZTJ8weMMwJfngf5Ah27euRQ0DkO1WVlZg9tmLr+CaQDSID8IgV4Fcd2D/wf8wfXAXIPvd+IIIWAM2L+TE66O4Fm4ASDPIthMMb8B8Y30xBoZDqK4Bu27hK+wGIPsf4teLcI3IrkEH8DAABQwoukAAWTPIsN/xTBAXQb2jqa3JiGEAKGqQDUF2EQjM5L4N1/z4wQ24PEY6AAF1TX2Gs2cuwBPTxdvvGQ53PIJrRk5IWAHIIFDyRU7ORqa2OJMzRYDi3AgIAAD//+vejRicYT7nAAAAAElFTkSuQmCC",
+      "EquipType": "Boots",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Health Regeneration"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 301,
+      "Name": "Elderwood Platebody",
+      "Description": "Plate armor made from Elderwood",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBAMvAEsyBxOLpH/MPb3b28YiZFjRFaQM1cfzGZd+I+h/9BluEKQXKGdLoOxvhjD2YuvUOQwvGBxQQSsEKQBpBFZMzaA4UxkxSDbQACZj2w7hgtAEiAFIIUnDN6AxX7HQ5SA+OiasXoB2SsgzaDwwAfwRiPMEJhrSDYAn0YYYMQmCApM2wo5FLHDHY8w/I/TAAa0hMOAJWFRDQx8ZgIEAAD//woJVTEGrEpmAAAAAElFTkSuQmCC",
+      "EquipType": "Armor",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Health Regeneration"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 302,
+      "Name": "Moonstone Chainmail",
+      "Description": "A white chainmail embued with the essence of the moon",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArUlEQVR4nGJioBCwIHM4uUT+w9jfv71hJEaOEVnBvqM74BqcrD3gCvHJYXjh4bNnYDx/9TywRhAGsWHi6IAJ2Vkgk5HBo8dXwRgGnC3MUWzH6gIQkJeSAtN3Hj0GY2Q+ThcgawY5FaYJ5i1kPl4DYIqR/YvOH6QugEUXzBB0Q2EAlB6QExUTuvPRNcI04/ICRnJFTnHYAHo6YERXgOw8bAA9j1AMKM7OgAAAAP//esB3ZAzwqF4AAAAASUVORK5CYII=",
+      "EquipType": "Armor",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "With Bow:",
+          "Modifiers": [
+            "+15 Dexterity"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 303,
+      "Name": "Chitin Boots",
+      "Description": "Boots made from Chitin",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABBElEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBbHBhjRNfv5+TEsW77xv4yBF1z8yYVtDDzcjHC1r1+/xm3Al6//wZo/PbsFF//06g6c7eBoz3jm1CG4ISy4/IasCdk1B/Zv+w8yZPvWtahhALLdysoKovnZLbgmmGtgGMQ/sP/gf5g+uAvQ/Y7LC3xSatgDERTayE6FBR6fmAqKJrBLXt1h+P7tDSPeMABpxuYadAAPA1DAgDSha4Y5G+YKkO2a2pqMGAaAogbZEHQAczpI8+MHNzDDgAEaEyCgrqnPcPbMBZQARdaMnJCwApBBoOSLnJyNTG1xJmeKAMW5ERAAAP//lZyElkeiWzYAAAAASUVORK5CYII=",
+      "EquipType": "Boots",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Vitality",
+            "+1 Defense"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 304,
+      "Name": "Chitin Helmet",
+      "Description": "A helmet made from Chitin",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAh0lEQVR4nGJioBBgNYCTS+Q/MWJYAUihf/+u/8gasInhdcHb8xeJEgMBFkKuIeRiRnQNxiHleDWcXdPJ8P3bG7g+6sfCyzuXSTIAZxiAnEqWC0gFOA0ABSZ6gGILYKwGoIcDvphhRBcARaWMgRdODU8ubEOJRgwDGAgkIGTNVAEUxwIgAAD//2ivL5pMSWnIAAAAAElFTkSuQmCC",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Vitality",
+            "+2 Defense"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 305,
+      "Name": "Driftwood Staff",
+      "Description": "A simple magical staff",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAbElEQVR4nGJhwAE4uUT+w9jfv71hxKWOCZfmcCUJhq254gwgGtkwogwAgTjv/yg0yQYs2sqIQpMMQM7u8Nb+j8/5eF1ALKCtATceEvb/IPcCxQZoyONPRAQNoDgQKXYBMQCnG4nNzoAAAAD//7LcHRD+xsd7AAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "Staff",
+        "Rate": 2,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 306,
+      "Name": "Mythril Platebody",
+      "Description": "Plate armor made from Mythril",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAApUlEQVR4nGJioBBQbAALjMHJJfIfxv7+7Q0jNsU41YAkivdd/r/k7m0wjayQkBoUL5x/+ANMZ23ZD9aAjEFiyGowvIAMDOU5GGAaCAFGdP+BNIIMQHcVDEzzcUQJAxbkQIEZgq4JHSAHIPXTwZ2Lz3EqxiaHNRDxGYIOMBIMcpShA1AAoicy6ocByAaQTcjeALGx2c6AzQswgJ6cceUPigEgAAD//wsbYrPZxnSAAAAAAElFTkSuQmCC",
+      "EquipType": "Armor",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+8 Defense",
+            "-7 Speed"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 307,
+      "Name": "Mythril Helmet",
+      "Description": "A helmet made from Mythril",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcUlEQVR4nGJioBAMAwNYsAlycon8x6Xh+7c3jMh8Rmya3VqXMajoS2JoNpTnYEjVtUQxhIlYzbjAIA1EGJjm40iZC7K27AdjGJh9+Th+A0Chu6s6CmzznYvPCdrOgC0aYQBXWkBPBxSDgY9GQAAAAP//5BAhVuggi/cAAAAASUVORK5CYII=",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+7 Defense"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 308,
+      "Name": "Mythril Boots",
+      "Description": "Boots made from Mythril",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+UlEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBbHBhjRNfv5+TEsW77xf9aW/XDxaT6ODDzcjHC1r1+/hsuxoJsI03zn4nMU8S9f//8H0Q6O9oxnTh2CG4JhAAzsqo6Cs9Fc8x9kyPata1HDAOR8KysrMBtkO0wTzDUwDOIf2H/wP4YX0P2O7AVk16gguQbFAPSAU9GXZNiF5hp0g/GGASjksbkGHcDDABQwIE3ommGuAWGYdzS1NRkxDABFDbIh6ADkCpjmxw9uwMUxEhIIqGvqM5w9cwElQJE1IyckrABkECj5IidnI1NbnMmZIkBxbgQEAAD//+wIhKJolPlsAAAAAElFTkSuQmCC",
+      "EquipType": "Boots",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+6 Defense"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 309,
+      "Name": "Duskwood Bow",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAh0lEQVR4nGJiwAI4uUT+gzA2OXSAYQBIo1vrMgYDBxsGYgzB6gIVfUmGCweOMIAMImQIVgNgYFd1FEFD8BpADMBrwPdvbxhBrsAXHrR1AQzIaahTZgDFLnh04+YAuQCWKkGJChQj9HcByHZQOsBlO1YAcrZ//67/ll4BROdIrIYQqxkQAAD//29ZMColxPHIAAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 10,
+        "Class": "Bow",
+        "Rate": 2.5,
+        "Projectiles": 2,
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Mana Regeneration"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 310,
+      "Name": "Dawnwood Bow",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgUlEQVR4nGJiwAI4uUT+gzA2OYIApLF0ufP/FVs3kWcISNOKUxH/YQYRMgSrF2BgSvJFhpy5+gz4DMFrADEArwHfv71hBLli/up5OF1BWxfAgLyUFGUGUOyCh8+eDZALQCEPSgeJoUngGKG/C0C2g9IBLtuxAoozEwOJ2RkQAAD//4HpN7plgaWIAAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 10,
+        "Class": "Bow",
+        "Rate": 2.5,
+        "Projectiles": 2,
+        "StrengthScaling": 0.5,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Health Regeneration"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 311,
+      "Name": "Shadowleaf Ring",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBBQbAALMoeTS+Q/jP392xtGZD5MDN0ARmTNWVv2wyWm+TgyGDjYoCi+cOAIhiGMyJqP9dTCJaxKmlH4uAxhRHc6CCDbDNKALo5sCBPMbzABdM3IctgAE3IYYNOMSyOGAfj8iW44QQOQASGXseDTyIAWJuhyDMjpgJBT0aMVxAelFYxAwmYILCrRExrIK1hDGVcSRk/qWJ1KKqA4NwICAAD//+40aKMoGSZpAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Dodge"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 312,
+      "Name": "Sunleaf Ring",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBBQbAALMoeTS+Q/jP392xtGZD5MDN0ARmTNOXP14RJTki8yzF89D0VxYmgShiGMyJqN+fLhEmc/TUTh4zKEEd3pIIBsM0gDujiyIUwwv8EE0DUjy2EDTMhhgE0zLo0YBuDzJ7rhBA1ABoRcxoJPIwNamKDLMSCnA0JORY9WEB+UVjACCZshsKhET2ggr2ANZVxJGD2pY3UqqYDi3AgIAAD//3Kcad9VQmtvAAAAAElFTkSuQmCC",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "With Health above 90%",
+          "Modifiers": [
+            "+25 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 313,
+      "Name": "Duskwood Dagger",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhElEQVR4nGJioBDgNICTS+Q/CJNtAAhkbdnPQMgQvAY82bKEoCEEw4CQIbQLxO/f3jBumjGXfAModgHFBhCTBkCAGZdmUMhL8rGA+Vc2rWZ48eARw5/f3xqJchYsFYJweFE53hSJ1QugGABhYiwjGIiPbtzEK4/XFmSnE+sikgEgAAD//1BFNGY2LtKrAAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 11,
+        "Class": "Sword",
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Mana Regeneration"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 314,
+      "Name": "Dawnwood Dagger",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfUlEQVR4nGJioBDgNICTS+Q/CJNtAAjkzNVnIMYQnC44fv7M/9LlznhdQjAMgjQ68bqEdoH4/dsbRidrD/INoNgFFBtAbPRhNQCkGRTy+47uAPON+fJJcxYsFcLSAsnpABQDIEyMZQQD8eGzZ3jl8dqC7HRiXUQyAAQAAP//01IumKdvg/kAAAAASUVORK5CYII=",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 11,
+        "Class": "Sword",
+        "Rate": 3.3333333333333335,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Health Regeneration"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 315,
+      "Name": "Shadowleaf Blade",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAfklEQVR4nGJiIAA4uUT+gzAhdTBA0EAQMHCwYSDWUKIMJAUQbSCxrhw4F1qVNFPXwGM9tdQ1kOouJBaMehk7INZ1RBtICqC6gYyEFIDyr7iKMpgtKSPJcOHAEYbv397g1MdCrM0v79wFY3yGMZDqZUKGkWwgVQCpVQAgAAD//04EIr7iLXEvAAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 13,
+        "Class": "Sword",
+        "Rate": 2.5,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Mana Regeneration"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 316,
+      "Name": "Sunleaf Blade",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAe0lEQVR4nGJiIAA4uUT+gzAhdTBA0EAQ2Hd0BwOxhhJlICmAaAOJdeXAuXDdjXLqGhik0UldA6nuQmLBqJexA2JdR7SBpACqG8hCjCJjvnwwve+oFIOTtcf/79/eMFJkIAgkhiaBaXyGMZDqZUKGkWwgVQCpVQAgAAD///DHIzZedxxUAAAAAElFTkSuQmCC",
+      "EquipType": "Weapon",
+      "Weapon": {
+        "Damage": 13,
+        "Class": "Sword",
+        "Rate": 2.5,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 0
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+2 Health Regeneration"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 317,
+      "Name": "Shadowleaf Cloak",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABBklEQVR4nGJhQAJcIspgWkhSmOHt3Xv/keW+f3vDyIAFoAhyconANRk42DDIaaiD2Y9u3GS4cOAIVsMYkTXDNKFrQDYQJgczhAmm2S8jGSwBUgBSCNKASzNILcy1TOh+gjkbRuMSgwEmmO3oYNOMuQxurcvAGMRGBzBXMMEUkwpgelhgpqEbAvL3ruooOBtdM0wPC7KTkA0B+Rebn2FqYQAjEEEhjQtgk8MwABRN2MIEJIaeNhhgYYDuPJBN2MIE5CV0cXBqgiUKWGDh8jvMCzCXgFIjEwOWjAJSCMPIANlgmB4WdAXo+QDERo5GkBpkeay5kZGLHyz+7c1dFHF020EAEAAA//+lkZM0FemAzQAAAABJRU5ErkJggg==",
+      "EquipType": "Armor",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Defense",
+            "+10 Cooldown Reduction"
+          ]
+        }
+      ],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 318,
+      "Name": "Sunleaf Cloak",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9klEQVR4nJRTsQ6CQAwt5BZZTJTFARbdiF/g5uQH+jFObsbFxIlNHGAywoojppc8Unp3Jr6E9Gjf67V3PUMCSbq2drFaUlc9Bxn79G1EHkycsyQdRefLiTZ5ZtePuqH97vA7GYuv99vw7l7W8r/8dMwRczCURPvAZW2sK0HZsCEfYDhT3ZROIM8KKo/bca05/J9nxRCD8C9GjewJ69AZaB5bo0qa9O1rDVzAOUS+8xB8MaMdGBi9e+icnAQs5J20AJOp/XYkMRRMosB9yxZQJY90TJ7ZZiI+CZkYGqMJ+uHIynzVeV9jlMytv2+riV/vzvgGAAD//xdnxnldIiH1AAAAAElFTkSuQmCC",
+      "EquipType": "Armor",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Defense",
+            "+5 Speed"
+          ]
+        }
+      ],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 319,
+      "Name": "Shadowleaf Hood",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBBQbAALjMHJJfIfxlbQVmf8+fY5Tk337t3DNAAEDBxsGOQ01Bk2zZj7n4DFjFgNgAG/jGS8ukEWfP/2hhHFAEkJPsYLB46AbQa5AgQe3bhJwCFIBoD8xcklgqHgwoEjeA0Y+GgkaAAoZvDx8RoACkwQhmmCRTMywBqN2AxCppEBI7oALEVis40BkgbANCwdYBiAbhA6gGmkGqA4GgEBAAD//wTKLXs1txUXAAAAAElFTkSuQmCC",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Dodge",
+            "+5 Defense",
+            "+10 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 320,
+      "Name": "Sunleaf Hood",
+      "Description": "",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqElEQVR4nGJioBBQbAALjMHJJfIfxlbQVmf8+fY5Tk337t3DNAAE9h3dwaAiJ8sgJ6v9n4DFjFgNgIFHj6/i1Q2y4Pu3N4woBkhK8DE6WXv8h7kCBO48ekzAIUgGgPzFySWCocDJ2gOvAQMfjQQNAIUJPj5eA0CBCcIwTcgBTLQLYAZh08yAnCBgAJYicWmQk9UG07B0gGEAukHoAKaRaoDiaAQEAAD//9QyNMepVXDWAAAAAElFTkSuQmCC",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Vitality",
+            "+5 Defense",
+            "+10 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 321,
+      "Name": "Shadowleaf Boots",
+      "Description": "Boots with a shrouded glow",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABMklEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBbHBhjRNfv5+TEsW77xv19GMlx804y5DDzcjHC1r1+/xm3Al6//wZpP7jkAF3955y6c7eBoz3jm1CG4ISy4/IasCc01/0GGbN+6FtPv/v7+YL8r6Jn/Dy8qB/sfRIP4MAwTh+mDByLI77t2HwU7X1JGEsMLMAwCWVv2M8AMgYcBSACk+dGNm3CNFw4cYRBXUWYwd3GAi8n4xIDpaT6ODN+/vWHEGQYgzTADkV3zQ9aZYVd1FFgzihdAAQOKLjkNdRTNIADyEgjrJzajaEYxABQ1MEOwATHXLLBmTW1NRuREhZEOQEBdU5/h7JkL8MQE8gIoAEGaHz+4gZKQsAKQQaDki5ycjUxtcSZnigDFuREQAAD///d1lXhPTJByAAAAAElFTkSuQmCC",
+      "EquipType": "Boots",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Dashes"
+          ]
+        }
+      ],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 322,
+      "Name": "Sunleaf Boots",
+      "Description": "Boots with a sunshine glow",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABBElEQVR4nGJioBBQ3wBRUVGG5ORkBk4ukf8w7OkdDBYnCJA1v377Eo5BfJAcDCMDFnRDli3f+P/R46sMe0+cRBH/8vX/fxDt4GjPeObUIYbXr19jdwHMdmQvoLsG5CUMF4A0W1lZMezafRRsO8gVcrLaDOiugYqDXMOIYjuy34+fP/N/xdZN/3G5ZsWpCDAbxQUwv9959BjMl5eSAtMw18DA3rv5+AMRBpysPRhgBiJ74eyn1wxTki8yfP/2hhHFAFDogvyG7Hd016y7UY6imQE5IYGiBmoIVhfBNGtqazLiTFSwhGJj54KSmGABamRqS3yKBMU1cugTrZlUQHFuBAQAAP//Rnu4GqH9DrwAAAAASUVORK5CYII=",
+      "EquipType": "Boots",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+10 Speed"
+          ]
+        }
+      ],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 323,
+      "Name": "Shadowstep Tome (Pg 1)",
+      "Description": "Looks like its written in ancient entish",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAe0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7Iae0jxiFgwIjMAXmBGBcgewFnIIJcgewSXK4iKhbweYk+XkD3Dk4AcsHrty+x4vCicjCNnlaIdgEuQHEYYBiAVzcUIBtAMaA4NwICAAD//3L2UNx6yrGcAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 30
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 324,
+      "Name": "Shadowstep Tome (Pg 2)",
+      "Description": "Looks like its written in ancient entish",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7Iae1DofEBRmQOyAvEuADZCzgDEWQ7sgtwuYaoWMDnFfp4Ad07OAHIBa/fvsSKw4vKwTR6WiHaBbgAxWGAYQBe3VCAbADFgOLcCAgAAP//1SJSW2Uy854AAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 40
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 325,
+      "Name": "Shadowstep Tome (Pg 3)",
+      "Description": "Looks like its written in ancient entish",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF7Iae3DSmMDjMgckBeIcQGyF3AGIshWZJtxuYKoWBh4L6B7BycAueD125dYcXhROZhGTytEuwAXoDgMMAzAqxsKkA2gGFCcGwEBAAD//ytlU9qbXUbxAAAAAElFTkSuQmCC",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 50
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 326,
+      "Name": "Shadowstep Tome",
+      "Description": "Looks like its written in ancient entish",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAhUlEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEDBwsGGQ01DHqXnTjLm4XYAMfsg6w9kcj/fiNBBnGIA04dNI0ABcriHLALK8gO4CXK6gOBBxGkBMAGI14PmT52BMLMDqgtP7N2FV7BebzvDyzl3CBpg6+hHtAkZkDjl5gWIACAAA//+W5SfuSINP0wAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 30
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 327,
+      "Name": "Dawnlight Tome (Pg 1)",
+      "Description": "Looks like its written in ancient entish",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAeklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF74e6WdGIfgNoBZp5IyA2CuQHYJLlcRFQv4vMSIzAHFAjGBiBwLRHkB3TvIAKcBoICEBSa+QCXaBbgAxWGAYQBe3VCAbADFgOLcCAgAAP//TgU34G/6LL0AAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 20
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 328,
+      "Name": "Dawnlight Tome (Pg 2)",
+      "Description": "Looks like its written in ancient entish",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdklEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF74e6UdhcYHGJE5IC8Q4wJkL+AMRJDtyC7A5RqiYgGfV+jjBXTvIAOcBjDrVIIxjI0LEO0CXIDiMMAwAK9uKEA2gGJAcW4EBAAA//8CxkCPLVH/BwAAAABJRU5ErkJggg==",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 25
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 329,
+      "Name": "Dawnlight Tome (Pg 3)",
+      "Description": "Looks like its written in ancient entish",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdElEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEHj0+CpezXKy2ih8rF74e6UdK40NMCJzQF4gxgXIXsAZiCBbkW3G5QqiYmHgvYDuHWSA0wBmnUowhrFxAaJdgAtQHAYYBuDVDQXIBlAMKM6NgAAAAP//zqZC554KdrEAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 30
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Necromancer's Garden",
+      "Deprecated": false
+    },
+    {
+      "ID": 330,
+      "Name": "Dawnlight Tome",
+      "Description": "Looks like its written in ancient entish",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAg0lEQVR4nGJioBBQbAALMoeTS+Q/MZq+f3vDiNUAEKjobWJQl5PBqTkxNAm3C5CBA88+OPvAFyecBuIMA5AmfBoJGoDLNWQZQJYX0F2AyxUUByJOA4gJQKwGXLv9EIyJBVhdMKW6CKviaavWMmwixoCc1j6iXcCIzCEnL1AMAAEAAP//KR8m5zp9x2sAAAAASUVORK5CYII=",
+      "EquipType": "Ability",
+      "Weapon": {
+        "Damage": 0,
+        "Class": "",
+        "Rate": -1,
+        "Projectiles": 1,
+        "StrengthScaling": 0,
+        "ManaCost": 20
+      },
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 331,
+      "Name": "Carnival Ticket",
+      "Description": "A tattered ticket that just says 'admit one'",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAl0lEQVR4nGJioBCwkKqBk0vkP4z9/dsbRkZSNT96fBXOl5PVJk3z67cvwRjEhrkErxeQnYtsK8jpMD5WA2Aar07RxasZqwEgzega8QEmXJq1cy6TZgC6ZmINYsSnGRmAxNH9D3YBuTZjeIEBKdTRXYHLdrABIAlk20jRzAALAwYc0UdIM4oXsLmEkGasADmdEwMAAQAA//+nAmMA7DvaMQAAAABJRU5ErkJggg==",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Vesper's Carnival",
+      "Deprecated": false
+    },
+    {
+      "ID": 332,
+      "Name": "Jack-o'-Lantern Helmet",
+      "Description": "Spooky",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAnUlEQVR4nGJioBAQZQAnl8h/ECbLAJBG2wo5chwH0ezWZITTdhBgxKURRCPbfLjjEZj+/u0NI14DQJr3pAkxiIpJYLVRv+UaiiFM2DTjAxdrtBiQvcSCTzHINpgmZD4yoDgdoIQBshdwhQEDWjjgdQFIIczZ6DQMEOUFXJoZ8AXi61cvGLDFCMhryAZhTQeEXISemCgCFEcjIAAA//+cCzoaQnU1LgAAAABJRU5ErkJggg==",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 333,
+      "Name": "Jack-o'-Lantern Helmet",
+      "Description": "Spooky",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAnUlEQVR4nGJioBAQZQAnl8h/ECbLAJBG2wo5chwH0ezWZITTdhBgxKURRCPbfLjjEZj+/u0NI14DQJoLddIZNDgEsdqYfqYDxRAmbJrxgZkmFQzIXmLBpRBkE7ImZD4ywBkLIE34+DCAEgbIXsAVBgxo4UAwHcCcjk4T9AJMMcz/yDRRXsAFQF5D9gLWdEDIW+iJiSJAcXYGBAAA//8U6EKvHLoAmwAAAABJRU5ErkJggg==",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 334,
+      "Name": "Jack-o'-Lantern Helmet",
+      "Description": "Spooky",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAl0lEQVR4nGJioBAQZQAnl8h/ECbLAJBG2wo5chwH0ezWZITTdhBgxKURRCPbfLjjEZj+/u0NI14DQJqNQ8oZhA31sdq4qzoKxRAmbJrxAbfWZQzIXmLBpxhkG0wTMh8ZEIwFmGZ0NlEGYNOALkaUF/ABolIizFZsLkKJRmJiAQTOrumERyXWdEDIAPTERBGgODsDAgAA//9OvDUmDrjA5gAAAABJRU5ErkJggg==",
+      "EquipType": "Hat",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 335,
+      "Name": "Small Backpack",
+      "Description": "A simple backpack to hold things",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBAMvAEsuCQ4uUT+I/O/f3vDiE0dVkGQ5kI7XRSx/kOXsRqC4QWQZhdFObAGZM0gMXRX4fUCsiEgNi7AiM12EBBm/MXw3c0bIr5rK8Pb/2xg9p77j1C8gtUFIM0g8G3nbogBjBAxmCHIgHrpANn5+AB6YKJ44fnHr2BaWIAVLx+rC0ABc/XdW4IuAKlBDkSMhIEtrpEBrhRJNqA4FgABAAD//xnkRIeVELpCAAAAAElFTkSuQmCC",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 336,
+      "Name": "Medium Backpack",
+      "Description": "A simple backpack to hold things",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAxUlEQVR4nGJioBCwYBPk5BL5j038+7c3jOhiGAIgzYV2ulht6z90GcMQJnTNLopyYIXYNIPk0F2H1QvYDAGJYQNYDQABv4xkFP63nbuxqmNCdz4ICDP+wlAIE0P3Bk4XcO7ayvD2PxtOAzFcQC7AMACfbdjkwAYg+x8GYM5HZzOghQNGGHx384Yw0EIdlzgjzAXaQsJgAR0BVjB95cNvFIXo4lffvQWnSrAXQAyQALEAppkBPS/gykQY3sSSqcgGgAAAAP//AwVOsWpoRJsAAAAASUVORK5CYII=",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 337,
+      "Name": "Large Backpack",
+      "Description": "A simple backpack to hold things",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAz0lEQVR4nGJhQAOcXCL/0cWQwfdvbxiR+YzomgvtdPHpZ+g/dBnFECZkzS6KcmAF+DSD1CC7EsML+AwByaEDDANAwC8jGeKqXVvB9Hc3bzD9beduDLVMyM4HAWHGXzi9AJND9gZWF4BsfvufjeEbAxtEYOdunAYz4bSOSDDIDMAXgLjUMCHHAAyAAhAdoIvBYgIlFmDxzYAlvnHJM4JM0RYSBnN0BFjB9JUPv7EagC5/9d1bBiZQxgAxSAUgPSC98FxFKBtjeAeaIwEBAAD///4BUUnGd1+jAAAAAElFTkSuQmCC",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 338,
+      "Name": "Pocketed Cape",
+      "Description": "A simple cape, now with pockets!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA20lEQVR4nGJioBCwYBPk5BL5j038+7c3jOhiGAIgzUtynbHaFjN5L4YhLOiaC+10wewFW26jaE7wUWUAyfUfuvwf2RCsYXD24isGXVl+hucfv4IxiA0SwwZwBuLlxx+xsnEagOx8GJDk5wZjZABSgxzIeKMR5G8QxgewGoDNybi8wYTL+fgAsjdwegHZ6fi8wQhLOKBoMtYXA9Mg5+65/whFoYuiHDg6YWpANChhgV0ASzQwGqQZlFiQMcxAdLVMyJIgGwgBmBqYJfAkiRy32DINsWpIBoAAAAD//1COeEnpRKNJAAAAAElFTkSuQmCC",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Defense"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 339,
+      "Name": "Cargo Cape",
+      "Description": "A simple cape, now with lots more pockets!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+UlEQVR4nGJioBCwYBPk5BL5j038+7c3jOhiGAIgzUtynbHaFjN5L4YhjOiaC+10GYz1xRgWbLmNojnBRxWrIRhhcPnxRzCtK8vP8PzjVzAGsc9efIVhKFYDQIpBCmEGwQwFuQokh9MAZL/DFEryc4MxCMBsB6lBDmQUF8AUgWyD+RvmdxiN7g0mdOdjC0CYRmzeYEJ3PjbN6C5E9gYTuiTMBpiTkdkwOWRLWGC2g6IJ5EQQzQCNb2TgoiiHFj7OIDX/wS6AaYKZvOf+I3BiQcYgMWQ1MD1MIMn+Q5dRAhEXQA5EkB6QXniSRI5bbJmGWDUkA0AAAAD//whajFFb3+AZAAAAAElFTkSuQmCC",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+3 Defense"
+          ]
+        }
+      ],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 340,
+      "Name": "Artificer's Rucksack",
+      "Description": "Built for holding ancient relics.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqElEQVR4nGJioBBQbAALLglOLpH/yPzv394wEu0CkOZCO10GbSFhBhiNbiBOA0AKQRpAwE1HiqAXsLqAwymFYdeVZ3B89d1bBuOQcqyuwBkGIENgwBiPCxjRne+iKIdV4XvjSAbBs8sZ9tx/hBKgREUjTDOIxukCfLajA2RXUDchPf/4lWQD4C4AOQkUXYQASA1yIGIkT1wpDtkikp2JD1AciIAAAAD//2KsP+NZQxPmAAAAAElFTkSuQmCC",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Ancient Ruins",
+      "Deprecated": false
+    },
+    {
+      "ID": 341,
+      "Name": "Ore Bag",
+      "Description": "A large dwarven bag for holding ore.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmElEQVR4nGJhQAOcXCL/0cWQwfdvbxiR+Yzomv0ykvHpZ9g0Yy6KIUzImg0cbBhO7jmAUzNIDqQG2ZUYXoApxAYkZSQxxDAMACl6/uQ5Xk3IgAnZ+eiacGlG9gYTXuOJALQzgJDfae8CYgEjegyQAi4cOEK5C8AJCTnhkAqYQBnj5Z27JGsE6QHphecqQtkYHcByJCAAAP//rtIzk7t5J+EAAAAASUVORK5CYII=",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Volcanic Mines",
+      "Deprecated": false
+    },
+    {
+      "ID": 342,
+      "Name": "Captain's Cape",
+      "Description": "Fit for a dastardly pirate captain",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAyklEQVR4nGJioBCwYBPk5BL5j038+7c3jAQNAGnmERbBZeF/dEMY0TWLqygzfH3/keHL2zcoOkGGcgvyM7y8cxfFJVi9AFIIwvsKuMB8pwnfcLmIAWcggmzCxkYHLMjOR/e7ds5lDA1QNfCwYEJ3OgiAwgCmGGYoTAymBq8X0AMQlxjcAAJRh9UbsLTChO58ZEXY2OhqWXDZjsvJaIb+Z8FmOwOWZIuevEF6QJYwgRQixzMstLEBZDlYimTEZgO2TEOsGpIBIAAA//9hH1pPsWcdrQAAAABJRU5ErkJggg==",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Critical Chance"
+          ]
+        }
+      ],
+      "Source": "Pirate Cove",
+      "Deprecated": false
+    },
+    {
+      "ID": 343,
+      "Name": "Granite Cape",
+      "Description": "It's a cape made entirely out of stone!",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAg0lEQVR4nGJioBAMvAEs2AQ5uUT+YxP//u0NI7oYhgBI8/zV87DalhiahGEIIy7NNx89QdGsLieD1RCcYQDScO32QzCGacYGcBqA7AJ012D1ArrfcXkB3RvUSQeEbEcXA6mFRTXFLsAaBiA/YgPI8tgSFdgQXKmQGHmyAMVhAAgAAP//vEhEMQqNEVIAAAAASUVORK5CYII=",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+5 Defense",
+            "-5 Speed"
+          ]
+        }
+      ],
+      "Source": "Stoneheart Forest",
+      "Deprecated": false
+    },
+    {
+      "ID": 344,
+      "Name": "Slimy Cape",
+      "Description": "I don't really want to put this on.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7klEQVR4nGJioBCwYBPk5BL5j038+7c3jOhiGAIgzfMPuGC1LdFhD4YhjOiac+bqMxgrizLM23ELRXOShxrD2buvGaYkX0QxBGsYgBTqqwoy3L/yB4xBbJAYNoAzEC/efo+VjdMAbH5X1GEBY2QAUoMcyFhjARQGIFtB/gYBUHiAxGDew+kFkCS2AESWx+oFfFEHA8iGInuDCZfpMOejs0EuRFbLCLMd5nwQDfL/4Y5HKAbaVsiBoxPZIFDCYkL2OwyANIMSCzKGGYgemEwgSVDqAgmgG4QOkJ0PS5HwJIkct9gyDbFqSAaAAAAA//+zz45eBeIc6QAAAABJRU5ErkJggg==",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Slime Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 345,
+      "Name": "Wizard's Cape",
+      "Description": "Woven with thread that shimmers with arcane energy.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA80lEQVR4nGJhQAKcXCL/GYgA37+9YYSxGZE1u7UuI0Y/w67qKLghjMiar61ewiCuootX88s7lxm0QmPghjAhS4IkCAF0NVi98Pb8RbBNyADkMmFDfQwvwF0AEgBJINsU+kcWjJFtRdaMYgAyANkECg8YALFhtqMDJmQvGIeUo0iuZnkMxsgApAY5upnQbYaFAczfsFiBiaG7BKsX0AMQlxjcAGzOxweQvcGE7nwYQE5Q6IkLWS0LLtvPrulE4csYeGG44uyazv9M2Gx/cmEbOK6RMUgMmyuY0BMQLLSxAWQ5WIJCScowNnJKQwbY1AACAAD//3O2gp5M+4a6AAAAAElFTkSuQmCC",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+4 Willpower"
+          ]
+        },
+        {
+          "Filter": "With Staff:",
+          "Modifiers": [
+            "+5 Damage"
+          ]
+        }
+      ],
+      "Source": "Alivarg's Tower",
+      "Deprecated": false
+    },
+    {
+      "ID": 346,
+      "Name": "Monk Shawl",
+      "Description": "A simple shawl for a monk",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAxUlEQVR4nGJioBAMvAEs2AQ5uUT+YxP//u0NI7oYhgBIc6GdLlbb+g9dxjCECV3zklxnMPvy448oGARAcuiuw+oFY30xMLaKiwHzjy1agtVFGC5ABgu23MbKRgcsyM5H93taWD2GBpCa/kOX/8PCggnd6SBw9uIrMK0ryw/GyGIwNSheQLcdFGgwjTCDYAEJcwUsMJnQbUc2BBsbXS0jchiAognkVFB8YwMgm0GaYybvxZqowIbgSoXEyJMFKM5MgAAAAP//7IFVoREJO9UAAAAASUVORK5CYII=",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "With - Ring of Focus:",
+          "Modifiers": [
+            "+1 Dashes"
+          ]
+        }
+      ],
+      "Source": "The Hanging Temple",
+      "Deprecated": false
+    },
+    {
+      "ID": 347,
+      "Name": "Bloodkiss Cloak",
+      "Description": "It thrums with a pulse that mirrors your own heartbeat.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAu0lEQVR4nGJioBAMvAEs2AQ5uUT+YxP//u0NI0EDQJothGWx2naCgeE/uiFM6JrnqMmA2Sbs7CgYBEBy6K7D6oUUYZCaHyhiBjxYHYU7EC984cDKRgcsyM6H+P0/Xo0gNchhwYTpdAaGOW8h4XTm508wRhaDqUHxAnrIgwINphFmECwgYa6ABSYTuu3IhmBjo6tlRA4DUDSBnHri7WMMv8NsBmlOufUEa6ICG4IrFRIjTxagODMBAgAA//8CF0inkkJwwQAAAABJRU5ErkJggg==",
+      "EquipType": "Cape",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+3 Lifesteal Chance"
+          ]
+        }
+      ],
+      "Source": "Succubus Lair",
       "Deprecated": false
     }
   ]
