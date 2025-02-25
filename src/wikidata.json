@@ -62,7 +62,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "Blightcap",
       "Deprecated": false
     },
     {
@@ -424,7 +424,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -835,7 +835,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 2,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -844,7 +844,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -1658,7 +1658,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 3,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -1678,7 +1678,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 4,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -1698,7 +1698,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 5,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -1718,7 +1718,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 6,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -1738,7 +1738,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 7,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -1758,7 +1758,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 8,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -1778,7 +1778,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 8,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -1805,7 +1805,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 7,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -1832,7 +1832,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 9,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -1859,7 +1859,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 10,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -1888,7 +1888,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 10,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -2190,7 +2190,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 5,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 2.5,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -2876,7 +2876,7 @@
         "Modifiers": null
       },
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -2985,11 +2985,11 @@
       "Ability": null,
       "Consumable": {
         "Heal": 0,
-        "Mana": 10,
+        "Mana": 25,
         "Modifiers": null
       },
       "Modifiers": [],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -3009,7 +3009,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -3635,7 +3635,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 11,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -3690,14 +3690,14 @@
     },
     {
       "ID": 181,
-      "Name": "Guardian Potion",
+      "Name": "Guard Potion",
       "Description": "A small vial filled with liquid",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAnklEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NI14DQMBFUY5BV5YfQ7z/0GUMMUZsLnj0+CrDnUePUcRV5GQZ5GS1MVyAEQYgBSCFIA2ENGM1ABlMWLwajPEBomIhp7WPMgOmVBfhlMPwEwM0IP0yklHENs2YS1oYINv66MZNnC7Amg5AwC82HacmZIDVCwxYUiQ251MFUJyZAAEAAP//v/MvQtcASVcAAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4nGJioBAMUgNERUUZfExVGTi5RP6DMIgNEsMGWHCZvPfq+/9Lcp3B7JjJe//zcDMyEuUCkE1WVlZg9tmLrxi07GzBbJAYLldgGABy9uu3L//DvABjYzMApxfuPHrM8OjxVYIWYnjBkI0NTE9YvBpsCAhMW7UWRQ4ZYAQMyKkGDjYMchrqDI9u3ATTU6qLGPxi0xkuHDjC8P3bG0a8LoABmGYtVXmwC0BsbABrGMBsB2FkA7EBDC8k6ysxLLv96b9fRjKKRpDzfUW4GFc9eoTfAFBU+Unxgg1BFgdp3v/9O8Pr169xeJpMQHFmAgQAAP//+hJbenXGWrEAAAAASUVORK5CYII=",
       "EquipType": "Consumable",
       "Weapon": null,
       "Ability": null,
       "Consumable": {
-        "Heal": 0,
+        "Heal": 30,
         "Mana": 0,
         "Modifiers": null
       },
@@ -3946,7 +3946,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 8,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -5031,7 +5031,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 12,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -5194,7 +5194,7 @@
       "ID": 255,
       "Name": "Mythril Bar",
       "Description": "A solid bar of mythril",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdUlEQVR4nGJioBAMvAEshBRwcon8Rxf7/u0NI4zNSEjz7MvHMcRTdS3hhuD0Ai7NqzfdR+FjNYBYzVgNIEUzhgHEaN5VHYU9EEGas7bsx9B85+JznJqxegEXwKaZaANwaWZATwfYEg0DWsKhOhj4zAQIAAD//+tZPLUDgARXAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7klEQVR4nGJioBDgNUBUVJQhOTkZRP8HYX9/f7AYCBMEyJqX3L0NxugGgQAjLs1+fn4MmzZt+t9/4hhc/PzDHwyG8hwMhRZWYP7r168ZMbyArhmkCR1YVS3FHgaENINsX73pPkOonyKmAcTYDNMMolEMwOVnXJqPtUUzqGsZM8INIMbZKvqSKJpvXjsLlmcGEU+ePIHb/OLjHwZJARYwjaz5zsXnKJpfv34NVs+CHEUwG9FtxqUZxQCQIgiQhPMJaWaAJSRQ6mJAi19iNCMbwCArr8bw+OEtFIMIaWZATsqwtI1sECHNVAGAAAAA//8HW8EVswiZvAAAAABJRU5ErkJggg==",
       "EquipType": "Resource",
       "Weapon": null,
       "Ability": null,
@@ -5338,7 +5338,7 @@
           ]
         }
       ],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -5398,7 +5398,7 @@
           ]
         }
       ],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -5425,7 +5425,7 @@
       "ID": 267,
       "Name": "Basic Dexterity Ring",
       "Description": "A ring with a basic enchantment",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75/vYYMPvBtYMMTx+ooSiOmbwXwxAmbJpxgSW5zhguZCRkO8hWZAPQXYISBiCNIICsGaYQZMHZi68YjPXFUFyFYgCyn7H5FxvAGo3omkG2F9rpYtiO0wBkgK4Z3XCMdICsEUTj08yALR3AQhoUYCCATzOGAeiGwAC+AMUqiJ5YiIkNsgHFuREQAAD//xZLYjNUyRCdAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAq0lEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75/vYYMPvT0XMMlz9KoiiOmbwXwxAmbJpxgSW5zhguZCRkO8hWZAPQXYISBiCNIICsGaYQZMHZi68YjPXFUFyFYgCyn7H5FxvAGo3omkG2F9rpYtiO0wBkgK4Z3XCMdICsEUTj08yALR3AQhoUYCCATzOGAeiGwAC+AMUqiJ5YiIkNsgHFuREQAAD///fdYiX4RgOpAAAAAElFTkSuQmCC",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -5445,7 +5445,7 @@
       "ID": 268,
       "Name": "Lesser Dexterity Ring",
       "Description": "A ring with a lesser enchantment",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75/vYYMPvBtYMM/y1moyh2svbAMIQJm2ZcYN/RHRguxBoGyLaDbIVhbIawoGsEAWTNMCeDND189oxBXkoKxTIUA5D9jM2/2ABWL6BrBtk+f/U8DNtxGoAM0DWjG46RDpA1gmh8mhmwpQNQKIMAKMBAAJ9mDAPQDYEBfAGKVRA9sRATG2QDinMjIAAA//+qE1sUITK6hAAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75/vYYMPvT0XMMbz37UBQ7WXtgGMKETTMusO/oDgwXYg0DZNtBtsIwNkNY0DWCALJmmJNBmh4+e8YgLyWFYhmKAch+xuZfbACrF9A1g2yfv3oehu04DUAG6JrRDcdIB8gaQTQ+zQzY0gEolEEAFGAggE8zhgHohsAAvgDFKoieWIiJDbIBxbkREAAA//+LtFsGS8dY4gAAAABJRU5ErkJggg==",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -5465,7 +5465,7 @@
       "ID": 269,
       "Name": "Standard Dexterity Ring",
       "Description": "A ring with a standard enchantment",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75/vYYMPvBtYMMYuwCKIq1cy5jGMKETTMucHWKLoYLsYYBsu0gW2EYmyEs6BpBAFkzzMkgTQ9uvmJQUBdDsQzFAGQ/Y/MvNoDVC+iaQbZvzRXHsB2nAcgAXTO64RjpAFkjiManmQFbOgCFMgiAAgwE8GnGMADdEBjAF6BYBdETCzGxQTagODcCAgAA//+9MVcUqVh5VgAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAArElEQVR4nGJioBBQbAALugAnl8h/XIq/f3vDiC7GiK75/vYYMPvT0XMMLBLMKIq1cy5jGMKETTMucHWKLoYLsYYBsu0gW2EYmyEs6BrBgkiaYU4GaXpw8xWDgroYimUoBiD7GZt/sQGsXkDXDLJ9a644hu04DUAG6JrRDcdIB8gaQTQ+zQzY0gEolEEAFGAggE8zhgHohsAAvgDFKoieWIiJDbIBxbkREAAA//+e0lcGvT9DMwAAAABJRU5ErkJggg==",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -5485,7 +5485,7 @@
       "ID": 270,
       "Name": "Greater Dexterity Ring",
       "Description": "A ring with a greater enchantment",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvUlEQVR4nGJioBCwoAtwcon8h7G/f3vDSJIBIM33t8eA2Q+uHWRwLGb4jyyPzUBGbJphBoixC6Ao1s65jGEIEzbNuMDVKbooXoQbgA6QbQfZCsPYDGFB1gQDyJphTgZpenDzFYOCuhgDhgtAihyLH4M1YtOMD2D1ArpmkO1bc8UxbMdpADJA14xuOEZCQtYIovFpZkBOBzBNoFAGAVCAgQA+zRgGoBsCA/gCFKsgemIhJjbIBhRnZ0AAAAD//0KiZc6/bLMqAAAAAElFTkSuQmCC",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAuklEQVR4nGJioBCwoAtwcon8h7G/f3vDSMgARnTN97fHgNmfjp5j0G+5hqIYm4GM2DTDDGCRYEZRrJ1zGcMQJmyacYGrU3RRvAg3AB0g2w6yFYaxGcKCrAkuiKQZ5mSQpgc3XzEoqIsxYLgApAgUYCCN2DTjA1i9gK4ZZPvWXHEM23EagAzQNaMbjpGQkDWCaHyaGbAlJFAogwAowEAAn2YMA9ANgQF8AYpVED2xEBMbZAOKszMgAAD//3xXZYVDLdN8AAAAAElFTkSuQmCC",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -5505,7 +5505,7 @@
       "ID": 271,
       "Name": "Superior Dexterity Ring",
       "Description": "A ring with a superior enchantment",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAv0lEQVR4nGJioBCwYBPk5BL5D2N///aGkSQDQJrvb48Bsx9cO8jgWMzwH58hLLg0E+siRnyaQS4QYxdAEdPOuYxiCBM+zdjA1Sm6KC7CGgswzTDbQbbCMLohLLhsRNYMczJI04ObrxgU1MXg6lhgAQMKbZjpuPyLDcC9gK4QXTPI9q254ii24wwDdICuGdlwrCkRWSOIxqWZATkdIGuChQMowEAAl2asBqAbAgO4AhRnCCMnFgYiMhXZABAAAP//kXJzk/xSS+4AAAAASUVORK5CYII=",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAv0lEQVR4nGJioBCwYBPk5BL5D2N///aGEZ8BGJIgzfe3x4DZn46eY9BvuYbXEBZcmol1ESM+zSAXsEgwo4hp51xGMYQJn2Zs4OoUXRQXYY0FmGaY7SBbYRjdEBZcNiJrhjkZpOnBzVcMCupiCHWwgNFvufYfZjou/2IDcC+gK0TXDLJ9a644iu04wwAdoGtGNhxrSkTWCKJxaWbAlRJh4QAKMBDApRmrAeiGwACuAMUZwsiJhYGITEU2AAQAAP//9wN0V/CfRTUAAAAASUVORK5CYII=",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -5518,14 +5518,14 @@
           ]
         }
       ],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
       "ID": 272,
       "Name": "Paragon Dexterity Ring",
       "Description": "A ring with a paragon enchantment",
-      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvklEQVR4nGJioBCwoAtwcon8R+Z///aGkWgDQJrvb4+B8x9cO8jgWMzwH58hLPg0Y3MVumGM2DQjGyDGLoAirp1zGcUQrIGIbDs6uDpFF8VFLPg0wmwH2YpsAAhr51wGhw0TMZpBCmHOfnDzFYo6sAtAkqDQhtmAy7/YANwF6ArRNYP8vTVXnEFBXQy7AfgAumZkwzFSIrpGEI1LMwMsHaBrgoUDLMBwacZqALohMIArQHGGMKmZimwACAAA//+flncoWY9DcgAAAABJRU5ErkJggg==",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAwElEQVR4nGJioBCwoAtwcon8R+Z///aGEZ8BjOia72+PgfM/HT3HoN9yDa8hLPg0Y3MVumGM2DQjG8AiwYwirp1zGcUQrIGIbDs6uDpFF8VFLPg0wmwH2YpsAAhr51z+D3IJEzGaQQphzn5w8xWqOgZowOi3XPsPswGXf7EBuAvQFaJrBvl7a644g4K6GHYD8AF0zciGY6REdI0gGpdmBvSUCNMECwdYgOHSjNUAdENgAFeA4gxhUjMV2QAQAAD//zLld/qo6ET2AAAAAElFTkSuQmCC",
       "EquipType": "Ring",
       "Weapon": null,
       "Ability": null,
@@ -5638,7 +5638,7 @@
           ]
         }
       ],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -5714,7 +5714,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+3 Strength"
+            "+4 Strength"
           ]
         }
       ],
@@ -5734,7 +5734,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+4 Strength"
+            "+6 Strength"
           ]
         }
       ],
@@ -5754,11 +5754,11 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+5 Strength"
+            "+8 Strength"
           ]
         }
       ],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -5774,7 +5774,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+6 Strength"
+            "+10 Strength"
           ]
         }
       ],
@@ -5834,7 +5834,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+3 Willpower"
+            "+4 Willpower"
           ]
         }
       ],
@@ -5854,7 +5854,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+4 Willpower"
+            "+6 Willpower"
           ]
         }
       ],
@@ -5874,11 +5874,11 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+5 Willpower"
+            "+8 Willpower"
           ]
         }
       ],
-      "Source": "",
+      "Source": "Craftable",
       "Deprecated": false
     },
     {
@@ -5894,7 +5894,7 @@
         {
           "Filter": "",
           "Modifiers": [
-            "+6 Willpower"
+            "+10 Willpower"
           ]
         }
       ],
@@ -6377,7 +6377,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 11,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -6404,7 +6404,7 @@
       "EquipType": "Weapon",
       "Weapon": {
         "Damage": 11,
-        "Class": "Sword",
+        "Class": "Dagger",
         "Rate": 3.3333333333333335,
         "Projectiles": 1,
         "StrengthScaling": 0,
@@ -6786,7 +6786,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -6799,7 +6799,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -6812,7 +6812,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -7604,7 +7604,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -7624,7 +7624,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -7651,7 +7651,7 @@
           ]
         }
       ],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -7664,7 +7664,7 @@
       "Ability": null,
       "Consumable": null,
       "Modifiers": [],
-      "Source": "Craftable",
+      "Source": "",
       "Deprecated": false
     },
     {
@@ -7787,6 +7787,1073 @@
       ],
       "Source": "",
       "Deprecated": true
+    },
+    {
+      "ID": 388,
+      "Name": "Iron Bar",
+      "Description": "A solid bar of iron",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVR4nGJioBDgNUBUVJQhOTkZRP8HYX9/f7AYCBMEyJobp08DY3SDQIARl2Y/Pz+GTZs2/c9paoSLX7v9kEFLVZ5hSl09mP/69WtGDC+gawZpQgcqptbYw4CQZpDtOzbvYvDwdcM0gBibYZpBNIoBuPyMS/Od00cZ1LWMGeEGEONsOQ11FM03r51FuACXzciaH924iaL59evXYDUsMMUwm0GaiNWMYgBIETIA8QlpZoAlJFDqYkCLX2I0IxvAICuvxvD44S0UgwhpZkBOyrC0jWwQIc1UAYAAAAD//3dKt6e5NCMzAAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 389,
+      "Name": "Chlorolite Bar",
+      "Description": "A solid bar of chlorolite",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVR4nGJioBDgNUBUVJQhOTkZRP8HYX9/f7AYCBMEyJpLlzuDMbpBIMCIS7Ofnx/Dpk2b/idM0oOLX7z9nkFfVZBhQd4lMP/169eMGF5A1wzShA4EHCWxhwEhzSDbN6x/zRAQKIppADE2wzSDaBQDcPkZl+YP+58zqGsZM8INIMbZijosKJpvXjuLcAEum5E137/yB0Xz69cQb7DAFMNsBmkiVjOKASBFEPAeziekmQGWkECpiwEtfonRjGwAg6y8GsPjh7dQDCKkmQE5KcPSNrJBhDRTBQACAAD//7sHt8B907h7AAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 390,
+      "Name": "Gold Bar",
+      "Description": "A solid bar of gold",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7UlEQVR4nGJioBDgNUBUVJQhOTkZRP8HYX9/f7AYCBMEyJrvzXMEY3SDQIARl2Y/Pz+GTZs2/T/ZqQMXf3DzFYOCuhiDefkVMP/169eMGF5A1wzShA6KzcSwhwEhzSDbV619xRAWjMUAYmyGaQbRKAbg8jMuzb2nXjGoaxkzwg0gxtlmOgwomm9eOwuWZwYRT548gdv84e1XBgERbjCNrPnUFQYUza9fvwarZ0GOIpiN6Dbj0oxiwKkrMNYrOJ+QZgZYQgKlLga0+CVGM7IBDLLyagyPH95CMYiQZgbkpAxL28gGEdJMFQAIAAD//9gfuXqKCH4FAAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 391,
+      "Name": "Cobalt Bar",
+      "Description": "A solid bar of cobalt",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVR4nGJioBDgNUBUVJQhOTkZRP8HYX9/f7AYCBMEyJr9+3eBMbpBIMCIS7Ofnx/Dpk2b/ltVLYWLvz1/kUHYUJ/hWFs0mP/69WtGDC+gawZpQgcCqp7Yw4CQZpDt11YvYdAKjcE0gBibYZpBNIoBuPyMS/OH29sZ1LWMGeEGEONscRVdFM03r51FuACXzciaX965jKL59evXYDUsMMUwm0GaiNWMYgBIETIA8QlpZoAlJFDqYkCLX2I0IxvAICuvxvD44S0UgwhpZkBOyrC0jWwQIc1UAYAAAAD//xAXt1SoPY8eAAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 392,
+      "Name": "Obsidian Bar",
+      "Description": "A solid bar of obsidian",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7UlEQVR4nGJioBDgNUBUVJQhOTkZRP8HYX9/f7AYCBMEyJoX2fWAMbpBIMCIS7Ofnx/Dpk2b/vdqlsPFb/x4z6DBIchQfL0TzH/9+jUjhhfQNYM0oQNtIRvsYUBIM8j2eS+PMiSJW2MaQIzNMM0gGsUAXH7GpfnquyMM6lrGjHADiHG2Fb8Wiuab186C5ZlBxJMnT+A2v/nzg0GEhRNMI2s+9vEaiubXr1+D1bMgRxHMRnSbcWlGMQCkCAK04HxCmhlgCQmUuhjQ4pcYzcgGMMjKqzE8fngLxSBCmhmQkzIsbSMbREgzVQAgAAD//+yUvYn4gwboAAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 393,
+      "Name": "Rock",
+      "Description": "It's a rock. What more do you want?",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAApklEQVR4nGJioBAMvAEs2AQ5uUT+w9jfv71hhPFBbIImghQfP38GjFds3fQfxAfRID6ywQS98PDZMzBd0duEwifKAJjim4+eMFy7/RBM4wIs6M6fv3oeXCMywGUIhgtACtXlZBgCna3BfBAN4uMCGKEKcsW+ozsw/CwvJcXgZO2BERMYLgApACkEuQTmbJBmol2A7BJshuM0iVww8HmBYgMAAQAA//8jF1Q7HllLnAAAAABJRU5ErkJggg==",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 394,
+      "Name": "Alchemy Table",
+      "Description": "A table for crafting potions",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABEAAAAeCAYAAADKO/UvAAACfUlEQVR4nJRVX0jTURT+JppZxCDDaOjEGBgN20MvsWBME+qlIGIvFYPCtzIYUfQQPUhQMGSg9pjF+oPgUyVU0D+EiCIfxjQm/cCaNVNKmmAyVxnnzHu99/fHtg/Guffcc7/fd849d7caCuo2bVtBmVj69d0lxi6VIBZqw95AA4qhE2j2eNj/OZdjK+YCHfsPSSKXIHjx+glyQ3GMpeawpzsmgyezXywqWr2NbE9FTjORTMfnbULOZmPhwTCrC13sg7fJz75bw4NaTLVdvrTRCXe7D2CsPyHHJ/ufr1Q5RiugFFXE7g3h8LX4mhJxIkZ2GrdHPpbDia5kim1UkKiLg6OPtSAV9BGB6Leb2ppGcjSWtGyOx9pxIfESCLfz3E6tbWFnjTTb5I1ziJ7pW/WWSGbyi9jY0cUx7uxb9rmoJpd6e3D9/BVQrziBmovQ2eLV/M+msiUl1DwTA23wrwbagdbvFCL8MTNc4nRIzZFX9+E+WKMF5J8W2T4MH2cCuhoCidH0WsfSAn+htwet2xs1kslwqTNp/azHZ6tSFlYSOUAQ0BUwN592OkRUNJZ4nKldxq7CBjlGARjIGdiHZk5DTUu2/ftgHpgP4k3wmKMaws5PX53TmRr/jeX8B8waW2w3k4rU5d1YTP1lG7iatiopB0SgWouSyEI90PITRWPGloAKG3yUkXOqCdUG5sJ2BuaAQGmcGam1Jarx1Vn8Gsm78TLzWo9k4U+DPGLQsVZCkp7O84Quk1NXClAdzJeQSeh6VwJzPB/xDvdm/pULc3yVE7sANdn/lPBfgX9rPU8m5n9YNtBVNz+varz2eKmb1vM5vte0UMljbo7/FwAA//9M6QKnH5p2cgAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 395,
+      "Name": "Anvil",
+      "Description": "An anvil for blacksmithing, made entirely of iron.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABEAAAALCAYAAACZIGYHAAAApUlEQVR4nGJhQAOcXCL/0cXQwfdvbxiR+Yzomv0ykvEa8OjGTYYLB46gGMYIM4CQZmRDYABkGMggFpABBg42DFqq8gzXbj8kyiA5DXWweqhB/1lAJoEYIAEPXzewBCHDQAbs2LwLzkcJE5CLkA3DBpA1w7yDEsrIBhECMANAbCaidOAxAKchoIADYUJiMMCILkDIS+iuwGoIA4FUi24ACAACAAD//ws4UCaRgSmyAAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 396,
+      "Name": "Chlorolite Tools",
+      "Description": "Unlocks more recipes for the Anvil",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAAA/0lEQVR4nGLh5BJhIAWwMDAwbO+KRxN9+/gJVtUxk/ey4JFmYGAQlpVBM4IFlwQuq1iwSuDSD9Vw9uIrdKdgiqDZcPnxRwYGhucfv0ryc8Plbmj/gbM1rrLoyvIzMDAw4TIJogiNga4B2XgGBoaf4SClGldZfoYzYNcgzPgLmXv/yh80BrqGKx9+43EhFg2YfoDYidMPmADTTgIa8DkJEhTIAUJAA5EA6pviTMe2d/uF0rghbEgSmsl9m2EWyM70r6rwFAS1ATmRIbMhRgjLysCTIyK8ELGjiC7yVvEJupMwgbCszGyYqVgy0NmLr0IZhOFsBtwpnJHUQgAQAAD//59OZXEJz1kwAAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 397,
+      "Name": "Gold Tools",
+      "Description": "Unlocks more recipes for the Anvil",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAABEklEQVR4nGLh5BJhIAWwMDAwbO+Kx5R4+/gJnC0sKwMRiZm8lwVNDitAVsCCLAE3CU0EWRsLsiimVZgiIA27tpzD7yR0DQwMDJcff2RgYHj+8askPzdcrtDnJ5zdv4VdV5afgYGBCY9h/VvY0RjoGpCNZ2BgmFjM37+FvX8L+8RifuwahBl/IXMf3HyFxkDXcOXDbzwuxKIB0w8QO3H6ARNg2klAAz4nQYICOUAIaCASQGM6wUeVgeHVqiYpGBsEDNVfhdV9nVjMf/6mmLCsDCQFQW1ATpXCsjJwLsQI5FTIAuf/Y4DGznsGqBxSfImhOwm7/2Q9oHZCqIuvEBrOgjhwY2AGX3yFaQojqYUAIAAA//+cDWC3hSPAcQAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 398,
+      "Name": "Cobalt Tools",
+      "Description": "Unlocks more recipes for the Anvil",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAABEklEQVR4nGLh5BJhIAWwMDAwbO+Kh/PfPn6CR3XM5L0s+BUJy8qgGcSCJoEmjWkWCzEuQTYOpOHsxVd4VIMAkgKoDZcff2RgYHj+8askPzdc7ga/Dpyt8fGKriw/AwMDEx5zNT5eQWOga0A2noGB4b1xpMbHKxofr7w3jsSuQZjxFzL35Z3LaAx0DVc+/MbjQiwaMP0AsROnHzABpp0ENOBzEiQokAOEgAYiATSmizMda04xcDilMDAwJPioQtJPzSkJhn1z3htHtpi9YGBg2LXlHFrik0A2CSICMQI5abLAWYjYkUQXETYDp1ZwEkTOD6+R2CBTO2x/ItmGasOuLedC+Rhg7Md4PM1IaiEACAAA//9QoWrvzsYFmQAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 399,
+      "Name": "Obsidian Tools",
+      "Description": "Unlocks more recipes for the Anvil",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAABAElEQVR4nGLh5BJhIAWwMDAwbO+Kf/v4CTGqYybvBWmAqxaWlYEwMEVQbIADTHswRViwGkzAD7u2nCPGAyhOuvz4IwMDw/OPXyX5ueFyn//Iw9m8LA91ZfkZGBiY8BjGy/IQjYGuAdl4BgYGXW5PXpaHILO5PbFrEGb8hcw99vEaGgNdw5UPv/G4EIsGTD9A7MTpB0yAaScBDficBAkK5AAhoIFIAI3pBB/Vs/sZ3KRCIGyI4Nn9Ks8/rtHl9jR2vAPiXnyFnloxAcQIaOpE1iAsKwOPHTdZJUjKhYsYP2ZDdxJywoazcwPYcPrh7MVXVooMMDY+RzKSWggAAgAA//9upVheP/SB1QAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 400,
+      "Name": "Mythril Tools",
+      "Description": "Unlocks more recipes for the Anvil",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAABDElEQVR4nGLh5BJhIAWwMDAwbO+Kf/v4CS4VwrIycLZn2UKQBjyqMWVZ8DsA2XiIThZkUUyrMEVAGnZtOYffHixOuvz4IwMDw/OPXyX5ueFyapMXwtm3cuN1ZfkZGBiY8Bh2KzcejYGuAdl4BgaG8E0rb+XG38qND9+0ErsGYcZfyNzzD3+gMdA1XPnwG48LsWjA9APETpx+wASYdhLQgM9JkKBADhACGogE0JguznR8wsBQcHALhA1JRd/TWibY+4RvWsk5q0ZYVgaSgqAakBMZMhtiBLIgInnDY8cKTArLymyGifhCkvPFVwgNyOkebqTV4xYoG9MPu7acY4cl8rN4Pc1IaiEACAAA//8N4GnbsYHK1wAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 401,
+      "Name": "Artificer Workbench",
+      "Description": "A table for crafting magical items",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAZCAYAAAA4/K6pAAABCElEQVR4nGLh5BL5z0ABYAERS3KdydIcM3kvxAAQaF96gSTNldEGCBeAgJuOFFmuYEHmXHWvJEqT9s52OJsJXTLUTxEnDWMjAwwD0A1bvek+mA2j8XoBWSE2DdjEcHqBWHG8XkC3nagwwKUQlwswwgCXQlyBiNUFyIrRo5OgAcgKkaMRlyE4oxEfGxkwgrKzi6Icg64sP1YFuMDlxx8Z9tx/hHABSIAcADbg+cev8OyJDGBZHJ8c3AVnL77CaQs+OZRARPYGepjgkkMxAF9A4pKDxwIoHNCBJD83VnGYHCgW8GYmXJqRAQuywqvv3hLUAALaQsJwPYzo9cL3b28Y8WlGVw8IAAD///IYcFldquJEAAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 402,
+      "Name": "Stone Wall",
+      "Description": "A solid wall made of stone.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAIAAACU62+bAAAAuklEQVR4nGLh5BJhIAWwMDAwzF89j0jViaFJTCQZz8DAMKphVMOg0bB+71FMRciCoPxw4NItSQEuuNDNR0+QVT//8A1ZEGQDsmpMpWiyIBuu3X6ILITMff8aXRCkQUtVHiKkpSr//MM3ZCMhgnDuJkxP43ceOcGK4gc0z6AJQvwD9QPc6ciOhocSXHATRANWp6P5Hg5w+gGX7wnEA6YgejyguYdwPBAE2DVICnDBYwoNMJJa3AMCAAD//4mJW31mHbZuAAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 403,
+      "Name": "Iron Wall",
+      "Description": "A solid wall made of iron.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAIAAACU62+bAAAAdElEQVR4nGLh5BJhIAWwMDAwVPQ2Eam6o7iOiSTjGRgYRjWMahg0GnZs3oWpCFkQlB+ef/iGLI3GRRMk2UmMnFwiBg42RKq+cOAIyEn6tiANFw8fgTCQAZrghQNHaB+sFPgBAvD7ZLD7YVDFA0kaAAEAAP//uUU0sZ7Ntx8AAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 404,
+      "Name": "Chlorolite Wall",
+      "Description": "A solid wall made of chlorolite.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAIAAACU62+bAAAAeklEQVR4nGLh5BJhIAWwMDAw2FbIEan6cMcjJpKMZ2BgGNUwqmHQaLi88TemImRBUH64f+UPsjQaF02QZCeBbPhy9z+yEBoXTRCkgUeZESIEYaCpQxb8cJ0OwYriB/yuR2hAdiV+n9DfD1gdjSY4COOBkdTiHhAAAP//DrBB4O6zwBEAAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 405,
+      "Name": "Gold Wall",
+      "Description": "A solid wall made of gold.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAIAAACU62+bAAAAdklEQVR4nGLh5BJhIAWwMDAwXJ2iS6Rq7ZzLTCQZz8DAMKphVMOg0bBq7StMRciCoPzw4CaKIjQumiDJTgLZcOoKihAaF00QpMFMByoEYaCpQxHcT4dgRfEDftcjNCC7koBP6O4HuAMwwWCOB0ZSi3tAAAAA///MWy38LsXXtAAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 406,
+      "Name": "Cobalt Wall",
+      "Description": "A solid wall made of cobalt.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAIAAACU62+bAAAAe0lEQVR4nGLh5BJhIAWwMDAwuLUuI1L1ruooJpKMZ2BgGNUwqmHQaLi2egmmImRBUH54e/4isjQaF02QZCeBbHh55zKyEBoXTRCkQVxFFyIEYaCpQxZ8cmEb7YMVxQ/4XY/QgOxK/D6hvx+wOhpNcBDGAyOpxT0gAAD//0nPQV9G+IMSAAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 407,
+      "Name": "Obsidian Wall",
+      "Description": "A solid wall made of obsidian.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAIAAACU62+bAAAAdklEQVR4nGLh5BJhIAWwMDAwFOqkE6m6/8pMJpKMZ2BgGNUwqmHQaFjyfB+mImRBUH449vEasjQaF02QZCcxcnKJiAqrEqn69dvbICcpcUkwMDDc+/YCwkAGaIKv396mfbBS4AcIwO+Twe6HQRUPJGkABAAA///0ojQqPdDHUQAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 408,
+      "Name": "Mythril Wall",
+      "Description": "A solid wall made of mythril.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAIAAACU62+bAAAAeUlEQVR4nGLh5BJhIAWwMDAwzL58nEjVqbqWTCQZz8DAMKphVMOg0bB6031MRciCoPxw/uEPZGk0LpogyU4C2XDn4nNkITQumiBIg4q+JEQIwkBThyy4ix7BiuIH/K5HaEB2JX6f0N8PWB2NJjgI44GR1OIeEAAA///WmDy2g2zsCwAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 409,
+      "Name": "Stone Forge",
+      "Description": "A simple furnace made of stone.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABIAAAAXCAYAAAAGAx/kAAAB2klEQVR4nGLh5BL5z0AB+P7tDSOIZgER81fPY7j56AmDupwMmEYGIDEYgMnB1HUU18HlWGAK/A4sgyjCYzuy3E2HKBQ5FmROh7Q1Ud6peHoUxaUYBsEUXbv5hUFLnQdFnFufieHrxX8YloHCGBROYIOQTed3Z2W4cJaDYc6xrwwpwpB4uPCFg4HhLANDahIbA8MbiLrE0CRw2ELZ/5kYkAIRBD7u/M0QZczCYMLODnYVzGVnfv4EuwgErDbfQDYEHHNM6F4DeQEEQLaD2CBvGvD8YJiZycuw7Owfhk0z5mIYgjWMQACkmeEmA8Oct4wMfVY8YANnz/vFMOXZHRRDkAGGi2DOB4cLAwND0bGvYDGQIfe3xzCoL+pCCR8YwBrYINeAwgQW2KAwOearwfB82hk4+yaaA7AGNiiAQYYgJwHJLBOwIX4ZydhCAzOM4OlEmoFhE5T2c2JgyN/IgGIIelaCGwSKkQqGo1htQwcgtTwOqGKMsNxf0dsEFsCWSWEAJoecYWHRz0jVYgTmGlIBRjGCnpMZoM5H9go2NcgAa8pGNoxYwIJLQyz7ahT+4kehhA1CjymQIX9e/EU1WGI1w+KfoTi9iNVrp8QLGRjEsUjg8SrVoh8QAAD//6Mg2QJOyxCiAAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 410,
+      "Name": "Iron Forge",
+      "Description": "A blazing hot furnace made of iron.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABIAAAAkCAYAAACE7WrnAAACRElEQVR4nGJiIAA4uUT+gzAhdQQNaZw+DYzJNgxmCMxFhAwj6DViASO6K5D5Bg42DB6+bmD2js27GC4cOIKi+fu3N4wYBoEM8ctIZtBSlWe4dvshw6YZcxnEVZQZJGUkwfLPnzxneHnnLgO6GphhTMiGPLpxE8XGxMx4BjkNdTAGsZEBSC1ID8wXTLgMgXkHZDsIg9joANkwFpDAyT0H4F5ABiDvwAwAsbEBkF4GQrGGz2vogAWfJMg1yLFGlkEgv4NiBQZAUQ8SI8tFyIbhM4SgQcQYAANUyyJYXQRKNxQZBIpmQrGDrBY5ETPhkiAEQGpBelBcZO7iAE+hpABQagfp3XTnLgMjxcUoFICLAJBhoCJjvSYrQ+D13wy7ItgZvl78x8CtD/H56VWfwLRpGB/D7Hm/GKY8u8Ow7+gOsJiTtQe4KMGZjq7d/MLAcJOBYc5bRoY+Kx6wodgMgQGs6QjkGhC48IUDTC87+wcsBjLk/vYYBo6OArAhoBIUwyDkYoTfnRVMn/n5kyFF+D+DAc8PBqvNNxiO+WowPJ92Bs5GBnCDkMubjzt/M2ip84ANQQaSWSZgQ0DhiQ6whhEowCGAHS4G0myRexzFEGTLUQwChcV6Y1ZsZmMAkFoGLgQfHv0wWxnQwgu9iEWvVRig1RKKQeQClHSELQCJATBXsaA7GRmAnI/sFWxqMAzCBXBVQ+iABZ+GfQVcKHynCbgNxeo1kKEgQ/68+IthsNOEbyhqCXoteg0/DplvWEWpFv2AAAAA///gQRfiPhuORQAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 411,
+      "Name": "Cobalt Forge",
+      "Description": "A blazing hot furnace made of cobalt.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABIAAAAkCAYAAACE7WrnAAACQ0lEQVR4nGJiIAA4uUT+gzAhdQQN8e/fBcZkGwYzBOYiQoYR9BqxgBHdFch8GQMvBq3QGDD72uolDE8ubEPR/P3bG0YMg0CGGIeUMwgb6jO8PX+R4eyaTgY+MRUGPik1sPynZ7cYPr26w4CuBmYYE7IhL+9cRrHRIr+JQVxFF4xBbGQAUgvSA/MFEy5DYN4B2Q7CIDY6QDaMBSRw+9BauBeQAcg7MANAbGwApJeBUKzh8xo6YMEnCXINcqyRZRDI76BYgQFQ1IPEyHIRsmH4DCFoEDEGwADVsghWF4HSDUUGgaKZUOwgq0VOxEy4JAgBkFqQHhQXqdoFw1MoKQCU2kF6QTHLSHExCgXgIgBkGKjI2GHOwlB07CvDzExehq8X/zFw60N8fnrVJzBtGsbHMHveL4Ypz+4w7Du6AyzmZO0BLkpwpqNrN78wMNxkYJjzlpGhz4oHbCg2Q2AAazoCuQYELnzhANPLzv4Bi4EMub89hoGjowBsCKgExTAIuRjhd2cF02d+/mRIEf7PYMDzg8Fq8w2GY74aDM+nnYGzkQHcIOTy5uPO3wxa6jxgQ5CBZJYJ2BALYVkMX2ANI1CAQwCibgBpjow5iGIIsuUoBoHCos+KG5vZGACkFhnAox9Eg5IAA1p4oRex6LUKA7RaQjGIXICSjmCuIRXAXMWC7mQURc9uoXgFqxp0g3DaiKMaQgcs+DQcr+NE4Vs24TYUq9dAhoIM+fPiL4bBlk3fUdUS8pr7HMzUCwHYXUW16AcEAAD//wYeFoPRkUTtAAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 412,
+      "Name": "Mythril Forge",
+      "Description": "A blazing hot furnace made of mythril.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABIAAAAkCAYAAACE7WrnAAACPUlEQVR4nGJiIAA4uUT+gzAhdQQN2fntCxiTbRjMEJiLCBlG0GvEAhZ0VyDzd524z7DhzQM4G13N929vGDEMAimYffk4g6ikJMPr588ZUnUtGe5cfA43FMZGU/MfZhgTsiHnH/5AcW5WuhWDoTwHGIPYyACkFqQH5kImXIbAvAOyHYRhXsNlGNhrqzfdZ1DRl8RQiM1r6ACkl4FQrOHzGjrAaxAhryEDFlwSIL+DYo5hy34wf5qPI1iMZINQDIOyyXIRsmHEANpkERgABS5FBoGimVDsIKtFTsRMuCQIAZBakB4YYIRlEVgKJRWE+imCY5aR4mIU5iIGaO53a13G0HCiiaHo2FeGmZm8DF8v/mPg1of4/PSqT2DaNIyPYfa8XwxTnt1h2Hd0B1jMydoDXC7hTEfXbn5hYLjJwDDnLSNDnxUP2FBshsAA1nQEcg0IXPgCCcxlZ/+AxUCG3N8ew8DRUQA2JAuafVAMQi5G+N1ZwfSZnz8ZUoT/Mxjw/GCw2nyD4ZivBsPzaWfgbGQANwi5vPm48zeDljoP2BBkIJllAjbEQlgWwxdYwwgU4BAAL9vBmiNjDqIYgmw5ikGgsOiz4sZmNgYAqWWwQPDh0Q+iQUmAAS280ItYmBxIfFd1FJgNin4Ug8gFKOkI5hpSAcxVLOhORgYg5yN7BZuaXVCaYAmJqxpCByz4NPTzt6PwCy9WEjYIPaZAhvx58RfVYIl2hsKPlShqCXptqsIkBgYFLBI4vEq16AcEAAD//6roIp/HqWQ+AAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 413,
+      "Name": "Jewelry Desk",
+      "Description": "A table for crafting jewelry",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABEAAAAZCAYAAADXPsWXAAAB60lEQVR4nGLh5BL5z0AB+P7tDSMLiLEk15kkjTGT9zLsO7qDwcnaA8xngUm0L73AkKeUynDjx3uGXc/WEDTo4bNncDbcEDcdKYYb794zaHAIMlzm52bQleXHqrn/0GWwK0Bg/up5DImhSf9ZkBVc/rqd4fJXBoIG7DpxCkUcxZAb2n8gNMNbMP1kC8TJMj5SYDbMgI7iOpgrwPJM6Lbt9BAGY5gmEAaxQZqQDZCXkmKo6G3CbggIaOdAnK0iJ8vQceAdWNPNR0/ABmADGIYgG5Cy6CJYbMrKmwzqcjIo6pBjB6tLQABmAC4AchnMYKyGgPweqfaD4e35i2CcE64O1oRsgM6Dg3AxDEOuTtEF+x2kAKQZZgBIDBRLhXa68LAB0aBkj9UlIMUwg2AGgAxvuMXE8PvOd7BByIAFmyGgKGbwEGbQzqmDuw4ELnzhYDDg+cGw4vEvBmN9MdyGuO94i+IiZDENdhaGG7+ZMFI0I6gocFGUw5nUcYHLjz8y7Ln/CFEUwATJBWBDnn/8ylAZbYAhCSoeQACfHANymJy9+AqnTfjkGNADFtlL6GGETw7FEHyBi08OHjugcEEHkvzcWMVhcrDYwZkBGaABTgxgQVZ89d1bojRpCwmjWMCIXu+AnIfPAGzqAQEAAP//auT4s8/tRW0AAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 414,
+      "Name": "Scriptorium",
+      "Description": "A desk for combining pages into full books",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAZCAYAAAA4/K6pAAABf0lEQVR4nGJhQAKcXCL/GQiA79/eMCLzGZE1P3p8FUXxnUePGVTkZFHE5GS1UQxhAmkE4Zy5+nAFIIyuCQZA6mB6wAagOxHkCnSXoPNBoNBOF2wQ3ICLt9/jdQG6GAywYHMBPjGYRTAAd4G+qiDcNnRAVRfgNWDviZMokuv3HmUIdLbGqtFYX4yB4RCaAfPONqCqEgCJ7QYz49f9g4gFMWF3wYb1rzFsebLlGYOMjxSUB9F4/8ofFDWMoLgExWn/ocu4vAkHc9RkGFJuPQGnARAA6YG7ACYI9hsDA8PZi68wDEg5dBmujgHFXQwMDLuuPAPT7UsvgDXD+DAaBLSFhFH4DNiSMkxTZbQBA7rhIOCmI4WiFh4GhADMa8jeg4fB5ccfCRqASw08EHVl+bE6GZvTkQ3DSMroigkBFny24gKS/NyoBjz/+BUucPXdW7yaQVGJrJ4F3USQAegFJwyAYgxdLUo6QDaZEICpxfACsRphgBFbXYDPC+higAAAAP//G66mebCCWOkAAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 415,
+      "Name": "Loom",
+      "Description": "A simple loom for making cloths.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAYAAAALHW+jAAABbElEQVR4nGJiQAKcXCL/QZiBSIBNPROy5JJcZwYQJsZQXOpZ8Gkg1qXIAMXAsxdfwdkgm3/svMlwVUKQQfvFewYOd3UUfsqtJyjqYYAJl00xk/eC6f5Dl7HycQGcBn77+poRH02ygeQCsIHYIoCLW/Q/PhodwMxgAjEePb6KoaDQTheFBkUSMh8dgMwAmcX0/dsbRjlZbQwFsMAnNlJAZoDMAnsZxADRlx9/BGMGPJFxJE4THinI6mFm4IyUgAm7/6+K7wLTMD6IblKvBYvjAjhzitrUOobjVsEofAYeBoa35y/iNAyvgbeymxiEYZxLS8H8WwwMYLGwhWUMKTj04fQyyEUgjSAXTdeLBtPIfJJdCAOWx9YyGPD8YLjwhQPsZRgf5sLnH7/idiG6JDmAoqyHzQEYBlLqSpwuvMH+iyEo7TlOGheAp3pQPtQWgiSUq+/eEuUaZPWwnIIzlmEKcAGiqghq1HqAAAAA//8y9s7rrpiCzQAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 416,
+      "Name": "Wood Workbench",
+      "Description": "A simple wooden workbench.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAdCAYAAACjbey/AAABw0lEQVR4nGJhYGBg4OQS+c9ABvj+7Q0jI0jzklxncvQzxEzeywB2wYIttwkq3nP/EYOLohychgEmYmwCaQpXkkChYYAFpgAXgNkmJSPKwHDvBZxGMQAUBmcvvsJqQP+hy2Dat72bod/ag0Evt5CB4VASaV5ABvJSUih8FhjDWF8MQzE2Vz189gzTgM1brxLtgsTQJOyx8PY/GxinL14AZ2OzGVkzCIATEihqcIGV915gjX8GaOyxILsABKqWzGJoi0kDs4UZf4FpXVl+Bl1ZXQzD99xH8gJIMQjPjE2As3EB5ABngTkTFyi0Q7UZlC4KGXRRDUBXhMs2UObZd3QHg5O1B1wPCwNSasPqAgbchjMgJ2VcAGQrsgt3nTiFaQAx2RmvC/CFODIAuaSjuA7FRWADfL21cWpaOfkFOCBh+QI9wFG8ACsXYIouP/4IpnFldbgBoJQGiomK3iawIMiZyMkWX05lQZdwszBj6MChGBsAZyaYbTAvwBILLBPBMht6DgXJYeRGWLIGeQfkFXSArhacmUAFJbLpoAoDpBlEI2NsasEGwEIbGcA0oAN0tSQlJGxqwbYg1424bIYBdLWAAAAA//+Dt9RgLnVxawAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 417,
+      "Name": "Ore Crusher",
+      "Description": "A set of mechanical wheels for crushing ores",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAA90lEQVR4nGJhgAJOLpH/DEhg39EdYNrJ2oMBG/j+7Q0jiGaEaV6S6wyXlIooRVH8bEU3hgExk/eCDWFE1nz24isG33aI4ofPnoFpeSkpML25EmGosb4Y3BAmbM5D1wwCMIPRAYYB6JpBfJgYNkMwDFha1oBiM7JBRLmgasksDJvxGUJ0GIDYINcRNABfGMBch9cAkC0wm5CdTHQY6Mryo2i4+egJGOMyhAWbqSBDLk3uRxG7hNV+qAGgFAhKXbAURgwA6UFxAUyg/9BlvBoL7XQxXQADIM2wXIYL9B+6/B/ZEKzpgBRAsQFgAMrS6AUKseoBAQAA//8+dnomrkxoZAAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 418,
+      "Name": "Wood Floor",
+      "Description": "A simple wooden floor",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAQUlEQVR4nGLh5BJhIAWwMDAwLMl1JlJ1zOS9TCQZD7Xh7MVXpGkw1hcjVvkhBpKdNOoHYjUMMj8wkpq8AQEAAP//PVMOxA0605sAAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 419,
+      "Name": "Stone Floor",
+      "Description": "A simple stone floor",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAQUlEQVR4nGLh5BJhIAWwMDAwZNcWEal6anMfC4TFKyBAUPXnDx8YGBiYSHLPqIYRpAGaliDphBjASGryBgQAAP//m2oJSdZmYosAAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 420,
+      "Name": "Red Carpet",
+      "Description": "A simple red carpet",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAATElEQVR4nGLh5BJhIAWwMDAwzFGTIVJ1yq0nLBCWljoPQdXXbn6B2oDMxwXgJjIR6Rg4GNUwODQgYpqY1IHQgD9dIANGUpM3IAAA//8ACQx6rj0G9AAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 421,
+      "Name": "Blue Carpet",
+      "Description": "A simple blue carpet",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAATElEQVR4nGLh5BJhIAWwMDAwuLUuI1L1ruooFghLRV+SoOo7F59DbUDm4wJwE5mIdAwcjGoYHBoQMU1M6kBowJ8ukAEjqckbEAAA//8bMwx6EIwxLAAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 422,
+      "Name": "Iron Floor",
+      "Description": "A sturdy iron floor",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAQUlEQVR4nGLh5BJhIAWwMDAwGDjYEKn6woEjLBCWnIY6QdWPbtxkYGBgIsk9oxpGkAZoWoKkE2IAI6nJGxAAAP//cWQJCb8+izAAAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 423,
+      "Name": "Chlorolite Floor",
+      "Description": "A sturdy chlorolite floor",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAQUlEQVR4nGLh5BJhIAWwMDAwyPhIEan6yZZnLBCWog4LQdX3r/xhYGBgIsk9oxpGkAZoEoKkE2IAI6nJGxAAAP//cEIJJdaxeIIAAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 424,
+      "Name": "Gold Floor",
+      "Description": "A sturdy golden floor",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAQUlEQVR4nGLh5BJhIAWwMDAwbM0VJ1K19+SXLBCWgroYQdUPbr5iYGBgIsk9oxpGkAZoWoKkE2IAI6nJGxAAAP//i9MJGYe26uMAAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 425,
+      "Name": "Cobalt Floor",
+      "Description": "A sturdy cobalt floor",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAQUlEQVR4nGLh5BJhIAWwMDAwGIeUE6n67JpOFghL2FCfoOq35y8yMDAwkeSeUQ0jSAM0LUHSCTGAkdTkDQgAAP//facJA7rAt74AAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 426,
+      "Name": "Obsidian Floor",
+      "Description": "A sturdy obsidian floor",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAQUlEQVR4nGLh5BJhIAWwMDAwmMvaEqn65OPDLBCWFb8WQdXHPl5jYGBgIsk9oxpGkAZoWoKkE2IAI6nJGxAAAP//a5kJA1vowe4AAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 427,
+      "Name": "Mythril Floor",
+      "Description": "A sturdy mythril floor",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAQUlEQVR4nGLh5BJhIAWwMDAwZG3ZT6TqaT6OLBCWoTwHQdXnH/5gYGBgIsk9oxpGkAZoWoKkE2IAI6nJGxAAAP//p6oJHsHsodQAAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 428,
+      "Name": "Wooden Wall",
+      "Description": "A simple wall made from wood.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAIAAACU62+bAAAAnElEQVR4nGLh5BJhIAWwMDAwLMl1JlJ1zOS9TCQZz8DAMKphVMOAaQAl77MXX9HQBrKcZKwvBudDnIcsgiJ4CIcfsPoKIkh/P2C6AUUWlx8wtZHvJLL8cFfLjFjlhy6DNGipyj//8O3969daqvIQ8ecfvkkKcDEwMFy7/RAiC+FugjgJzscFkGWZ0PhwFc8/fMOqmZHU4h4QAAD//x+hN5xLMcZkAAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 429,
+      "Name": "Wooden Fence",
+      "Description": "A simple fence made from wood.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAYAAAAbifjMAAAAU0lEQVR4nGJioBCMGjBqAFUMYMEmyMkl8h9d7Pu3N4xEGwACS3Kd4eyYyXtxumCQhgEInL34ij4uGDVg1IBhYgDWQoKUAoViMPBhQLEBgAAAAP//ZZoNzP9gMtAAAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 430,
+      "Name": "Iron Fence",
+      "Description": "A simple fence made from iron.",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAYAAAAbifjMAAAAVUlEQVR4nGJioBCMGkBrAzi5RP6TbQBIs19GMkFDsBoA0/zoxk0GQobgdAFIs5yGOpgmC4BstfQK+E+WF0gBowaMGjBqwLAxgGIw8F4YeAMAAQAA//87/xWKPjX3XgAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 431,
+      "Name": "Bubbling Cauldron",
+      "Description": "Unlocks more recipes for the Alchemy Table",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAA90lEQVR4nGJhQAOcXCL/0cWQwfdvbxiR+YzoGg0cbPDpZ7hw4AiKQYwwzTCNdy7fwGuAiq4G3CCQIYwwzTCNApZseA34cPwX3CCQIUwgjpyGOlbNijosGGx0NXAv+GUkgwXeC+xmuH/lD1gDiIZphrGNZDzB9KYZcyFegJkEMoRHWITBKdQfrxf2rd7I8OXtG8xAFFdRxqnp6/uPDNyC/Cg0zBAWQppBAKQJHYBcy8DA8J8Jr04cBiEbyARzIrJzCQFkNSzQwPiPzXR8ABYGTOimItPoYthcCE4dyK5AdgEsxJE1g2xmQM8LMEAoJzJgyY2AAAAA///PPIco9YYWKAAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 432,
+      "Name": "Simple Archive",
+      "Description": "Unlocks more recipes for the Scriptorium",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAABaUlEQVR4nGJhQAKcXCL/GQiA79/eMCLzGZE1P3p8FUXxnUePGVTkZFHE5GS1UQxhQrcBpACE0cVwARZ0AXRX4BKDG4Dub5Bt6BpgLoCJI+sBu2BJrjPRLii002Uw1hcDs2Mm70X1AijQkMG9xBQGhvlzcDqfAT0MwBqQwFUJQQYGNDEGkBguA66iSYKcehbNRpjzsRqALolLDMOAsxdf4VVE0AAQ0H7xnkFLnYeBW5+JwfvCBwZFHRYGfVVBhuPbPRiEDfUZVPQlGdgrVjBocAgyqAhzM2z5vgqsDyUl/qiYAKYXVc4D00EanWC6wkEITPvODATTjHWmcD1wA5Tmz2Hg6ChgeOvZxxDXnsTQ6DuLYd2NcobuQkeGjgPvGEIEfzJsTl/PoDrRgeF/02lMA2BRKLy9CEzXb04D06X9+8H0mvfsYPp2/gGUMGAEJUvk1EUsAAV8/6HLiEAkNyYYiSlE8AFAAAAA//+JYnCHW/qhMwAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 433,
+      "Name": "Greater Archive",
+      "Description": "Unlocks more recipes for the Scriptorium",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAATCAYAAACZZ43PAAABoUlEQVR4nGJhQAKcXCL/Yezv394wMhABGJE1+2UkwyU2zZiL0xCYRSB5JnTJk3sOgDG6i2B8dIswDDB3cYCz9x3dATcEphGEkV2HEgZaqvJQOp7BzcKMwcnaA6wQ3VZkwARzFrLg/OkLwZqxhQ0IgPgwfWDTl+Q6gyWuKNjDFek8OAimlR48ZbinII1VLmbyXtQwUJeTAUuCaBgAae65/BMshiyONRBZDy1FoWGgRJedYeLUedjDAKsoFpCfnQR3JbJ3WIg1ANlVOkjiYAPOXnxFrDkYAO4C7RfvGbTUeRi49ZkYvC98YFDUYWHQVxVkOL7dg0HYUJ9BRV+Sgb1iBYMGhyCDijA3w5bvq8D6UMLgR8UEML2oEhJgQRqdYLrCQQhM+84MBNOMdaZwPXADlObPYeDoKGB469nHENeexNDoO4th3Y1yhu5CR4aOA+8YQgR/MmxOX8+gOtGB4X/TaUwD7iWmgGnh7UVgun5zGpgu7d8Ppte8ZwfTt/MPoIQBOCUW2ukyGOuLkRR4oIDvP3QZEYjkxgQjekYiFQACAAD//81YkaNjkx/rAAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 434,
+      "Name": "Lesser Runestone",
+      "Description": "Unlocks more recipes for the Artificer Workbench",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAzUlEQVR4nGJhwAI4uUT+f//2hhFEo8uBxJH5jOgaQbRfRjLDphlzwTQ6AIkjG8KIrBmbBmwA2RAULzy6cZNBTkMdTOMCIHlkwISuAKRZzDULzAbRyGyYPF4DcIFXu6fBDUEGKGFg4GBDlGEXDhyBhwGGC5Cdjex0XACrF0DORdeMbjBtvUCIjeEFbEkW2SvYDIHpYUJPgciakDWAxJHlQHpAeomOBVyBiJEbkW3BxcZqALEZiQEtP4ANwJd5CAFwXOKKBUIAlBYAAQAA//+gGWVvOHr0gQAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 435,
+      "Name": "Greater Runestone",
+      "Description": "Unlocks more recipes for the Artificer Workbench",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAwklEQVR4nGJiQAOcXCL/YTQyRpZDBozomv0ykhk2zZjLAKKRAUwMRH//9oYRwwCYZmIAsiEs6JKPbtxkkNNQh7ORAUgcXYwFXTMy7fhGG0zvF7kKZu+/cRXDNRiBCFII04gMYIagAwwvgBRiY2PjE+UCbLbiNQDZJnSDKPICNufj9AIhNoYB2JIoNluRDYHpYUJPgciakDWAxJHlQHpAeomOBZoFIguyk4gFsLwCNwA9g5ACwFkSVywQAqAsDQgAAP//G7xw1Px2wkUAAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 436,
+      "Name": "Gemcutting Tools",
+      "Description": "Unlocks more recipes for the Jewelry Desk",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAWCAIAAABGyIsrAAABKUlEQVR4nGLh5BJhIAWwMDAwbO+Kx5R4+/gJnC0sKwMRiZm8lwVNDitAVsCCLAE3CU0EWRsLsiimVZgiIA27tpzD7yR0DQwMDJcff2RgYNhz/xEDA4OLohxEEMKFi+jK8qP4Yc/9R/NXz2NgYEgMTXJRlINz4SJYPI0md/MRltBjQuPPXz0P7rCO4jp1OZmO4jq4ESg2uCjKIRuPC6DbgAaWljXg0wDxK35L0G1AVo1VPwEnYdpGQAMmgIaSxk82A54fHO7qEO6PnTchbGFZmadz9v7li7nx4z0DwzEUG+Cq4ewTBm/a3u3ncFfntjyNboN3gTVcCJ5CL95+r68qyHABxDZ2vHP2IpIGrHko/asqRDU0/V98hdBwFszBCZBkGUktBAABAAD//3ymdDEipCpvAAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 437,
+      "Name": "Assembling Station",
+      "Description": "Unlocks more recipes for the Workbench",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAATCAYAAACZZ43PAAAAjUlEQVR4nGLh5BL5z0ABYAERfhnJZGneNGMuxAAQeHTjJlxCTkMdKx9ZHMQGASYKXE8dA+BegDmJEB9dnKgwwAaoFgY4vUAsgLsA5mRCTsdpAK5AorkLMMKAVJewkGMrMqBOND5/8hwu8PLOXbwaxFWUMQ1AB9+/vWHEJo6t7KDYC4zYTCXFBYAAAAD//78WNllUvuBuAAAAAElFTkSuQmCC",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 438,
+      "Name": "Crystal Press",
+      "Description": "A magical chamber for compressing crystals and gems",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAATCAYAAACZZ43PAAABBklEQVR4nGJhgAJOLpH/DCSA79/eMIJoFmRBAwcbOPv5k+coGiRlJOHsCweOwNmMMJvRNbcy/WTQUucB86/d/MJQ/Y8dqyFMhDSDAIgNEkN2FUwPE7Iz71y+AWeDbMXGRlaDYQAMgJwL0wjTDBNDByxYRfFoQAdYXUAKQDFARVeD4ev7jzgVg+RAapABhhdACtADClkOHYANgEUPLJ6xKUQGyNFJcRiAXQDyG7cgP0byxQdgYcWCLgADIANhYshsrC7ABUAaCQEWXAr3FXCh8J0mYGr+8vYNJDfyCIug2ArS/OfFX1SbJJgZnCZ8Q/EKyACsXjCvxx6Y2FzKSGpJhA4AAQAA///0KmzLNjpW1gAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 439,
+      "Name": "Fiber",
+      "Description": "A thin, weavable strand of... something...",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABMElEQVR4nGJiQAOioqIMUYH2DJxcIv9BGMQGiSHLwzAGQNZ8YEoxGIPYHk6mcE0gNsxgrAbANMNcgMxGFwPpYcE0hoFBXFERTDvbqDN6li38v70rHi4GAkahDQyB7tqMy9YfxHRBcmwQ2BXXt07BsBmGQWqwhgE2Q2AG2Vga4w9A9BAGaYDZCDPEx0wDv2bk6INhNxuIQWvLw8F8dANYYJpdbbQY1u+8Cg4wGHj7+AlDzOS94NAWlpXBbjMIIMc9ugtANsPE0RMVHCBrNjfWgvsf5HeYeLyvFW7/IxsAS0zI0QjzP85ARFYEwiG+jhjRiCsQwQBkMrp/kTGyV3BmIpghMO/AbHR2sMSZM0GAEdkQEDDWVWA4eOI+OOqcdUQYT95/i6Lh9evXKHxAAAAA///tpdVFPyKU1QAAAABJRU5ErkJggg==",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "",
+      "Deprecated": false
+    },
+    {
+      "ID": 440,
+      "Name": "Green Carpet",
+      "Description": "A simple green carpet",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAATElEQVR4nGLh5BJhIAWwMDAw5MzVJ1L1lOSLLBCWsbIoQdVn776G2oDMxwXgJjIR6Rg4GNUwODQgYpqY1IHQgD9dIANGUpM3IAAA//8RpQx6PDDqtQAAAABJRU5ErkJggg==",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 441,
+      "Name": "Compressed Speed Crystal",
+      "Description": "A small orb of compressed magical energy",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAnElEQVR4nGJioBAMvAEsuCQ4uUT+I/O/f3vDiE0dVkGQ5py5+gzGyqJg/tm7rxmmJF/EagiGF0Ca5x9wYYg29mPQELCEi4PE0F2FYQDMZmSNIDbIJSBXgOTQDcFwAczZxIpjjYUbH45jZWMDGLEAcioYKB/HLo4GMEIVFoggDcixAALYYgJvNCIDXNGI1QAGEhISxWDgMxMgAAD//ws1QaT5p6oaAAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 442,
+      "Name": "Compressed Dexterity Crystal",
+      "Description": "A small orb of compressed magical energy",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAoUlEQVR4nGJioBAMvAEsuCQ4uUT+I/O/f3vDSLQBIM1bc8UZFNTFwPwHN18xeE9m+I/NEAwvgDRfnaLLoOXlysClrA8XB4mhuwrDAJjNyBpBbJBLQK4AyaEbguECmLOJFccaC9/uXsTKxgYwAhHkVLCNDBexiqMDjFCFBSJIA3IsgID35JcY0Yk1bmGBiQywacZpAAMJCYliMPCZCRAAAP//ZABBdF2OMgcAAAAASUVORK5CYII=",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 443,
+      "Name": "Compressed Defense Crystal",
+      "Description": "A small orb of compressed magical energy",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAnUlEQVR4nGJioBAMvAEsuCQ4uUT+I/O/f3vDSLQBIM3iKsoMkjKSYP7zJ88ZXt5h+I/NEAwvgDQbONgwmLs4MMhpqMPFQWLorsJwAcxmZI0wNsgVIDl0l2C4AOZsYsWxxsKjGzexsrEBjEAEORUbwCWO4gKQ317euQt2LrIGGBskhx4TWOMWFpjIAJtmnAYwkJCQKAYDn5kAAQAA//8TbUTv2LsDkAAAAABJRU5ErkJggg==",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 444,
+      "Name": "Compressed Willpower Crystal",
+      "Description": "A small orb of compressed magical energy",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAm0lEQVR4nGJioBAMvAEsuCQ4uUT+I/O/f3vDiE0dVkGQZrfWZQwq+pJg/p2Lzxl2VUdhNQTDCyDNWVv2M4T6KTIYynPAxUFi6K7CMABmM7JGEBvkEpArQHLohmC4AOZsYsWxxsL5hz+wsrEBjFgAORUCJHGIowKMUIUFIkgDciyAALaYwBuNyABXNGI1gIGEhEQxGPjMBAgAAP//ZNBBiO6lP5kAAAAASUVORK5CYII=",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 445,
+      "Name": "Compressed Vitality Crystal",
+      "Description": "A small orb of compressed magical energy",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAm0lEQVR4nGJioBAMvAEsuCQ4uUT+I/O/f3vDiE0dVkGQ5pkmFQwqwtxg/p23XxnSz3RgNQTDCyDNe92bGWzdJBkkjfng4iAxdFdhGACzGVkjiA1yCcgVIDl0QzBcAHM2seJYY+H52U9Y2dgARiyAnAoGZ3GIowGMUIUFIkgDciyAALaYwBuNyABXNGI1gIGEhEQxGPjMBAgAAP//WI9BEql1GIsAAAAASUVORK5CYII=",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 446,
+      "Name": "Compressed Strength Crystal",
+      "Description": "A small orb of compressed magical energy",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAn0lEQVR4nGJioBAMvAEsuCQ4uUT+I/O/f3vDSLQBIM1z1GQYtNR5wPxrN78wpNxi+I/NEAwvgDQf89VgMA3jY+DWR0iDxNBdhWEAzGZkjSA2yCUgV4Dk0A3BcAHM2cSKY42Frxf/YWVjAxiBCHIq2EYGHqzieF0ACuWUW0/gfkbXDJJDjwmscQsLTGSATTNOAxhISEgUg4HPTIAAAAD//5uzQa7dZCVcAAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 447,
+      "Name": "Ascendant Vitality Ring",
+      "Description": "A ring set with a highly compressed crystal",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAyklEQVR4nGJioBCwIHM4uUT+I/O/f3vDSMgARmTN16omgtnPz35iuPP2K0P6mQ6ChjCia4YBZEPwuYqFkBOvTtFF4WvnXP6PbAgTso3Y2NgMRA4ruAtAzmU4i1AI4tskbIXZimIACMNcwgTzF8ivIE0wjKwZJA9z9oObrxiwhgHUkP/IfoZpxhdGOBMSumaQv7fmijMoqIsRZwAyQNeMbDjeaISFNi7NDMgpEVkTLBxgAYZLM1YD0A2BAVwBijOEyclYZAFAAAAA//+uZYvH0U2FLAAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+7 Vitality"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 448,
+      "Name": "Ascendant Willpower Ring",
+      "Description": "A ring set with a highly compressed crystal",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAzklEQVR4nGJioBCwIHM4uUT+I/O/f3vDSMgARmTNsy8fB7PPP/zBcOfic4Zd1VEEDWFE1wwDyIbgcxULISdenaKLwtfOufwf2RAmZBuxsbEZiBxWcBeAnMvAIMmAzO/nb4fZimIACMNcwgLz167qqP8MrcvgCpE1w5wMsvnBzVcMCupimGEAMwTZz8iacQGcCQldM8j2rbniKLbjNQAZoGtGNhxvNMJCG5dmBuSUiKwJFg6gAAMBXJqxGoBuCAzgClCcIUxOxiILAAIAAP//cciCrrRsRzoAAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+12 Willpower"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 449,
+      "Name": "Ascendant Speed Ring",
+      "Description": "A ring set with a highly compressed crystal",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAyklEQVR4nGJioBCwIHM4uUT+I/O/f3vDSMgARmTNxy/Ugtk3PhxnOHv3NcOU5IsEDWFE1wwDyIbgcxULISdenaKLwtfOufwf2RAmZBuxsbEZiBxWcBeAnMugjNAI4md+/wezFcUAEIa5hAnmL5BfQZpgGFkzSB7m7Ac3XzFgDQOoIf+R/QzTjC+McCYkdM0gf2/NFWdQUBcjzgBkgK4Z2XC80QgLbVyaGZBTIrImWDjAAgyXZqwGoBsCA7gCFGcIk5OxyAKAAAAA//+wE40dpLUq1gAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+14 Speed"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 450,
+      "Name": "Ascendant Defense Ring",
+      "Description": "A ring set with a highly compressed crystal",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA0ElEQVR4nGJioBCwIHM4uUT+I/O/f3vDSLQBIM1+Gclg9qMbNxmeP3nO8PIOw39ChrCgawYBOQ11OBtkCD5XsRBy4tUpuih87ZzLKK6CByLI2djY2AxEDitGmBfEVZQZJGUk4QpBYbCvgAtmK4aLQGIgl7DA/IXuV2TNMCeDLHpw8xWDgroYZhjADEH2M7JmXABnQkLXDLJ9a644iu14DUAG6JqRDccbjbDQxqWZARYL6Jpg4QAKMBDApRmrAeiGwACuAMUZwuRkLLIAIAAA//8XmXoI5J+eggAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+7 Defense"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 451,
+      "Name": "Ascendant Strength Ring",
+      "Description": "A ring set with a highly compressed crystal",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA0ElEQVR4nGJioBCwIHM4uUT+I/O/f3vDSLQBIM0Xa7TA7K8X/zFcu/mFIeUWw39ChjCia4YBhCFPGPC5ioWQE69O0UXha+dcRnEVE7KN2NjYDEQOK7gX5qjJMGip88AVgpxvmScIsxXDRSAxkEtYYP4CBdgcBhm4QmTNMCeDLHpw8xWDgroYZhjADEH2M7JmXABnQkLXDLJ9a644iu14DUAG6JqRDccbjbDQxqWZARYL6Jpg4QAKMBDApRmrAeiGwACuAMUZwuRkLLIAIAAA//9ttX5AgOwrUwAAAABJRU5ErkJggg==",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+12 Strength"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 452,
+      "Name": "Ascendant Dexterity Ring",
+      "Description": "A ring set with a highly compressed crystal",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAzklEQVR4nGJioBCwIHM4uUT+I/O/f3vDSMgARmTN97fHgNnf7l5k+PPiL4N+yzWChjCia4YBZEPwuYqFkBOvTtFF4WvnXP6PbAgTso3Y2NgMRA4ruBcu1mgxsEgwwxWCnA/ja+dcxnARSAzkEiaYv0B+BWmCYWTNIHmYsx/cfIXiIibkwAEZAtKIrhlfGOFMSOiaQd7cmivOoKAuRpwByABdM7LheKMRFtq4NDMgp0RkTbCQhgUYLs1YDUA3BAZwBSjOECYnY5EFAAEAAP//7biDx7Jr8igAAAAASUVORK5CYII=",
+      "EquipType": "Ring",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+14 Dexterity"
+          ]
+        }
+      ],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 453,
+      "Name": "Deconstruction Hammer",
+      "Description": "Allows you to remove blocks and floors from your house",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZUlEQVR4nGJioBCw4JLg5BL5j8z//u0NIzZ1jLg0gICLohyY3nP/EYZGmIEoBizJdWY4e/EVXicb64sxxEzeCzeA4jAYeAMoDkQWdAFcBuKKxoEPg2FgAF4Aigls0UtVAAgAAP//RLwlROXICjkAAAAASUVORK5CYII=",
+      "EquipType": "Block",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 454,
+      "Name": "Mana Potion",
+      "Description": "A vial filled with liquid",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR4nGJioBAMvAEs6AKcXCL/8Wn4/u0NI14DQMBFUY5BV5YfQ7z/0GUMMUZsLnj0+CrDnUePUcRV5GQZ5GS1MVyAEQYgBSCFIA2ENGM1ABl0HHgHxvgAhgEwL6QsusgwJ04fLAZig8SwBTAjPs0gGh3sqo5C8QpOLyC7gCQvoBuCDN6ex3QRzmgMLFyEofjsmk6MmMAwgAFPasQWjRQDijMTIAAA//+YO0uEXgG6TAAAAABJRU5ErkJggg==",
+      "EquipType": "Consumable",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": {
+        "Heal": 0,
+        "Mana": 50,
+        "Modifiers": null
+      },
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 455,
+      "Name": "Potion Base",
+      "Description": "A liquid base used for crafting potions",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVR4nGJioBAMUgNERUUZfExVGTi5RP6DMIgNEsMGWHCZvPfq+/9Lcp3B7JjJe//zcDMyEuUCkE1WVlZg9tmLrxi07GzBbJAYLldgGAByNgjAvABjYzMApxdA4NvX12D6yP17ONVgeMGQjQ2nJpgcXgBy6uKTV/4fvncX7HQYDRIDyRHthQevvzMwMNyDu0ZBlJM4L4AATDHEEAYMNl4DolT5GN10zMGGgDBIIwinOTow+IpwYaQFDAFQVPlJ8TIsu/0Jxb8gzfu/f2d4/fo1VpeQDSjOTIAAAAD//9aDXJwiyUvoAAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 456,
+      "Name": "Rage Potion",
+      "Description": "A small vial filled with liquid",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA90lEQVR4nGJioBAMUgNERUUZfExVGTi5RP6DMIgNEsMGWHCZvPfq+/9Lcp3B7JjJe//zcDMyEuUCkE1WVlZg9tmLrxi07GzBbJAYLldgGABy9uu3L//DvABjYzMApxfuPHrM8OjxVYIWYnjBkI0NTN9LTAEbAgJPsoJR5JABRsCAnJojpcJgwPOD4cIXDjDttncnQ5e5P8OUZ3cYvn97w4jXBTAA06ylzgN2AYiNDWANA5jtIMxw8wvcQGwAwwVRqnyMKbeegA1BNgjkfF8RLgwvYwiAospPipdh2e1P/5HFQZr3f//O8Pr1a1y+Jg9QnJkAAQAA//8wrlsPzaYV3wAAAABJRU5ErkJggg==",
+      "EquipType": "Consumable",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": {
+        "Heal": 30,
+        "Mana": 0,
+        "Modifiers": null
+      },
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 457,
+      "Name": "Focus Potion",
+      "Description": "A small vial filled with liquid",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+ElEQVR4nGJioBAMUgNERUUZfExVGTi5RP6DMIgNEsMGWHCZvPfq+/9Lcp3B7JjJe//zcDMyEuUCkE1WVlZg9tmLrxi07GzBbJAYLldgGABy9uu3L//DvABjYzMApxfuPHrM8OjxVYIWYnjBkI0NTK95zw42BAR2fviEIofXgMPvf/53a10GZncceMfQcfEVg7sAHwNIDCRH0AC4Fy4+Z1DRl2QwlOcAuwDExgawhgFIMcgAEGZgkIQbiA1guCBKlY9xmo8j2BBkg3ZVRzH4inBhpAUMAVBU+UnxMiy7/QnFvyDN+79/Z3j9+jUuX5MHKM5MgAAAAP//hiVbYB1jt0AAAAAASUVORK5CYII=",
+      "EquipType": "Consumable",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": {
+        "Heal": 30,
+        "Mana": 0,
+        "Modifiers": null
+      },
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 458,
+      "Name": "Reflex Potion",
+      "Description": "A small vial filled with liquid",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA90lEQVR4nGJioBAMUgNERUUZfExVGTi5RP6DMIgNEsMGWHCZvPfq+/9Lcp3B7JjJe//zcDMyEuUCkE1WVlZg9tmLrxi07GzBbJAYLldgGABy9uu3L//DvABjYzMApxfuPHrM8OjxVYIWYnjBkI0NTH9fEQ82BAQ+b4xAkUMGGAEDcmq9oziDmQ4Dw6krDGBat2wfw9w4J4bG/S8Zvn97w4jXBTAA06ygLgZ2AYiNDWANA5jtIMzA8ApuIDaA4YIoVT5G78kvwYYgGwRyvq8IF4aXMQRAUeUnxcuw7Pan/8jiIM37v39neP36NS5fkwcozkyAAAAA//9brlOHnPYerQAAAABJRU5ErkJggg==",
+      "EquipType": "Consumable",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": {
+        "Heal": 30,
+        "Mana": 0,
+        "Modifiers": null
+      },
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 459,
+      "Name": "Haste Potion",
+      "Description": "A small vial filled with liquid",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA7ElEQVR4nGJioBAMUgNERUUZfExVGTi5RP6DMIgNEsMGWHCZvPfq+/9Lcp3B7JjJe//zcDMyEuUCkE1WVlZg9tmLrxi07GzBbJAYLldgGABy9uu3L//DvABjYzMApxfuPHrM8OjxVYIWYnjBkI0NTEtsvQk2BAS+TN+DIofXgMPvf/7f694MZv9vOg3WzJPpwgASA8kRNAAGnp/9xCBpzAd3AYxNlAEwxSBDkA0kyoAoVT5GrbZ8sCEgDNIIws47axl8Rbgw0gKGACiq/KR4GZbd/oTiX5Dm/d+/M7x+/RqrS8gGFGcmQAAAAP//wDZYNaaM4VUAAAAASUVORK5CYII=",
+      "EquipType": "Consumable",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": {
+        "Heal": 30,
+        "Mana": 0,
+        "Modifiers": null
+      },
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 460,
+      "Name": "Eldertree Potion",
+      "Description": "A vial filled with liquid",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9ElEQVR4nGJioBAMUgNERUUZfExVGTi5RP6DMIgNEsMGWHCZvPfq+/9Lcp3B7JjJe//zcDMyEuUCkE1WVlZg9tmLrxi07GzBbJAYLldgGABy9uu3L//DvABjYzMApxfuPHrM8OjxVYIWYnjBkI0NTK+7UQ42BAT23s1HkUMGGAEDcqpthRyDvqogw8Xb78F0mdsyhuipngyHOx4xfP/2hhGvC2AAptlYWRTsAhAbG8AaBjDbQRjZQGwAwwVRqnyMU5Ivgg1BNgjkfF8RLgwvYwiAospPipdh2e1P/5HFQZr3f//O8Pr1a1y+Jg9QnJkAAQAA///LXlnGCGMx3AAAAABJRU5ErkJggg==",
+      "EquipType": "Consumable",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": {
+        "Heal": 20,
+        "Mana": 0,
+        "Modifiers": null
+      },
+      "Modifiers": [],
+      "Source": "Craftable",
+      "Deprecated": false
+    },
+    {
+      "ID": 461,
+      "Name": "Windleaf",
+      "Description": "An herb commonly used in elven medicine",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAByUlEQVR4nGISFpBgsAo0ZODkEvkPwsoumnA2SI4QYAIR53c+/j//gAtDzlx9hmfHXv8H0TAAMgSGsQKQRFCqPdzWFaci/sPYagYqcHEDB23sBsGcf+HWxP+ly53/YzMImR0aa49iCAvM+ZYGzQwwb1y8/Z5BQ8CSwbbiFoO+qiDDvB23wIqPX6gFqfvPxcbCCA8DdTNxxkSHPWAOiAZpBoEbH46DaWNlUTANMrxsxULMQHx84S1cAcgGkI0gcPbuaxSFIMNhchixAHMFyBswF4BoZA0gw6ckX4S4Sl0WHg6MIAaXAhfDm1ufwNEHczLIBTDDkjzUwDQoLKqEHBk8yxYygMLh7YcXEBfANINsACmChQVII8gVoACFBaS6owOYBlkKshzsgm+//vwHCQqq8jK+v/0ZHCvILoCBicZJDPln54ENBVlm6C7LyIieMNQdJcEpE1lse1c8g7iiIlgzyFUg14BoWOyhAOSkC8KgxPP86ub/bk1G8IQGYsMSFqYJaIaBFB2YUgzXADMERjPhNYGBgcHPSpsRFOpGqtKMyOKgMJAwFGJkxKc5riGdYeuEjXA+nzYfw4vz7/6LqPExfnvwDSwGCAAA//+C/t5DqmVttAAAAABJRU5ErkJggg==",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Elvewood Forest",
+      "Deprecated": false
+    },
+    {
+      "ID": 462,
+      "Name": "Beetleleaf",
+      "Description": "Commonly mistaken for an actual beetle",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAByElEQVR4nGyTwWsTQRTG3ywbMCbZJSZsTDBKArmIQVHQmyBKUMjNq6J485CDCP4RAcnBg1cF/wMDSklbyLHQ0pIeCj0sTUpKE1LaHNI0Tbvlm+UNs9t8sOzOML/3vn3vjUma7Pt5ul1OUvdv39P300VbzLoTOhwfUFhiEfyn9lLurW8NqNM7oZbbJcuMCB3kYMYiGCAeqJy35Xs8P/f4cZ6lKGNlfQeA7WKchitDBT956FAqf4eWmhvSAQfBPvTuxzI9fX1P7LT6vgPAX56XAzAE+GO1pGB29q/+gdb+78k6GcbkUv2XDn//uUpfP79QQfUzo96+WpsJJ0rTwVkAhvV6/ZP8rlQpAPxq7ga6YAy3j6V9HX5fe+tX2nXVQe4IhK7cyiVkV0y9OBBgHUR27gjDUCRm0JwDcPZMoaDgMMjzAMFxo93xco9SIjCJYVi3zHpVuCv3OUggANdAz8YQ1nhjJirVx7JLkIjeTMsiQo12JxxPwfqag7z59tuvAYOZki1O3Yn8xshiYHAo6cTExdGMTOcGgnktV2sjLgk/gPUbh9+BAGN/PpjKS4VEnFRc8wwnVpbiDyzqb47kuALSA/NFgq4CAAD//0OFABmMhxb4AAAAAElFTkSuQmCC",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Temple of Anubis",
+      "Deprecated": false
+    },
+    {
+      "ID": 463,
+      "Name": "Bezerker's Bane",
+      "Description": "A poisonous mushroom said to either enrage or kill those that consume it",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABdUlEQVR4nGJhgAJFRUUwzc7KyfDwyav/DDiAIC8H45fvn8DsT58+MTDCNHOy8TDcf/wcrNHAwYZBTkMdQ/OjGzcZLhw4Ambzc7Eyfvv1lYEFWTOyRpDi50+eg9mSMpJgcZgcSPzlnbv/WVkYGJmI0YwLcLByMLCgawYBdOdj8464ijLYFSzoCkC2IzsXPQzQARO6BDaNyGpgXoMBRk4ukf8g5zAgBRYxGl/euQuOCUYJEUmGj99+ww0hBEAaGZCikZGPj4+Bi40bbAgxBvByMjH++P0DzIYnJJAhyOD3H7b/81fPg/PX7z3KsGnGXAZWll+MMI0wwAQTgAka6GmBaXkpKQZnC3MwHehsDdeArBluADI4fe7O/31HdzCoyMkS4yMGFmyCD589w8rGBpiROezs7Az//jE3/BcWYZAUFWT4+PkzWDwxNIlBU0WK8d2HDww/f/5EMYARmQMKTFEREYZnLz6hxAhI850HDzD8DwKAAAAA///BlKY6+v2Z2AAAAABJRU5ErkJggg==",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "Grug Pit",
+      "Deprecated": false
+    },
+    {
+      "ID": 464,
+      "Name": "Swiftwing",
+      "Description": "An uncommon feather from an uncommon bird",
+      "Icon": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABn0lEQVR4nGJhgAJOLpH/jMwMKIBfTpnx46O7YPa3z28YsAEWZM6sC8cZzj/8wWAoz8GwetN9ht11Uf9B4iIaeoxvblzCaggjsgvcWpcxqOhLgvkgQ0AAahADp6A44/f3LzEMYUI3EaYRGRgFljN8f//yPxPjfwYuXhHcXnh7/iLDjPMXwew7hvpgGuai/2sYGP4xM/7XdHNhvL5rD9wlcC9IKGoxfHz5Cuxn45BysJgw1JBQP0WGGY0bGMwTPBim+zsyMDH+Z/zy6S2qC359fMHAycHAyMLJx3B2TSfEIAaIQef1JcGGgbz3/y/EJTDLGdH9KyQkxPD9B9P/rC37Ge5cfA4XB3nl5IIdDBn1AQypupYM37+9YcQIAxjQ93FmnObjCPcOzCsgGhQryADDBTBXgICYlh7Dw3NX/sMMAblimo8jg5iKIuPDS6exaUU1BJQ2ivdd/r/k7m0wVrWK+w8Sg1mA0wvYvAJKZCQDkE0gLKOpB3YNNhdgpERk8O7dOzCtLiMPpsVVdMlzBbLtIWGJDMguINoAXJoBAQAA//9Wh5kw/g5LbQAAAABJRU5ErkJggg==",
+      "EquipType": "Resource",
+      "Weapon": null,
+      "Ability": null,
+      "Consumable": null,
+      "Modifiers": [],
+      "Source": "The Hanging Temple, Succubus Lair",
+      "Deprecated": false
     }
   ]
 }
