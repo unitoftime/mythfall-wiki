@@ -1,3 +1,0 @@
-In the world of Mythfall there are many enemies; they will attack and follow the player when the player approaches them. Enemies sometimes drop resources and dungeon doors, and similar enemies will always provide a fixed amount of XP. 
-Commonly, the harder the enemy is, the more XP they give. Greater enemies are speical mobs that can summon alike normal enemies. They give more XP than usual. Boss enemies are common objectives for the player. They will always drop a dungeon door, resources and sometimes their speical item. 
-Hostile mobs that belong to different zones will deal different damage; all hostile mobs in skull 1 will deal less damage to enemies in skull 2.
