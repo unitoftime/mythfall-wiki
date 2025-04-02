@@ -1,0 +1,1 @@
+#source wikibot/bin/activate
