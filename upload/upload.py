@@ -14,11 +14,14 @@ from mwcleric import WikiggClient
 ################################################################################
 
 # Set true if you want to update item infobox pages
-doItemInfoboxes = False
+doItemInfoboxes = True
 # Set true if you want to update item images
 doItemImages = False
 # Set to true if you want to update item category pages
 doItemCategories = False
+
+# Set true to do a testing printout
+doTestingPrint = False
 
 ################################################################################
 ################################################################################
@@ -46,14 +49,16 @@ Template_Item = """
 |ModifierString={mods}
 }}}}
 
-Warning: This page is automatically generated.
+Warning: This page is automatically generated. Any changes made here may be overwritten.
+
+{demo_gif}
 
 [[Category:Item]]
 """
 
 
 Template_AllItems="""
-Warning: This page is automatically generated.
+Warning: This page is automatically generated. Any changes made here may be overwritten.
 
 {| class="wikitable"
 |+ A table of items
@@ -105,9 +110,15 @@ class Creator:
             if v['ID'] == 0: continue; # Skip ItemNone
             if v['Deprecated']: continue; # Skip Deprecated Items
 
+#            if v['ID'] != 83: continue;
+
+            itemId = str(v['ID'])
+
             # split out into multiple lines for clarity
             item_name = string.capwords(v['Name'])
             page_name = "Item/" + str(v['ID'])
+
+            demoAnimation = ""
 
             wep = {
                     "Class": "",
@@ -125,7 +136,7 @@ class Creator:
                     "Projectiles": v['Weapon']['Projectiles'],
                     "Scaling": v['Weapon']['StrengthScaling']
                 }
-
+                demoAnimation="[[File: item-attack-" + itemId + ".gif|thumb|Animation of the " + item_name + "]]"
 
             con = {
                     "Heal": "",
@@ -163,7 +174,10 @@ class Creator:
                 con_effect=con["Effect"],
 
                 # Modifiers
-                mods=mods
+                mods=mods,
+
+                # Demo Gif
+                demo_gif=demoAnimation
 
 #                recipe=v['EquipType']#,
 #                builds_into=v['builds_into']
@@ -179,6 +193,10 @@ class Creator:
             if wepClass != '':
                 ps2 = weaponTypePageString[wepClass]
                 weaponTypePageString[wepClass] = self.addItem(ps2, str(v['ID']), v['Image'], nameLink, v['Description'])
+
+            if doTestingPrint:
+                print("Proposed Update for " + page_name)
+                print(page_text)
 
             if doItemInfoboxes:
                 print("Updating " + page_name)
