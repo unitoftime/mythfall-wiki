@@ -1,0 +1,355 @@
+[
+  {
+    "Name": "Shield",
+    "Description": "Adds a protective shield",
+    "Icon": "",
+    "Modifiers": []
+  },
+  {
+    "Name": "Invulnerable",
+    "Description": "Prevent all damage",
+    "Icon": "icon-effect-invulnerable-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Haste",
+    "Description": "Increase movement speed",
+    "Icon": "icon-effect-haste-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Bind",
+    "Description": "Prevents you from moving",
+    "Icon": "icon-effect-bind-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Enraged",
+    "Description": "Increases strength",
+    "Icon": "icon-effect-enraged-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "+5 Strength"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Focused",
+    "Description": "Increases willpower",
+    "Icon": "icon-effect-focused-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "+5 Willpower"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Reflexive",
+    "Description": "Increases Dexterity",
+    "Icon": "icon-effect-reflexive-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "+5 Dexterity"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Rapid Fire",
+    "Description": "Increase attack rate",
+    "Icon": "icon-effect-rapidfire-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "+10 Bonus Attack Speed"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Healing",
+    "Description": "Temporarily increase Health regeneration",
+    "Icon": "icon-effect-healing-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "+2 Health Regeneration"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Energized",
+    "Description": "Temporarily increase Mana regeneration",
+    "Icon": "icon-effect-energized-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "+2 Mana Regeneration"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Armored",
+    "Description": "Increases Defense",
+    "Icon": "icon-effect-guarded-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "+10 Defense"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Vicious",
+    "Description": "Increase critical chance",
+    "Icon": "icon-effect-vicious-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "+20 Critical Chance"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Intangible",
+    "Description": "Reduce all damage taken to 1",
+    "Icon": "icon-effect-intangible-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Intangible",
+    "Description": "Reduce all damage taken to 1",
+    "Icon": "icon-effect-intangible-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Slowed",
+    "Description": "Decreases movement speed",
+    "Icon": "icon-effect-slow-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Slimed",
+    "Description": "Decreases attack and movement speed",
+    "Icon": "icon-effect-slime-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "-10 Bonus Attack Speed"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Confused",
+    "Description": "Movement direction is confused",
+    "Icon": "icon-effect-confused-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Fractured",
+    "Description": "Reduces defense",
+    "Icon": "icon-effect-guardbreak-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "0.5x Defense"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Weakened",
+    "Description": "Decreases ability to deal damage",
+    "Icon": "icon-effect-weakened-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "-10 Strength",
+          "-10 Willpower",
+          "-10 Dexterity"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Fragile",
+    "Description": "Increases Vulnerability",
+    "Icon": "icon-effect-fragile-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "1.5x Damage Received"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Stunned",
+    "Description": "Prevents movement, attacks, and abilities",
+    "Icon": "icon-effect-stun-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Silenced",
+    "Description": "Prevents casting abilities",
+    "Icon": "icon-effect-silenced-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Teleblocked",
+    "Description": "Prevents teleports",
+    "Icon": "icon-effect-stun-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Shunted",
+    "Description": "Prevents dashing",
+    "Icon": "icon-effect-shunted-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Bleed",
+    "Description": "Deals damage over time and adds vulnerability",
+    "Icon": "icon-effect-bleed-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "1.2x Damage Received"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Burn",
+    "Description": "Deals damage over time",
+    "Icon": "icon-effect-burn-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Poison",
+    "Description": "Deals damage over time. Prevents health and regeneration",
+    "Icon": "icon-effect-poison-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "0x Health Regeneration",
+          "0x Mana Regeneration"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Dwarven Drums",
+    "Description": "Increase fire rate with hammer",
+    "Icon": "icon-effect-dwarvendrums-0.png",
+    "Modifiers": [
+      {
+        "Filter": "With Hammer:",
+        "Modifiers": [
+          "+10 Bonus Attack Speed"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Bloodletting Ritual",
+    "Description": "Increase lifesteal",
+    "Icon": "icon-effect-bloodletting-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "+32 Lifesteal Chance"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Shadowstep",
+    "Description": "Faster dash recovery",
+    "Icon": "icon-effect-shadowstep-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "+100 Dash CDR"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Vitality",
+    "Description": "Modifies your vitality stat",
+    "Icon": "icon-effect-vit-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Willpower",
+    "Description": "Modifies your willpower stat",
+    "Icon": "icon-effect-wil-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Strength",
+    "Description": "Modifies your strength stat",
+    "Icon": "icon-effect-str-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Defense",
+    "Description": "Modifies your defense stat",
+    "Icon": "icon-effect-dex-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Defense",
+    "Description": "Modifies your defense stat",
+    "Icon": "icon-effect-def-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Speed",
+    "Description": "Modifies your speed stat",
+    "Icon": "icon-effect-spd-0.png",
+    "Modifiers": []
+  },
+  {
+    "Name": "Blessing of the Awakened",
+    "Description": "You are blessed",
+    "Icon": "icon-effect-awakened-0.png",
+    "Modifiers": [
+      {
+        "Filter": "",
+        "Modifiers": [
+          "+5 Vitality",
+          "+5 Defense",
+          "+5 Speed"
+        ]
+      }
+    ]
+  }
+]

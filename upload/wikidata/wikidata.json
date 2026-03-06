@@ -27,8 +27,8 @@
   },
   {
     "ID": 2,
-    "Name": "Slime",
-    "Description": "Just as you suspect... It's very slimy.",
+    "Name": "Green Jelly",
+    "Description": "I could probably use this to make a potion",
     "Image": "item-2.png",
     "EquipType": "Resource",
     "Weapon": null,
@@ -40,32 +40,28 @@
   },
   {
     "ID": 3,
-    "Name": "Manaberry Jam",
-    "Description": "A jar of muddled apples. Great on toast!",
+    "Name": "Blue Jelly",
+    "Description": "I could probably use this to make a potion",
     "Image": "item-3.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 20,
-      "Extras": []
-    },
+    "Consumable": null,
     "Modifiers": [],
-    "Source": "Craftable",
+    "Source": "Gumbo Forest",
     "Deprecated": false
   },
   {
     "ID": 4,
-    "Name": "Jelly",
-    "Description": "A gelatinous blob of wobbling, purple goop.",
+    "Name": "Orange Jelly",
+    "Description": "I could probably use this to make a potion",
     "Image": "item-4.png",
     "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Luminous Cavern",
+    "Source": "Blightcap",
     "Deprecated": false
   },
   {
@@ -104,7 +100,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Briarhoof Forest",
+    "Source": "Enchanted Grove",
     "Deprecated": false
   },
   {
@@ -130,7 +126,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Scorven Wastes",
+    "Source": "Oasis Sands",
     "Deprecated": false
   },
   {
@@ -143,7 +139,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Whispering Cliffs",
+    "Source": "Misty Peak",
     "Deprecated": false
   },
   {
@@ -169,7 +165,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Volcanic Core",
+    "Source": "Volcanic Core, Volcanic Core",
     "Deprecated": false
   },
   {
@@ -208,7 +204,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Lorendel's Garden",
+    "Source": "Elvewood Forest",
     "Deprecated": false
   },
   {
@@ -221,7 +217,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Eldertree Thicket",
+    "Source": "Eldertree Forest",
     "Deprecated": false
   },
   {
@@ -247,7 +243,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Goopy Grove",
+    "Source": "Slime Pit",
     "Deprecated": false
   },
   {
@@ -260,7 +256,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Scorven Wastes",
+    "Source": "Oasis Sands",
     "Deprecated": false
   },
   {
@@ -320,7 +316,7 @@
     "Name": "Top Hat",
     "Description": "May or may not come with rabbits",
     "Image": "item-24.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -340,7 +336,7 @@
     "Name": "Stonehawk",
     "Description": "A mohawk of stone",
     "Image": "item-25.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -360,7 +356,7 @@
     "Name": "Nightcap",
     "Description": "Time for bed!",
     "Image": "item-26.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -373,7 +369,7 @@
         ]
       }
     ],
-    "Source": "Goopy Grove",
+    "Source": "Slime Pit",
     "Deprecated": false
   },
   {
@@ -381,7 +377,7 @@
     "Name": "Bycocket",
     "Description": "A what..?",
     "Image": "item-27.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -401,7 +397,7 @@
     "Name": "Skull Mask",
     "Description": "Some sort of skull with a leather strap",
     "Image": "item-28.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -423,7 +419,7 @@
     "Name": "Neko Ears",
     "Description": "For your cat cosplay needs",
     "Image": "item-29.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -436,7 +432,7 @@
     "Name": "Ninja Mask",
     "Description": "Hide your identity",
     "Image": "item-30.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -456,7 +452,7 @@
     "Name": "Coconut Helmet",
     "Description": "A nut for your head",
     "Image": "item-31.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -476,7 +472,7 @@
     "Name": "Leafy Crown",
     "Description": "A leaf based crown",
     "Image": "item-32.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -488,7 +484,7 @@
         ]
       }
     ],
-    "Source": "Lorendel's Garden",
+    "Source": "Elvewood Forest",
     "Deprecated": false
   },
   {
@@ -496,7 +492,7 @@
     "Name": "Broken Crown",
     "Description": "A golden crown with a crack in it",
     "Image": "item-33.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -517,7 +513,7 @@
     "Name": "Jester Hat",
     "Description": "A court jester's hat",
     "Image": "item-34.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -539,7 +535,7 @@
     "Name": "Executioner's Hood",
     "Description": "The hood of an executioner",
     "Image": "item-35.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -561,7 +557,7 @@
     "Name": "Captain's Hat",
     "Description": "I'm the captain now",
     "Image": "item-36.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -582,7 +578,7 @@
     "Name": "Eye Patch",
     "Description": "Aaargh matey!",
     "Image": "item-37.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -602,7 +598,7 @@
     "Name": "Driftwood Helmet",
     "Description": "A helmet made from Driftwood",
     "Image": "item-38.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -622,7 +618,7 @@
     "Name": "Iron Helmet",
     "Description": "A helmet made from Iron",
     "Image": "item-39.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -642,7 +638,7 @@
     "Name": "Chlorolite Helmet",
     "Description": "A helmet made from Chlorolite",
     "Image": "item-40.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -662,7 +658,7 @@
     "Name": "Golden Helmet",
     "Description": "A helmet made from Gold",
     "Image": "item-41.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -682,7 +678,7 @@
     "Name": "Cobalt Helmet",
     "Description": "A helmet made from Cobalt",
     "Image": "item-42.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -702,7 +698,7 @@
     "Name": "Obsidian Helmet",
     "Description": "A helmet made from Obsidian",
     "Image": "item-43.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -722,7 +718,7 @@
     "Name": "Nemes",
     "Description": "You look Pharaohcious...",
     "Image": "item-44.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -743,7 +739,7 @@
     "Name": "Monk Hood",
     "Description": "A simple hood for a monk",
     "Image": "item-45.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -769,7 +765,7 @@
     "Name": "Bunny Ears",
     "Description": "Hop! Hop!",
     "Image": "item-46.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -782,7 +778,7 @@
     "Name": "Easter Egg",
     "Description": "Why do you have an egg on your head?",
     "Image": "item-47.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -795,7 +791,7 @@
     "Name": "Coolcrab Shades",
     "Description": "Rad",
     "Image": "item-48.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -978,7 +974,7 @@
     "Image": "item-57.png",
     "EquipType": "Weapon",
     "Weapon": {
-      "Damage": 4,
+      "Damage": 8,
       "Class": "Sword",
       "Rate": 2,
       "Projectiles": 2,
@@ -1125,7 +1121,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Lorendel's Garden",
+    "Source": "Elvewood Forest",
     "Deprecated": false
   },
   {
@@ -1386,7 +1382,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Bilgewater Captain",
+    "Source": "Pirate Cove",
     "Deprecated": false
   },
   {
@@ -1631,7 +1627,7 @@
         ]
       }
     ],
-    "Source": "Eldertree Thicket",
+    "Source": "Eldertree Forest",
     "Deprecated": false
   },
   {
@@ -1641,7 +1637,7 @@
     "Image": "item-84.png",
     "EquipType": "Weapon",
     "Weapon": {
-      "Damage": 12,
+      "Damage": 8,
       "Class": "Throwable",
       "Rate": 2,
       "Projectiles": 1,
@@ -1650,16 +1646,9 @@
     },
     "Ability": null,
     "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "Gain: Pierce"
-        ]
-      }
-    ],
+    "Modifiers": [],
     "Source": "",
-    "Deprecated": false
+    "Deprecated": true
   },
   {
     "ID": 85,
@@ -1788,7 +1777,7 @@
     "Image": "item-91.png",
     "EquipType": "Weapon",
     "Weapon": {
-      "Damage": 4,
+      "Damage": 8,
       "Class": "Dagger",
       "Rate": 3.3333333333333335,
       "Projectiles": 1,
@@ -1942,7 +1931,7 @@
         ]
       }
     ],
-    "Source": "Iron Golem",
+    "Source": "Stoneheart Forest",
     "Deprecated": false
   },
   {
@@ -2068,7 +2057,7 @@
     "Weapon": {
       "Damage": 0,
       "Class": "Staff",
-      "Rate": 2.5,
+      "Rate": 2,
       "Projectiles": 1,
       "StrengthScaling": 0,
       "ManaCost": 0
@@ -2217,7 +2206,7 @@
         ]
       }
     ],
-    "Source": "Eldertree Thicket",
+    "Source": "Eldertree Forest",
     "Deprecated": false
   },
   {
@@ -2319,7 +2308,7 @@
         ]
       }
     ],
-    "Source": "Eldertree Thicket",
+    "Source": "Eldertree Forest",
     "Deprecated": false
   },
   {
@@ -2339,7 +2328,7 @@
         ]
       }
     ],
-    "Source": "Lorendel's Garden",
+    "Source": "Elvewood Forest",
     "Deprecated": false
   },
   {
@@ -2612,7 +2601,7 @@
         "Modifiers": [
           "+5 Strength",
           "+5 Critical Chance",
-          "+5 Defense"
+          "+2 Defense"
         ]
       }
     ],
@@ -2636,7 +2625,7 @@
         ]
       }
     ],
-    "Source": "",
+    "Source": "Ancient Sandcrab, Bilgewater Captain",
     "Deprecated": false
   },
   {
@@ -2656,7 +2645,7 @@
         ]
       }
     ],
-    "Source": "",
+    "Source": "Ancient Sandcrab, Bilgewater Captain",
     "Deprecated": false
   },
   {
@@ -2826,7 +2815,7 @@
   {
     "ID": 138,
     "Name": "Cocofruit Milk",
-    "Description": "A small cup of cocofruit milk",
+    "Description": "A small vial filled with coconut milk",
     "Image": "item-138.png",
     "EquipType": "Consumable",
     "Weapon": null,
@@ -2834,7 +2823,7 @@
     "Consumable": {
       "Heal": 10,
       "Mana": 0,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
     "Source": "Craftable",
@@ -2851,10 +2840,10 @@
     "Consumable": {
       "Heal": 20,
       "Mana": 0,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
-    "Source": "",
+    "Source": "Craftable",
     "Deprecated": false
   },
   {
@@ -2868,10 +2857,10 @@
     "Consumable": {
       "Heal": 30,
       "Mana": 0,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
-    "Source": "",
+    "Source": "Craftable",
     "Deprecated": false
   },
   {
@@ -2885,7 +2874,7 @@
     "Consumable": {
       "Heal": 40,
       "Mana": 0,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
     "Source": "",
@@ -2902,8 +2891,13 @@
     "Consumable": {
       "Heal": 0,
       "Mana": 0,
-      "Extras": [
-        "Increases character Vitality by 1 (Max 17)"
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Vitality"
+          ]
+        }
       ]
     },
     "Modifiers": [],
@@ -2921,8 +2915,13 @@
     "Consumable": {
       "Heal": 0,
       "Mana": 0,
-      "Extras": [
-        "Increases character Strength by 1 (Max 17)"
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Strength"
+          ]
+        }
       ]
     },
     "Modifiers": [],
@@ -2940,8 +2939,13 @@
     "Consumable": {
       "Heal": 0,
       "Mana": 0,
-      "Extras": [
-        "Increases character Speed by 1 (Max 25)"
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Speed"
+          ]
+        }
       ]
     },
     "Modifiers": [],
@@ -2959,8 +2963,13 @@
     "Consumable": {
       "Heal": 0,
       "Mana": 0,
-      "Extras": [
-        "Increases character Dexterity by 1 (Max 17)"
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Dexterity"
+          ]
+        }
       ]
     },
     "Modifiers": [],
@@ -2978,10 +2987,10 @@
     "Consumable": {
       "Heal": 0,
       "Mana": 25,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
-    "Source": "",
+    "Source": "Craftable",
     "Deprecated": false
   },
   {
@@ -3016,12 +3025,12 @@
       "Rate": -1,
       "Projectiles": 1,
       "StrengthScaling": 0,
-      "ManaCost": 8
+      "ManaCost": 5
     },
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "",
+    "Source": "Ancient Sandcrab, Bilgewater Captain",
     "Deprecated": false
   },
   {
@@ -3036,7 +3045,7 @@
       "Rate": -1,
       "Projectiles": 1,
       "StrengthScaling": 0,
-      "ManaCost": 10
+      "ManaCost": 5
     },
     "Ability": null,
     "Consumable": null,
@@ -3061,7 +3070,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Eldertree Thicket",
+    "Source": "Eldertree Forest",
     "Deprecated": false
   },
   {
@@ -3081,7 +3090,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Eldertree Thicket",
+    "Source": "Eldertree Forest",
     "Deprecated": false
   },
   {
@@ -3101,7 +3110,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Eldertree Thicket",
+    "Source": "Eldertree Forest",
     "Deprecated": false
   },
   {
@@ -3236,7 +3245,7 @@
       "Rate": -1,
       "Projectiles": 1,
       "StrengthScaling": 0,
-      "ManaCost": 10
+      "ManaCost": 5
     },
     "Ability": null,
     "Consumable": null,
@@ -3556,7 +3565,7 @@
     "Name": "Artificer's Goggles",
     "Description": "Protective gear for an artificer",
     "Image": "item-175.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -3646,7 +3655,7 @@
     "Image": "item-179.png",
     "EquipType": "Weapon",
     "Weapon": {
-      "Damage": 17,
+      "Damage": 14,
       "Class": "Sword",
       "Rate": 2,
       "Projectiles": 1,
@@ -3664,7 +3673,7 @@
     "Name": "Mask of the Loyal",
     "Description": "The loyal one is rewarded!",
     "Image": "item-180.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -3683,16 +3692,16 @@
   },
   {
     "ID": 181,
-    "Name": "Shardskin Potion",
-    "Description": "It has bits of gravel floating inside",
+    "Name": "Guard Potion",
+    "Description": "A small vial filled with liquid",
     "Image": "item-181.png",
     "EquipType": "Consumable",
     "Weapon": null,
     "Ability": null,
     "Consumable": {
-      "Heal": 0,
+      "Heal": 30,
       "Mana": 0,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
     "Source": "Craftable",
@@ -3738,7 +3747,7 @@
     "Name": "Rockshard Helmet",
     "Description": "A helmet made from Rockshard",
     "Image": "item-184.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -3990,7 +3999,7 @@
     "Name": "Scorpion Diadem",
     "Description": "A crown befitting a Scorpion Queen",
     "Image": "item-196.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -4183,7 +4192,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Lorendel's Garden",
+    "Source": "Elvewood Forest",
     "Deprecated": false
   },
   {
@@ -4203,7 +4212,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Lorendel's Garden",
+    "Source": "Elvewood Forest",
     "Deprecated": false
   },
   {
@@ -4223,7 +4232,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Lorendel's Garden",
+    "Source": "Elvewood Forest",
     "Deprecated": false
   },
   {
@@ -4578,12 +4587,12 @@
       "Rate": -1,
       "Projectiles": 1,
       "StrengthScaling": 0,
-      "ManaCost": 15
+      "ManaCost": 20
     },
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Goopy Grove",
+    "Source": "Slime Pit",
     "Deprecated": false
   },
   {
@@ -4598,12 +4607,12 @@
       "Rate": -1,
       "Projectiles": 1,
       "StrengthScaling": 0,
-      "ManaCost": 15
+      "ManaCost": 20
     },
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Goopy Grove",
+    "Source": "Slime Pit",
     "Deprecated": false
   },
   {
@@ -4618,12 +4627,12 @@
       "Rate": -1,
       "Projectiles": 1,
       "StrengthScaling": 0,
-      "ManaCost": 15
+      "ManaCost": 20
     },
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Goopy Grove",
+    "Source": "Slime Pit",
     "Deprecated": false
   },
   {
@@ -4638,7 +4647,7 @@
       "Rate": -1,
       "Projectiles": 1,
       "StrengthScaling": 0,
-      "ManaCost": 15
+      "ManaCost": 20
     },
     "Ability": null,
     "Consumable": null,
@@ -4891,7 +4900,7 @@
     "Name": "Mining Helmet",
     "Description": "A bright light attached to a solid helmet",
     "Image": "item-241.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -4991,7 +5000,7 @@
         "Filter": "",
         "Modifiers": [
           "+5 Bonus Attack Speed",
-          "+7 Defense"
+          "+5 Defense"
         ]
       }
     ],
@@ -5224,8 +5233,7 @@
       {
         "Filter": "",
         "Modifiers": [
-          "+100 Swim Speed",
-          "+5 Speed"
+          "+100 Swim Speed"
         ]
       }
     ],
@@ -5243,7 +5251,7 @@
     "Consumable": {
       "Heal": 1000,
       "Mana": 0,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
     "Source": "",
@@ -5260,8 +5268,13 @@
     "Consumable": {
       "Heal": 0,
       "Mana": 0,
-      "Extras": [
-        "Increases character Defense by 1 (Max 17)"
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Defense"
+          ]
+        }
       ]
     },
     "Modifiers": [],
@@ -5279,8 +5292,13 @@
     "Consumable": {
       "Heal": 0,
       "Mana": 0,
-      "Extras": [
-        "Increases character Willpower by 1 (Max 17)"
+      "Modifiers": [
+        {
+          "Filter": "",
+          "Modifiers": [
+            "+1 Willpower"
+          ]
+        }
       ]
     },
     "Modifiers": [],
@@ -5424,7 +5442,7 @@
         ]
       }
     ],
-    "Source": "",
+    "Source": "Ancient Sandcrab, Bilgewater Captain",
     "Deprecated": false
   },
   {
@@ -5544,7 +5562,7 @@
         ]
       }
     ],
-    "Source": "",
+    "Source": "Ancient Sandcrab, Bilgewater Captain",
     "Deprecated": false
   },
   {
@@ -5664,7 +5682,7 @@
         ]
       }
     ],
-    "Source": "",
+    "Source": "Ancient Sandcrab, Bilgewater Captain",
     "Deprecated": false
   },
   {
@@ -5784,7 +5802,7 @@
         ]
       }
     ],
-    "Source": "",
+    "Source": "Ancient Sandcrab, Bilgewater Captain",
     "Deprecated": false
   },
   {
@@ -5904,7 +5922,7 @@
         ]
       }
     ],
-    "Source": "Eldertree Thicket",
+    "Source": "Eldertree Forest",
     "Deprecated": false
   },
   {
@@ -5972,7 +5990,7 @@
         ]
       }
     ],
-    "Source": "Lorendel's Garden",
+    "Source": "Elvewood Forest",
     "Deprecated": false
   },
   {
@@ -5993,7 +6011,7 @@
         ]
       }
     ],
-    "Source": "Lorendel's Garden",
+    "Source": "Elvewood Forest",
     "Deprecated": false
   },
   {
@@ -6022,7 +6040,7 @@
     "Name": "Graviton Helmet",
     "Description": "A helmet imbued with graviton",
     "Image": "item-297.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -6063,7 +6081,7 @@
     "Name": "Elderwood Helmet",
     "Description": "A helmet made from Elderwood",
     "Image": "item-299.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -6165,7 +6183,7 @@
     "Name": "Chitin Helmet",
     "Description": "A helmet made from Chitin",
     "Image": "item-304.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -6227,7 +6245,7 @@
     "Name": "Mythril Helmet",
     "Description": "A helmet made from Mythril",
     "Image": "item-307.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -6519,7 +6537,7 @@
     "Name": "Shadowleaf Hood",
     "Description": "",
     "Image": "item-319.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -6541,7 +6559,7 @@
     "Name": "Sunleaf Hood",
     "Description": "",
     "Image": "item-320.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -6778,7 +6796,7 @@
     "Name": "Jack-o'-Lantern Helmet",
     "Description": "Spooky",
     "Image": "item-332.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -6791,7 +6809,7 @@
     "Name": "Jack-o'-Lantern Helmet",
     "Description": "Spooky",
     "Image": "item-333.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -6804,7 +6822,7 @@
     "Name": "Jack-o'-Lantern Helmet",
     "Description": "Spooky",
     "Image": "item-334.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -6822,7 +6840,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Craftable",
+    "Source": "",
     "Deprecated": false
   },
   {
@@ -6971,11 +6989,11 @@
       {
         "Filter": "",
         "Modifiers": [
-          "+25 Swim Speed"
+          "+3 Defense"
         ]
       }
     ],
-    "Source": "Goopy Grove",
+    "Source": "Slime Pit",
     "Deprecated": false
   },
   {
@@ -7049,18 +7067,12 @@
     "Name": "Speed Shard",
     "Description": "The shard glows with magical energy.",
     "Image": "item-348.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Speed by 1 (Max 10)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
-    "Source": "Ancient Ruins",
+    "Source": "",
     "Deprecated": false
   },
   {
@@ -7068,18 +7080,12 @@
     "Name": "Dexterity Shard",
     "Description": "The shard glows with magical energy.",
     "Image": "item-349.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Dexterity by 1 (Max 10)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
-    "Source": "Ancient Ruins",
+    "Source": "",
     "Deprecated": false
   },
   {
@@ -7087,16 +7093,10 @@
     "Name": "Defense Shard",
     "Description": "The shard glows with magical energy.",
     "Image": "item-350.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Defense by 1 (Max 10)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
     "Source": "",
     "Deprecated": false
@@ -7106,16 +7106,10 @@
     "Name": "Willpower Shard",
     "Description": "The shard glows with magical energy.",
     "Image": "item-351.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Willpower by 1 (Max 10)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
     "Source": "",
     "Deprecated": false
@@ -7125,16 +7119,10 @@
     "Name": "Vitality Shard",
     "Description": "The shard glows with magical energy.",
     "Image": "item-352.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Vitality by 1 (Max 10)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
     "Source": "",
     "Deprecated": false
@@ -7144,18 +7132,12 @@
     "Name": "Strength Shard",
     "Description": "The shard glows with magical energy.",
     "Image": "item-353.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Strength by 1 (Max 10)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
-    "Source": "Ancient Ruins",
+    "Source": "",
     "Deprecated": false
   },
   {
@@ -7231,8 +7213,7 @@
       {
         "Filter": "",
         "Modifiers": [
-          "+10 Swim Speed",
-          "+2 Defense"
+          "+50 Swim Speed"
         ]
       }
     ],
@@ -7244,7 +7225,7 @@
     "Name": "Ancient Snelm",
     "Description": "This appears to be the discarded home of some creature",
     "Image": "item-358.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -7269,7 +7250,7 @@
     "Weapon": {
       "Damage": 0,
       "Class": "Staff",
-      "Rate": 2.5,
+      "Rate": 4,
       "Projectiles": 1,
       "StrengthScaling": 0,
       "ManaCost": 0
@@ -7277,7 +7258,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Colossal Jellyfish",
+    "Source": "Ancient Sandcrab",
     "Deprecated": false
   },
   {
@@ -7289,7 +7270,7 @@
     "Weapon": {
       "Damage": 0,
       "Class": "Staff",
-      "Rate": 2.5,
+      "Rate": 2,
       "Projectiles": 1,
       "StrengthScaling": 0,
       "ManaCost": 0
@@ -7305,7 +7286,7 @@
     "Name": "Blight Cap",
     "Description": "A magical hair eating fungus which imbues you with poisonous powers.",
     "Image": "item-361.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -7356,14 +7337,7 @@
     },
     "Ability": null,
     "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+1 Mana Regeneration"
-        ]
-      }
-    ],
+    "Modifiers": [],
     "Source": "The Hollow Archer",
     "Deprecated": false
   },
@@ -7372,7 +7346,7 @@
     "Name": "Hollow Scowl",
     "Description": "A ghostly ranger's scowl",
     "Image": "item-364.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -7393,7 +7367,7 @@
     "Name": "Sarcophagus Facewrap",
     "Description": "Did you take this from a dead body? Thats disgusting...",
     "Image": "item-365.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -7441,7 +7415,7 @@
     "Name": "Stone Visage",
     "Description": "You cant see much with it on, but you feel magically empowered.",
     "Image": "item-367.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -7462,7 +7436,7 @@
     "Name": "Cultist Mask",
     "Description": "A sinister mask that hums with the energy of a succubus's devoted servant.",
     "Image": "item-368.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -7487,7 +7461,7 @@
     "Weapon": {
       "Damage": 0,
       "Class": "Cannon",
-      "Rate": 6.25,
+      "Rate": 7.8125,
       "Projectiles": 1,
       "StrengthScaling": 0,
       "ManaCost": 0
@@ -7634,7 +7608,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Krampus Clause",
+    "Source": "",
     "Deprecated": false
   },
   {
@@ -7644,7 +7618,7 @@
     "Image": "item-378.png",
     "EquipType": "Weapon",
     "Weapon": {
-      "Damage": 17,
+      "Damage": 14,
       "Class": "Sword",
       "Rate": 2,
       "Projectiles": 1,
@@ -7709,7 +7683,7 @@
     "Name": "Santa's Hat",
     "Description": "Its surprisingly warm",
     "Image": "item-381.png",
-    "EquipType": "Helmet",
+    "EquipType": "Hat",
     "Weapon": null,
     "Ability": null,
     "Consumable": null,
@@ -7918,7 +7892,7 @@
   },
   {
     "ID": 394,
-    "Name": "Alchemy Table I",
+    "Name": "Alchemy Table",
     "Description": "A table for crafting potions",
     "Image": "item-394.png",
     "EquipType": "Block",
@@ -7931,7 +7905,7 @@
   },
   {
     "ID": 395,
-    "Name": "Iron Anvil",
+    "Name": "Anvil",
     "Description": "An anvil for blacksmithing, made entirely of iron.",
     "Image": "item-395.png",
     "EquipType": "Block",
@@ -7944,8 +7918,8 @@
   },
   {
     "ID": 396,
-    "Name": "Chlorolite Anvil",
-    "Description": "An upgraded anvil for blacksmithing",
+    "Name": "Chlorolite Tools",
+    "Description": "Unlocks more recipes for the Anvil",
     "Image": "item-396.png",
     "EquipType": "Block",
     "Weapon": null,
@@ -7957,8 +7931,8 @@
   },
   {
     "ID": 397,
-    "Name": "Gold Anvil",
-    "Description": "An upgraded anvil for blacksmithing",
+    "Name": "Gold Tools",
+    "Description": "Unlocks more recipes for the Anvil",
     "Image": "item-397.png",
     "EquipType": "Block",
     "Weapon": null,
@@ -7970,8 +7944,8 @@
   },
   {
     "ID": 398,
-    "Name": "Cobalt Anvil",
-    "Description": "An upgraded anvil for blacksmithing",
+    "Name": "Cobalt Tools",
+    "Description": "Unlocks more recipes for the Anvil",
     "Image": "item-398.png",
     "EquipType": "Block",
     "Weapon": null,
@@ -7983,8 +7957,8 @@
   },
   {
     "ID": 399,
-    "Name": "Obsidian Anvil",
-    "Description": "An upgraded anvil for blacksmithing",
+    "Name": "Obsidian Tools",
+    "Description": "Unlocks more recipes for the Anvil",
     "Image": "item-399.png",
     "EquipType": "Block",
     "Weapon": null,
@@ -7996,8 +7970,8 @@
   },
   {
     "ID": 400,
-    "Name": "Mythril Anvil",
-    "Description": "An upgraded anvil for blacksmithing",
+    "Name": "Mythril Tools",
+    "Description": "Unlocks more recipes for the Anvil",
     "Image": "item-400.png",
     "EquipType": "Block",
     "Weapon": null,
@@ -8009,7 +7983,7 @@
   },
   {
     "ID": 401,
-    "Name": "Artificer Workbench I",
+    "Name": "Artificer Workbench",
     "Description": "A table for crafting magical items",
     "Image": "item-401.png",
     "EquipType": "Block",
@@ -8165,7 +8139,7 @@
   },
   {
     "ID": 413,
-    "Name": "Jewelry Desk I",
+    "Name": "Jewelry Desk",
     "Description": "A table for crafting jewelry",
     "Image": "item-413.png",
     "EquipType": "Block",
@@ -8178,7 +8152,7 @@
   },
   {
     "ID": 414,
-    "Name": "Scriptorium I",
+    "Name": "Scriptorium",
     "Description": "A desk for combining pages into full books",
     "Image": "item-414.png",
     "EquipType": "Block",
@@ -8399,8 +8373,8 @@
   },
   {
     "ID": 431,
-    "Name": "Alchemy Table II",
-    "Description": "A table for crafting potions",
+    "Name": "Bubbling Cauldron",
+    "Description": "Unlocks more recipes for the Alchemy Table",
     "Image": "item-431.png",
     "EquipType": "Block",
     "Weapon": null,
@@ -8412,8 +8386,8 @@
   },
   {
     "ID": 432,
-    "Name": "Scriptorium II",
-    "Description": "A desk for combining pages into full books",
+    "Name": "Simple Archive",
+    "Description": "Unlocks more recipes for the Scriptorium",
     "Image": "item-432.png",
     "EquipType": "Block",
     "Weapon": null,
@@ -8425,8 +8399,8 @@
   },
   {
     "ID": 433,
-    "Name": "Scriptorium III",
-    "Description": "A desk for combining pages into full books",
+    "Name": "Greater Archive",
+    "Description": "Unlocks more recipes for the Scriptorium",
     "Image": "item-433.png",
     "EquipType": "Block",
     "Weapon": null,
@@ -8438,8 +8412,8 @@
   },
   {
     "ID": 434,
-    "Name": "Artificer Workbench II",
-    "Description": "A table for crafting magical items",
+    "Name": "Lesser Runestone",
+    "Description": "Unlocks more recipes for the Artificer Workbench",
     "Image": "item-434.png",
     "EquipType": "Block",
     "Weapon": null,
@@ -8464,8 +8438,8 @@
   },
   {
     "ID": 436,
-    "Name": "Jewelry Desk II",
-    "Description": "A table for crafting jewelry",
+    "Name": "Gemcutting Tools",
+    "Description": "Unlocks more recipes for the Jewelry Desk",
     "Image": "item-436.png",
     "EquipType": "Block",
     "Weapon": null,
@@ -8529,114 +8503,78 @@
   },
   {
     "ID": 441,
-    "Name": "Purified Speed Crystal",
-    "Description": "A small orb of pure magical energy",
+    "Name": "Compressed Speed Crystal",
+    "Description": "A small orb of compressed magical energy",
     "Image": "item-441.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Speed by 1 (Max 25)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
     "Source": "Craftable",
     "Deprecated": false
   },
   {
     "ID": 442,
-    "Name": "Purified Dexterity Crystal",
-    "Description": "A small orb of pure magical energy",
+    "Name": "Compressed Dexterity Crystal",
+    "Description": "A small orb of compressed magical energy",
     "Image": "item-442.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Dexterity by 1 (Max 25)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
     "Source": "Craftable",
     "Deprecated": false
   },
   {
     "ID": 443,
-    "Name": "Purified Defense Crystal",
-    "Description": "A small orb of pure magical energy",
+    "Name": "Compressed Defense Crystal",
+    "Description": "A small orb of compressed magical energy",
     "Image": "item-443.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Defense by 1 (Max 25)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
     "Source": "Craftable",
     "Deprecated": false
   },
   {
     "ID": 444,
-    "Name": "Purified Willpower Crystal",
-    "Description": "A small orb of pure magical energy",
+    "Name": "Compressed Willpower Crystal",
+    "Description": "A small orb of compressed magical energy",
     "Image": "item-444.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Willpower by 1 (Max 25)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
     "Source": "Craftable",
     "Deprecated": false
   },
   {
     "ID": 445,
-    "Name": "Purified Vitality Crystal",
-    "Description": "A small orb of pure magical energy",
+    "Name": "Compressed Vitality Crystal",
+    "Description": "A small orb of compressed magical energy",
     "Image": "item-445.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Vitality by 1 (Max 25)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
     "Source": "Craftable",
     "Deprecated": false
   },
   {
     "ID": 446,
-    "Name": "Purified Strength Crystal",
-    "Description": "A small orb of pure magical energy",
+    "Name": "Compressed Strength Crystal",
+    "Description": "A small orb of compressed magical energy",
     "Image": "item-446.png",
-    "EquipType": "Consumable",
+    "EquipType": "Resource",
     "Weapon": null,
     "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Increases character Strength by 1 (Max 25)"
-      ]
-    },
+    "Consumable": null,
     "Modifiers": [],
     "Source": "Craftable",
     "Deprecated": false
@@ -8771,7 +8709,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "",
+    "Source": "Craftable",
     "Deprecated": false
   },
   {
@@ -8785,10 +8723,10 @@
     "Consumable": {
       "Heal": 0,
       "Mana": 50,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
-    "Source": "",
+    "Source": "Craftable",
     "Deprecated": false
   },
   {
@@ -8801,21 +8739,21 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "",
+    "Source": "Craftable",
     "Deprecated": false
   },
   {
     "ID": 456,
-    "Name": "Bezerker Potion",
-    "Description": "A pulsing red brew. They say it makes you mad just by looking at it.",
+    "Name": "Rage Potion",
+    "Description": "A small vial filled with liquid",
     "Image": "item-456.png",
     "EquipType": "Consumable",
     "Weapon": null,
     "Ability": null,
     "Consumable": {
-      "Heal": 0,
+      "Heal": 30,
       "Mana": 0,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
     "Source": "Craftable",
@@ -8823,16 +8761,16 @@
   },
   {
     "ID": 457,
-    "Name": "Focus Postion",
-    "Description": "A thick, cool liquid. Hardly forms bubbles when you shake it.",
+    "Name": "Focus Potion",
+    "Description": "A small vial filled with liquid",
     "Image": "item-457.png",
     "EquipType": "Consumable",
     "Weapon": null,
     "Ability": null,
     "Consumable": {
-      "Heal": 0,
+      "Heal": 30,
       "Mana": 0,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
     "Source": "Craftable",
@@ -8841,15 +8779,15 @@
   {
     "ID": 458,
     "Name": "Reflex Potion",
-    "Description": "A sharp liquid with bubbles rising inside.",
+    "Description": "A small vial filled with liquid",
     "Image": "item-458.png",
     "EquipType": "Consumable",
     "Weapon": null,
     "Ability": null,
     "Consumable": {
-      "Heal": 0,
+      "Heal": 30,
       "Mana": 0,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
     "Source": "Craftable",
@@ -8858,15 +8796,15 @@
   {
     "ID": 459,
     "Name": "Haste Potion",
-    "Description": "A bright, pulsing liquid, also surprisingly sticky looking.",
+    "Description": "A small vial filled with liquid",
     "Image": "item-459.png",
     "EquipType": "Consumable",
     "Weapon": null,
     "Ability": null,
     "Consumable": {
-      "Heal": 0,
+      "Heal": 30,
       "Mana": 0,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
     "Source": "Craftable",
@@ -8875,15 +8813,15 @@
   {
     "ID": 460,
     "Name": "Eldertree Potion",
-    "Description": "It tastes like dirt and sunlight",
+    "Description": "A vial filled with liquid",
     "Image": "item-460.png",
     "EquipType": "Consumable",
     "Weapon": null,
     "Ability": null,
     "Consumable": {
-      "Heal": 0,
+      "Heal": 20,
       "Mana": 0,
-      "Extras": []
+      "Modifiers": null
     },
     "Modifiers": [],
     "Source": "Craftable",
@@ -8899,7 +8837,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Lorendel's Garden, Alivarg's Tower",
+    "Source": "Elvewood Forest",
     "Deprecated": false
   },
   {
@@ -8912,7 +8850,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Temple of Anubis, Scorpion Pit",
+    "Source": "Temple of Anubis",
     "Deprecated": false
   },
   {
@@ -8938,7 +8876,7 @@
     "Ability": null,
     "Consumable": null,
     "Modifiers": [],
-    "Source": "Alivarg's Tower, Succubus Lair",
+    "Source": "The Hanging Temple, Succubus Lair",
     "Deprecated": false
   },
   {
@@ -8959,2730 +8897,6 @@
       }
     ],
     "Source": "Alivarg's Tower",
-    "Deprecated": false
-  },
-  {
-    "ID": 466,
-    "Name": "Slime",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-466.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 467,
-    "Name": "Basic Incubator",
-    "Description": "A device for incubating eggs.",
-    "Image": "item-467.png",
-    "EquipType": "Block",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 468,
-    "Name": "Easter Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-468.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Mega Easter Egg",
-    "Deprecated": false
-  },
-  {
-    "ID": 469,
-    "Name": "Slimy Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-469.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Goopy Grove",
-    "Deprecated": false
-  },
-  {
-    "ID": 470,
-    "Name": "Bunny",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-470.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 471,
-    "Name": "Brood Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-471.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Scorpion Pit",
-    "Deprecated": false
-  },
-  {
-    "ID": 472,
-    "Name": "Verdant Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-472.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Eldertree Thicket",
-    "Deprecated": false
-  },
-  {
-    "ID": 473,
-    "Name": "Stony Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-473.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Stoneheart Forest",
-    "Deprecated": false
-  },
-  {
-    "ID": 474,
-    "Name": "Gunpowder Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-474.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Pirate Cove",
-    "Deprecated": false
-  },
-  {
-    "ID": 475,
-    "Name": "Tidal Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-475.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Coolcrab Grotto",
-    "Deprecated": false
-  },
-  {
-    "ID": 476,
-    "Name": "Ancient Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-476.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Ancient Ruins, Veilkeeper's Realm",
-    "Deprecated": false
-  },
-  {
-    "ID": 477,
-    "Name": "Cube Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-477.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Alivarg's Tower",
-    "Deprecated": false
-  },
-  {
-    "ID": 478,
-    "Name": "Mummified Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-478.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Temple of Anubis",
-    "Deprecated": false
-  },
-  {
-    "ID": 479,
-    "Name": "Gilded Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-479.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Lorendel's Garden",
-    "Deprecated": false
-  },
-  {
-    "ID": 480,
-    "Name": "Orcish Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-480.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Grug Pit",
-    "Deprecated": false
-  },
-  {
-    "ID": 481,
-    "Name": "Simple Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-481.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "The Hanging Temple",
-    "Deprecated": false
-  },
-  {
-    "ID": 482,
-    "Name": "Demon Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-482.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Succubus Lair",
-    "Deprecated": false
-  },
-  {
-    "ID": 483,
-    "Name": "Bearded Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-483.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Volcanic Mines",
-    "Deprecated": false
-  },
-  {
-    "ID": 484,
-    "Name": "Molten Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-484.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Volcanic Core",
-    "Deprecated": false
-  },
-  {
-    "ID": 485,
-    "Name": "Rotted Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-485.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Necromancer's Garden",
-    "Deprecated": false
-  },
-  {
-    "ID": 486,
-    "Name": "Egg of the Loyal",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-486.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Chamber of the Awakened",
-    "Deprecated": false
-  },
-  {
-    "ID": 487,
-    "Name": "Scorpion",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-487.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 488,
-    "Name": "Ent",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-488.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 489,
-    "Name": "Golem",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-489.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 490,
-    "Name": "Pirate",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-490.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 491,
-    "Name": "Crab",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-491.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 492,
-    "Name": "Automaton",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-492.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 493,
-    "Name": "Cube",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-493.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 494,
-    "Name": "Mummy",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-494.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 495,
-    "Name": "Elf",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-495.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 496,
-    "Name": "Orc",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-496.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 497,
-    "Name": "Monk",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-497.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 498,
-    "Name": "Imp",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-498.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 499,
-    "Name": "Dwarf",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-499.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 500,
-    "Name": "Lava Golem",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-500.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 501,
-    "Name": "Ent",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-501.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 502,
-    "Name": "Acolyte",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-502.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 503,
-    "Name": "Advanced Incubator",
-    "Description": "A device for incubating eggs.",
-    "Image": "item-503.png",
-    "EquipType": "Block",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 504,
-    "Name": "Jellyhead Cap",
-    "Description": "Why would anyone put a dead jellyfish on their head?",
-    "Image": "item-504.png",
-    "EquipType": "Helmet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+15 Swim Speed",
-          "+1 Defense"
-        ]
-      }
-    ],
-    "Source": "Luminous Cavern",
-    "Deprecated": false
-  },
-  {
-    "ID": 505,
-    "Name": "White Jelly",
-    "Description": "A gelatinous blob of wobbling, white goop.",
-    "Image": "item-505.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Luminous Cavern",
-    "Deprecated": false
-  },
-  {
-    "ID": 506,
-    "Name": "Jelly Boots",
-    "Description": "Somewhat Hydrophobic",
-    "Image": "item-506.png",
-    "EquipType": "Boots",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+50 Swim Speed",
-          "+3 Speed"
-        ]
-      }
-    ],
-    "Source": "Luminous Cavern",
-    "Deprecated": false
-  },
-  {
-    "ID": 507,
-    "Name": "Jelly Bow",
-    "Description": "A sticky bow strung with jellyfish tentacles",
-    "Image": "item-507.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 2,
-      "Class": "Bow",
-      "Rate": 2.5,
-      "Projectiles": 2,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Colossal Jellyfish",
-    "Deprecated": false
-  },
-  {
-    "ID": 508,
-    "Name": "Small Restore Potion",
-    "Description": "A small vial filled with liquid",
-    "Image": "item-508.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 20,
-      "Mana": 25,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 509,
-    "Name": "Crabclaw Dagger",
-    "Description": "A sharp, small crabclaw",
-    "Image": "item-509.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 4,
-      "Class": "Dagger",
-      "Rate": 3.3333333333333335,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+5 Critical Chance"
-        ]
-      }
-    ],
-    "Source": "Ancient Sandcrab",
-    "Deprecated": false
-  },
-  {
-    "ID": 510,
-    "Name": "Bullkin Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-510.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Gorthan's Labyrinth",
-    "Deprecated": false
-  },
-  {
-    "ID": 511,
-    "Name": "Minotaur",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-511.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 512,
-    "Name": "Shackles",
-    "Description": "Old metal shackles used to keep prisoners",
-    "Image": "item-512.png",
-    "EquipType": "Boots",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+2 Defense",
-          "+2 Speed"
-        ]
-      }
-    ],
-    "Source": "Gorthan's Labyrinth",
-    "Deprecated": false
-  },
-  {
-    "ID": 513,
-    "Name": "Chipped Labrys",
-    "Description": "A large, double-sided axe",
-    "Image": "item-513.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 10,
-      "Class": "Greatsword",
-      "Rate": 1,
-      "Projectiles": 2,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "Gain: Pierce"
-        ]
-      }
-    ],
-    "Source": "Gorthan's Labyrinth",
-    "Deprecated": false
-  },
-  {
-    "ID": 514,
-    "Name": "Minotaur Horn",
-    "Description": "The horn from a minotaur",
-    "Image": "item-514.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Gorthan's Labyrinth",
-    "Deprecated": false
-  },
-  {
-    "ID": 515,
-    "Name": "Severing Tome (Pg 1)",
-    "Description": "An axe once rang through halls of stone",
-    "Image": "item-515.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 40,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 20
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Gorthan's Labyrinth",
-    "Deprecated": false
-  },
-  {
-    "ID": 516,
-    "Name": "Severing Tome (Pg 2)",
-    "Description": "Its edge the key to paths unknown",
-    "Image": "item-516.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 50,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 25
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Gorthan's Labyrinth",
-    "Deprecated": false
-  },
-  {
-    "ID": 517,
-    "Name": "Severing Tome (Pg 3)",
-    "Description": "The maze now binds, a prison sealed",
-    "Image": "item-517.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 60,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 30
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Gorthan's Labyrinth",
-    "Deprecated": false
-  },
-  {
-    "ID": 518,
-    "Name": "Luminescent Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-518.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Luminous Cavern",
-    "Deprecated": false
-  },
-  {
-    "ID": 519,
-    "Name": "Jellyfish",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-519.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 520,
-    "Name": "Luminous Tome (Pg 1)",
-    "Description": "Blub blurb blop",
-    "Image": "item-520.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 0,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 20
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Luminous Cavern",
-    "Deprecated": false
-  },
-  {
-    "ID": 521,
-    "Name": "Luminous Tome (Pg 2)",
-    "Description": "Blub fzzz blop",
-    "Image": "item-521.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 0,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 20
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Luminous Cavern",
-    "Deprecated": false
-  },
-  {
-    "ID": 522,
-    "Name": "Severing Tome",
-    "Description": "Yet with the blade, all truths revealed",
-    "Image": "item-522.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 60,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 20
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 523,
-    "Name": "Luminous Tome",
-    "Description": "Blub blob bloom!",
-    "Image": "item-523.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 0,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 20
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 524,
-    "Name": "Honeyfang Rapier",
-    "Description": "A bee stinger fashioned into a deadly sword",
-    "Image": "item-524.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 4,
-      "Class": "Sword",
-      "Rate": 2.5,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+5 Critical Chance"
-        ]
-      }
-    ],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 525,
-    "Name": "Fungal Dagger",
-    "Description": "A short, poisonous blade",
-    "Image": "item-525.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 3,
-      "Class": "Dagger",
-      "Rate": 3.3333333333333335,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 526,
-    "Name": "Elven Knife",
-    "Description": "I guess I just throw it?",
-    "Image": "item-526.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 6,
-      "Class": "Throwable",
-      "Rate": 3.3333333333333335,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "Gain: Backstab"
-        ]
-      }
-    ],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 527,
-    "Name": "Elven Wand",
-    "Description": "A short wand commonly used by Elven mages",
-    "Image": "item-527.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 0,
-      "Class": "Staff",
-      "Rate": 2.5,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 528,
-    "Name": "Large Wrench",
-    "Description": "An old wrench, no doubt used to create ancient machinery",
-    "Image": "item-528.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 10,
-      "Class": "Sword",
-      "Rate": 1,
-      "Projectiles": 2,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "Gain: Pierce"
-        ]
-      }
-    ],
-    "Source": "Automaton Guardian",
-    "Deprecated": false
-  },
-  {
-    "ID": 529,
-    "Name": "Centaur Warbow",
-    "Description": "A simple bow commonly held by centaur archers",
-    "Image": "item-529.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 4,
-      "Class": "Bow",
-      "Rate": 2.5,
-      "Projectiles": 2,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+3 Speed"
-        ]
-      }
-    ],
-    "Source": "Centaur Captain",
-    "Deprecated": false
-  },
-  {
-    "ID": 530,
-    "Name": "Centaur Longblade",
-    "Description": "A large blade forged for centaur cavalry",
-    "Image": "item-530.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 9,
-      "Class": "Sword",
-      "Rate": 1.6666666666666667,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+2 Speed"
-        ]
-      }
-    ],
-    "Source": "Centaur Captain",
-    "Deprecated": false
-  },
-  {
-    "ID": 531,
-    "Name": "Antlers",
-    "Description": "Antlers from a deer",
-    "Image": "item-531.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 532,
-    "Name": "Hornhide Plate",
-    "Description": "Armor reinforced with thick slabs of horn",
-    "Image": "item-532.png",
-    "EquipType": "Armor",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+2 Defense",
-          "+3 Strength"
-        ]
-      }
-    ],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 533,
-    "Name": "Horned Visage",
-    "Description": "A helmet fitted with a curved minotaur horn",
-    "Image": "item-533.png",
-    "EquipType": "Helmet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+2 Defense",
-          "+3 Strength"
-        ]
-      }
-    ],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 534,
-    "Name": "Staghorn Leathers",
-    "Description": "Hide reinforced with horn plating, both rugged and graceful",
-    "Image": "item-534.png",
-    "EquipType": "Armor",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+4 Defense",
-          "+4 Dexterity"
-        ]
-      }
-    ],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 535,
-    "Name": "Sylvan Crown",
-    "Description": "A circlet of entwined antlers and vines",
-    "Image": "item-535.png",
-    "EquipType": "Helmet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "With Bow:",
-        "Modifiers": [
-          "+1 Projectiles",
-          "+2 Defense"
-        ]
-      }
-    ],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 536,
-    "Name": "Iron Chest",
-    "Description": "A simple, iron storage chest",
-    "Image": "item-536.png",
-    "EquipType": "Block",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 537,
-    "Name": "Wooden Chest",
-    "Description": "A simple storage chest",
-    "Image": "item-537.png",
-    "EquipType": "Block",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 538,
-    "Name": "Small Bookshelf",
-    "Description": "A small shelf for holding books",
-    "Image": "item-538.png",
-    "EquipType": "Block",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 539,
-    "Name": "Large Chest",
-    "Description": "A large storage chest",
-    "Image": "item-539.png",
-    "EquipType": "Block",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 540,
-    "Name": "Small Pet Yard",
-    "Description": "A small yard for pets to roam",
-    "Image": "item-540.png",
-    "EquipType": "Block",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 541,
-    "Name": "Large Pet Yard",
-    "Description": "A large yard for pets to roam",
-    "Image": "item-541.png",
-    "EquipType": "Block",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 542,
-    "Name": "Pharoah's Talon",
-    "Description": "A relic dagger that strikes with the judgment of ancient kings.",
-    "Image": "item-542.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 7,
-      "Class": "Throwable",
-      "Rate": 3.3333333333333335,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+5 Critical Chance"
-        ]
-      }
-    ],
-    "Source": "Watcher of Anubis",
-    "Deprecated": false
-  },
-  {
-    "ID": 543,
-    "Name": "Solar Wand",
-    "Description": "Channels the raw fury of the desert sun into searing light.",
-    "Image": "item-543.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 0,
-      "Class": "Staff",
-      "Rate": 2.5,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Watcher of Anubis",
-    "Deprecated": false
-  },
-  {
-    "ID": 544,
-    "Name": "Seismic Hammer",
-    "Description": "The earth itself recoils with every blow.",
-    "Image": "item-544.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 10,
-      "Class": "Hammer",
-      "Rate": 2,
-      "Projectiles": 3,
-      "StrengthScaling": 1.5,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "Gain: Pierce"
-        ]
-      }
-    ],
-    "Source": "Sandmaw",
-    "Deprecated": false
-  },
-  {
-    "ID": 545,
-    "Name": "Wormhide Bow",
-    "Description": "A bow crafted from Wormhide",
-    "Image": "item-545.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 4,
-      "Class": "Bow",
-      "Rate": 2.5,
-      "Projectiles": 3,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+3 Lifesteal Chance"
-        ]
-      }
-    ],
-    "Source": "Sandmaw",
-    "Deprecated": false
-  },
-  {
-    "ID": 546,
-    "Name": "Strawhat",
-    "Description": "",
-    "Image": "item-546.png",
-    "EquipType": "Helmet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 547,
-    "Name": "Spiderling Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-547.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 548,
-    "Name": "Spiderling",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-548.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 549,
-    "Name": "Worm Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-549.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Silted Lair",
-    "Deprecated": false
-  },
-  {
-    "ID": 550,
-    "Name": "Worm",
-    "Description": "A loyal little burrower that follows tremors, not footsteps.",
-    "Image": "item-550.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 551,
-    "Name": "Sandwalker Ring",
-    "Description": "Lets its wearer tread shifting dunes as if they were stone.",
-    "Image": "item-551.png",
-    "EquipType": "Ring",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "Gain: Upon dashing, gain 1 health"
-        ]
-      }
-    ],
-    "Source": "Silted Lair",
-    "Deprecated": false
-  },
-  {
-    "ID": 552,
-    "Name": "Digestors Spine",
-    "Description": "Carved from the worm's backbone. Channels bile into burning light.",
-    "Image": "item-552.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 0,
-      "Class": "Staff",
-      "Rate": 2.5,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Silted Lair",
-    "Deprecated": false
-  },
-  {
-    "ID": 553,
-    "Name": "Antivenom Book (Pg 1)",
-    "Description": "Speaks of wind that cleanses what venom clouds the soul.",
-    "Image": "item-553.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 0,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 50
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Silted Lair",
-    "Deprecated": false
-  },
-  {
-    "ID": 554,
-    "Name": "Antivenom Book (Pg 2)",
-    "Description": "Teaches the lesson of the worm: emptiness devours poison.",
-    "Image": "item-554.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 0,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 40
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Silted Lair",
-    "Deprecated": false
-  },
-  {
-    "ID": 555,
-    "Name": "Antivenom Book (Pg 3)",
-    "Description": "In shedding the old skin, one sheds the toxin too.",
-    "Image": "item-555.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 0,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 30
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Silted Lair",
-    "Deprecated": false
-  },
-  {
-    "ID": 556,
-    "Name": "Antivenom Book",
-    "Description": "The full scripture of survival. Knowledge that swallows corruption whole.",
-    "Image": "item-556.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 0,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 20
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 557,
-    "Name": "Reindeer Antlers",
-    "Description": "Rudolph the red-nosed reindeer!",
-    "Image": "item-557.png",
-    "EquipType": "Helmet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 558,
-    "Name": "Krampus' Hat",
-    "Description": "The bloodsoaked hat of an evil gift giver",
-    "Image": "item-558.png",
-    "EquipType": "Helmet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Krampus Clause",
-    "Deprecated": false
-  },
-  {
-    "ID": 559,
-    "Name": "Santa's Knapsack",
-    "Description": "A worn red knapsack. Looks like all the gifts fell out!",
-    "Image": "item-559.png",
-    "EquipType": "Cape",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+5 Speed"
-        ]
-      }
-    ],
-    "Source": "Krampus Clause",
-    "Deprecated": false
-  },
-  {
-    "ID": 560,
-    "Name": "Santa's Cocoa",
-    "Description": "A warm cup of hot cocoa!",
-    "Image": "item-560.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 40,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Krampus Clause",
-    "Deprecated": false
-  },
-  {
-    "ID": 561,
-    "Name": "Strange Gift",
-    "Description": "I wonder what's inside?",
-    "Image": "item-561.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Krampus Clause",
-    "Deprecated": false
-  },
-  {
-    "ID": 562,
-    "Name": "Tusk Splitter",
-    "Description": "A crossbow made of orc tusks",
-    "Image": "item-562.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 11,
-      "Class": "Crossbow",
-      "Rate": 1,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "Gain: Pierce"
-        ]
-      }
-    ],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 563,
-    "Name": "Alphawolf Pelt",
-    "Description": "Armor with a thick fur pelt attached",
-    "Image": "item-563.png",
-    "EquipType": "Armor",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+5 Defense"
-        ]
-      },
-      {
-        "Filter": "With Health below 50%",
-        "Modifiers": [
-          "+8 Speed",
-          "+2 Bleed Chance"
-        ]
-      }
-    ],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 564,
-    "Name": "Shardcaster Wand",
-    "Description": "A frozen wand that surprisingly never melts",
-    "Image": "item-564.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 0,
-      "Class": "Staff",
-      "Rate": 2.5,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Ice Golem",
-    "Deprecated": false
-  },
-  {
-    "ID": 565,
-    "Name": "Permafrost Armor",
-    "Description": "Armor infused with frost essence",
-    "Image": "item-565.png",
-    "EquipType": "Armor",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "Gain: Upon taking damage, apply slow to the enemy who damaged you",
-          "+6 Defense",
-          "-3 Speed"
-        ]
-      }
-    ],
-    "Source": "Ice Golem",
-    "Deprecated": false
-  },
-  {
-    "ID": 566,
-    "Name": "Windwalker Headband",
-    "Description": "A headband with the windwalker sigil attached to the forehead",
-    "Image": "item-566.png",
-    "EquipType": "Helmet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+10 Dodge",
-          "Gain: Upon succesfully dodging, gain haste for 5 seconds"
-        ]
-      }
-    ],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 567,
-    "Name": "Frozen Rapier",
-    "Description": "A thin rapier made of ice",
-    "Image": "item-567.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 14,
-      "Class": "Sword",
-      "Rate": 2.5,
-      "Projectiles": 1,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+10 Critical Chance"
-        ]
-      }
-    ],
-    "Source": "Ice Queen's Castle",
-    "Deprecated": false
-  },
-  {
-    "ID": 568,
-    "Name": "Glass Tiara",
-    "Description": "Delicate, yet razor sharp",
-    "Image": "item-568.png",
-    "EquipType": "Helmet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "Gain: Upon dashing, gain Rapid Fire status effect for 2 seconds"
-        ]
-      }
-    ],
-    "Source": "Ice Queen's Castle",
-    "Deprecated": false
-  },
-  {
-    "ID": 569,
-    "Name": "Frostweave Tailcoat",
-    "Description": "Armor infused with frost essence",
-    "Image": "item-569.png",
-    "EquipType": "Armor",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+4 Defense",
-          "+8 Speed"
-        ]
-      },
-      {
-        "Filter": "With Health below 50%",
-        "Modifiers": [
-          "Gain: Upon taking damage, cause an explosion that clears nearby bullets slows monsters"
-        ]
-      }
-    ],
-    "Source": "Ice Queen's Castle",
-    "Deprecated": false
-  },
-  {
-    "ID": 570,
-    "Name": "Coutier Signet",
-    "Description": "A gold ring with a royal blue wax seal",
-    "Image": "item-570.png",
-    "EquipType": "Ring",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+4 Vitality",
-          "+3 Strength",
-          "+2 Defense"
-        ]
-      }
-    ],
-    "Source": "Ice Queen's Castle",
-    "Deprecated": false
-  },
-  {
-    "ID": 571,
-    "Name": "Fencing Slippers",
-    "Description": "Lightweight shoes built for the perfect lunge",
-    "Image": "item-571.png",
-    "EquipType": "Boots",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+7 Speed",
-          "+1 Dashes"
-        ]
-      }
-    ],
-    "Source": "Ice Queen's Castle",
-    "Deprecated": false
-  },
-  {
-    "ID": 572,
-    "Name": "Frostling",
-    "Description": "A curious little creature that seems to just follow you around",
-    "Image": "item-572.png",
-    "EquipType": "Pet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 573,
-    "Name": "Frosted Egg",
-    "Description": "Try placing this in an egg incubator",
-    "Image": "item-573.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Ice Queen's Castle",
-    "Deprecated": false
-  },
-  {
-    "ID": 574,
-    "Name": "Tome of Frost (Pg 1)",
-    "Description": "Call forth the biting wind",
-    "Image": "item-574.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 20,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 2,
-      "StrengthScaling": 0,
-      "ManaCost": 35
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Ice Queen's Castle",
-    "Deprecated": false
-  },
-  {
-    "ID": 575,
-    "Name": "Tome of Frost (Pg 2)",
-    "Description": "Condense the chill into a single point",
-    "Image": "item-575.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 30,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 2,
-      "StrengthScaling": 0,
-      "ManaCost": 35
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Ice Queen's Castle",
-    "Deprecated": false
-  },
-  {
-    "ID": 576,
-    "Name": "Tome of Frost (Pg 3)",
-    "Description": "And let the world shatter",
-    "Image": "item-576.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 40,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 2,
-      "StrengthScaling": 0,
-      "ManaCost": 35
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Ice Queen's Castle",
-    "Deprecated": false
-  },
-  {
-    "ID": 577,
-    "Name": "Tome of Frost",
-    "Description": "Unleashes a devestating ring of ice",
-    "Image": "item-577.png",
-    "EquipType": "Ability",
-    "Weapon": {
-      "Damage": 50,
-      "Class": "",
-      "Rate": -1,
-      "Projectiles": 2,
-      "StrengthScaling": 0,
-      "ManaCost": 35
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 578,
-    "Name": "Koa's First Sword",
-    "Description": "A masterfully crafted sword... Just a little warped",
-    "Image": "item-578.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 3,
-      "Class": "Sword",
-      "Rate": 2,
-      "Projectiles": 2,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+4 Defense"
-        ]
-      }
-    ],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 579,
-    "Name": "Demonhide Armor",
-    "Description": "Smells like sulfur and old blood",
-    "Image": "item-579.png",
-    "EquipType": "Armor",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+7 Thorns",
-          "+5 Defense"
-        ]
-      }
-    ],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 580,
-    "Name": "Demon Mask",
-    "Description": "You can hear the mask calling to you in your head, but it's just a whisper.",
-    "Image": "item-580.png",
-    "EquipType": "Helmet",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+3 Vitality",
-          "+3 Defense",
-          "Gain: Upon dashing, gain Vicious status effect for 2 seconds"
-        ]
-      }
-    ],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 581,
-    "Name": "Cape of Embers",
-    "Description": "A heavy mantle of charred fabric that constantly sheds a trail of glowing sparks and smoldering ash.",
-    "Image": "item-581.png",
-    "EquipType": "Cape",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+2 Burn Reduction"
-        ]
-      }
-    ],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 582,
-    "Name": "Burier's Shovel",
-    "Description": "An old shovel, once used to dig graves",
-    "Image": "item-582.png",
-    "EquipType": "Weapon",
-    "Weapon": {
-      "Damage": 9,
-      "Class": "Sword",
-      "Rate": 1,
-      "Projectiles": 3,
-      "StrengthScaling": 0,
-      "ManaCost": 0
-    },
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "Gain: Pierce"
-        ]
-      }
-    ],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 583,
-    "Name": "Grave Digger's Cloak",
-    "Description": "A ragged patchwork of leather, crudely sown together and crusted with dirt",
-    "Image": "item-583.png",
-    "EquipType": "Cape",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [
-      {
-        "Filter": "",
-        "Modifiers": [
-          "+2 Poison Reduction"
-        ]
-      }
-    ],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 584,
-    "Name": "Fibrous Meat",
-    "Description": "A tough, pale muscle. I can't tell which creature this is from, and perhaps it's better not to ask.",
-    "Image": "item-584.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 10,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 585,
-    "Name": "Spiced Rum",
-    "Description": "A potent, aromatic spirit. Burns a bit on the way down.",
-    "Image": "item-585.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 5,
-      "Mana": 10,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Pirate Cove",
-    "Deprecated": false
-  },
-  {
-    "ID": 586,
-    "Name": "Rockberry",
-    "Description": "Looks like a stone, feels like a stone. I'm not sure you want to eat that",
-    "Image": "item-586.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Stonewake Forest",
-    "Deprecated": false
-  },
-  {
-    "ID": 587,
-    "Name": "Honey",
-    "Description": "A thick golden liquid that sticks to everything it touches",
-    "Image": "item-587.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Gumbo Forest",
-    "Deprecated": false
-  },
-  {
-    "ID": 588,
-    "Name": "Apple",
-    "Description": "An apple a day!",
-    "Image": "item-588.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 10,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 589,
-    "Name": "Manaberry",
-    "Description": "A glowing fruit with magical energy",
-    "Image": "item-589.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 15,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "",
-    "Deprecated": false
-  },
-  {
-    "ID": 590,
-    "Name": "Red Meat",
-    "Description": "A rich, marbled muscle. Hearty enough for a meal.",
-    "Image": "item-590.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 15,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Grug Pit, Gorthan's Labyrinth",
-    "Deprecated": false
-  },
-  {
-    "ID": 591,
-    "Name": "Waybread",
-    "Description": "One small bite is enough to fill the stomach of a grown man!",
-    "Image": "item-591.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 15,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Lorendel's Garden",
-    "Deprecated": false
-  },
-  {
-    "ID": 592,
-    "Name": "Lotus Flower",
-    "Description": "A shimmering petal that smells of calm water and forgotten dreams.",
-    "Image": "item-592.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Alivarg's Tower, Ancient Ruins",
-    "Deprecated": false
-  },
-  {
-    "ID": 593,
-    "Name": "Red Cap",
-    "Description": "A mushroom with a red cap, what'd you expect?",
-    "Image": "item-593.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Fungal Grove",
-    "Deprecated": false
-  },
-  {
-    "ID": 594,
-    "Name": "Juicy Grub",
-    "Description": "Hakuna Matata I guess...",
-    "Image": "item-594.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 15,
-      "Mana": 20,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Silted Lair",
-    "Deprecated": false
-  },
-  {
-    "ID": 595,
-    "Name": "Ancient Salt",
-    "Description": "Crystalized salt that refuses to dissolve.",
-    "Image": "item-595.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Temple of Anubis, Ancient Ruins",
-    "Deprecated": false
-  },
-  {
-    "ID": 596,
-    "Name": "Zen Tea Leaves",
-    "Description": "Slender leaves that seem to align themselves towards the sun.",
-    "Image": "item-596.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Alivarg's Tower, The Hanging Temple",
-    "Deprecated": false
-  },
-  {
-    "ID": 597,
-    "Name": "Frostberry",
-    "Description": "A small berry coated in a permanent layer of rime.",
-    "Image": "item-597.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Ice Queen's Castle",
-    "Deprecated": false
-  },
-  {
-    "ID": 598,
-    "Name": "Hellfire Chili",
-    "Description": "A gnarled pepper that feals hot, even in your hand.",
-    "Image": "item-598.png",
-    "EquipType": "Resource",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Volcanic Mines",
-    "Deprecated": false
-  },
-  {
-    "ID": 599,
-    "Name": "Cooking Pot I",
-    "Description": "A pot for cooking meals",
-    "Image": "item-599.png",
-    "EquipType": "Block",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 600,
-    "Name": "Apple Jam",
-    "Description": "A jar of muddled apples. Great on toast!",
-    "Image": "item-600.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 17,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 601,
-    "Name": "Jelly Skewer",
-    "Description": "A meat skewer covered in jelly",
-    "Image": "item-601.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 20,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 602,
-    "Name": "Drunken Chicken",
-    "Description": "I'm not really sure that's chicken in there...",
-    "Image": "item-602.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 10,
-      "Mana": 20,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 603,
-    "Name": "Honey Apple",
-    "Description": "Just an apple smothered in honey",
-    "Image": "item-603.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 25,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 604,
-    "Name": "Granite Berry",
-    "Description": "Heavy as a lead weight and twice as hard. Feels more like eating a rock",
-    "Image": "item-604.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 20,
-      "Mana": 30,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 605,
-    "Name": "Slime Skewer",
-    "Description": "A meat skewer covered in... Slime?",
-    "Image": "item-605.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 25,
-      "Mana": 15,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 606,
-    "Name": "Pirate's Poison",
-    "Description": "A reckless blend of fermented rum and toxic spores",
-    "Image": "item-606.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 20,
-      "Mana": 50,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 607,
-    "Name": "Sylvan Steak",
-    "Description": "An Elven Delicacy",
-    "Image": "item-607.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 30,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 608,
-    "Name": "Glow Bread",
-    "Description": "",
-    "Image": "item-608.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 45,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 609,
-    "Name": "Meat Pie",
-    "Description": "A pie filled with meat",
-    "Image": "item-609.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 45,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 610,
-    "Name": "Apple Pie",
-    "Description": "A pie filled with apples",
-    "Image": "item-610.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 40,
-      "Mana": 40,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 611,
-    "Name": "Manaberry Pie",
-    "Description": "A pie filled with manaberries",
-    "Image": "item-611.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 60,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 612,
-    "Name": "Summer Stew",
-    "Description": "A nice hearty herbal stew.",
-    "Image": "item-612.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 20,
-      "Mana": 20,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 613,
-    "Name": "Cooking Pot II",
-    "Description": "A pot for cooking meals",
-    "Image": "item-613.png",
-    "EquipType": "Block",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 614,
-    "Name": "Meat Skewer",
-    "Description": "A strip of meat wrinkled onto a stick",
-    "Image": "item-614.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 15,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 615,
-    "Name": "Steak",
-    "Description": "Just a regular cooked steak",
-    "Image": "item-615.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 25,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 616,
-    "Name": "Unbinding Potion",
-    "Description": "The bubbles in the potion constantly split and reform.",
-    "Image": "item-616.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 617,
-    "Name": "Critical Potion",
-    "Description": "A tangy and salty potion",
-    "Image": "item-617.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": []
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 618,
-    "Name": "Stone Anvil",
-    "Description": "An anvil for blacksmithing, made entirely of stone.",
-    "Image": "item-618.png",
-    "EquipType": "Block",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": null,
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 619,
-    "Name": "Vitality Solvent",
-    "Description": "A vial of thick goop that makes you a bit less healthy",
-    "Image": "item-619.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Decrease character Vitality by 1"
-      ]
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 620,
-    "Name": "Willpower Solvent",
-    "Description": "A vial of thick goop that makes you a bit less focused",
-    "Image": "item-620.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Decrease character Willpower by 1"
-      ]
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 621,
-    "Name": "Strength Solvent",
-    "Description": "A vial of thick goop that makes you a bit weaker",
-    "Image": "item-621.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Decrease character Strength by 1"
-      ]
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 622,
-    "Name": "Dexterity Solvent",
-    "Description": "A vial of thick goop that makes you a bit less nimble",
-    "Image": "item-622.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Decrease character Dexterity by 1"
-      ]
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 623,
-    "Name": "Speed Solvent",
-    "Description": "A vial of thick goop that makes you a bit slower",
-    "Image": "item-623.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Decrease character Speed by 1"
-      ]
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
-    "Deprecated": false
-  },
-  {
-    "ID": 624,
-    "Name": "Defense Solvent",
-    "Description": "A vial of thick goop that makes you a bit less tough",
-    "Image": "item-624.png",
-    "EquipType": "Consumable",
-    "Weapon": null,
-    "Ability": null,
-    "Consumable": {
-      "Heal": 0,
-      "Mana": 0,
-      "Extras": [
-        "Decrease character Defense by 1"
-      ]
-    },
-    "Modifiers": [],
-    "Source": "Craftable",
     "Deprecated": false
   }
 ]

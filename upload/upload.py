@@ -23,6 +23,8 @@ doItemCategories = False
 # Set true to do a testing printout
 doTestingPrint = False
 
+# the amount of seconds to sleep in between API calls
+sleepAmount = 3
 ################################################################################
 ################################################################################
 
@@ -85,12 +87,13 @@ class Creator:
             "Resource": Template_AllItems,
             "Weapon": Template_AllItems,
             "Ability": Template_AllItems,
-            "Hat": Template_AllItems,
+            "Helmet": Template_AllItems,
             "Armor": Template_AllItems,
             "Ring": Template_AllItems,
             "Consumable": Template_AllItems,
             "Boots": Template_AllItems,
             "Cape": Template_AllItems,
+            "Pet": Template_AllItems,
             "Block": Template_AllItems
         }
         weaponTypePageString = {
@@ -148,7 +151,8 @@ class Creator:
                 con = {
                     "Heal": v['Consumable']['Heal'],
                     "Mana": v['Consumable']['Mana'],
-                    "Effect": self.build_modstring(v['Consumable']['Modifiers']),
+                    "Effect": "\n".join(v['Consumable']["Extras"]),
+#                    "Effect": self.build_modstring(v['Consumable']['Modifiers']),
                 }
 
             mods = self.build_modstring(v['Modifiers'])
@@ -202,13 +206,13 @@ class Creator:
                 print("Updating " + page_name)
                 page = self.site.client.pages[page_name]
                 page.save(page_text, summary=self.summary)
-                time.sleep(1) # To prevent rate limits
+                time.sleep(sleepAmount) # To prevent rate limits
 
             # Upload Image file
             if doItemImages:
                 print("Updating Image " + v['Image'])
                 self.upload_img(v['Image'])
-                time.sleep(1) # To prevent rate limits
+                time.sleep(sleepAmount) # To prevent rate limits
 
 
         if doItemCategories:
@@ -216,21 +220,21 @@ class Creator:
             itemPageString += "|}"
             itemPage = self.site.client.pages["All Items"]
             itemPage.save(itemPageString, summary="List of all items")
-            time.sleep(1) # To prevent rate limits
+            time.sleep(sleepAmount) # To prevent rate limits
 
             for k, v in equipTypePageString.items():
                 print("Updating " + k)
                 v += "|}"
                 itemPage = self.site.client.pages[k]
                 itemPage.save(v, summary="List of all category items")
-                time.sleep(1) # To prevent rate limits
+                time.sleep(sleepAmount) # To prevent rate limits
 
             for k, v in weaponTypePageString.items():
                 print("Updating " + k)
                 v += "|}"
                 itemPage = self.site.client.pages[k]
                 itemPage.save(v, summary="List of all category items")
-                time.sleep(1) # To prevent rate limits
+                time.sleep(sleepAmount) # To prevent rate limits
 
 
     def addItem(self, pageString, idString, imgString, nameLinkString, descString):

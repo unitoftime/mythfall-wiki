@@ -1,0 +1,217 @@
+[
+  {
+    "Name": "",
+    "Icon": "dungeon-1.png",
+    "Difficulty": 0,
+    "Music": [
+      "client-remote:/audio/music/poppy-field.ogg",
+      "client-remote:/audio/music/welcome-to-the-boars-inn.ogg"
+    ]
+  },
+  {
+    "Name": "Eldertree Thicket",
+    "Icon": "dungeon-2.png",
+    "Difficulty": 1,
+    "Music": [
+      "client-remote:/audio/music/dungeon/eldertree/butterfly-hunt.ogg"
+    ]
+  },
+  {
+    "Name": "Stoneheart Forest",
+    "Icon": "dungeon-3.png",
+    "Difficulty": 1,
+    "Music": [
+      "client-remote:/audio/music/dungeon/stoneheart/jazzberry-jam.ogg"
+    ]
+  },
+  {
+    "Name": "Lorendel's Garden",
+    "Icon": "dungeon-4.png",
+    "Difficulty": 2,
+    "Music": [
+      "client-remote:/audio/music/dungeon/elvewood/crystal-cave.ogg"
+    ]
+  },
+  {
+    "Name": "Grug Pit",
+    "Icon": "dungeon-5.png",
+    "Difficulty": 4,
+    "Music": [
+      "client-remote:/audio/music/dungeon/grug/training-grounds.ogg"
+    ]
+  },
+  {
+    "Name": "Goopy Grove",
+    "Icon": "dungeon-6.png",
+    "Difficulty": 1,
+    "Music": [
+      "client-remote:/audio/music/dungeon/eldertree/butterfly-hunt.ogg"
+    ]
+  },
+  {
+    "Name": "Volcanic Mines",
+    "Icon": "dungeon-7.png",
+    "Difficulty": 5,
+    "Music": [
+      "client-remote:/audio/music/dungeon/dwarf/sewage.ogg"
+    ]
+  },
+  {
+    "Name": "Pirate Cove",
+    "Icon": "dungeon-8.png",
+    "Difficulty": 0,
+    "Music": [
+      "client-remote:/audio/music/dungeon/pirate/the-drunken-sailor.ogg"
+    ]
+  },
+  {
+    "Name": "Alivarg's Sphere",
+    "Icon": "dungeon-9.png",
+    "Difficulty": 0,
+    "Music": null
+  },
+  {
+    "Name": "Alivarg's Tower",
+    "Icon": "dungeon-10.png",
+    "Difficulty": 3,
+    "Music": [
+      "client-remote:/audio/music/dungeon/alivarg/onwards-to-victory.ogg"
+    ]
+  },
+  {
+    "Name": "Temple of Anubis",
+    "Icon": "dungeon-11.png",
+    "Difficulty": 3,
+    "Music": [
+      "client-remote:/audio/music/dungeon/anubis/give-it-your-all.ogg"
+    ]
+  },
+  {
+    "Name": "The Hanging Temple",
+    "Icon": "dungeon-12.png",
+    "Difficulty": 4,
+    "Music": [
+      "client-remote:/audio/music/dungeon/monk/fight-for-whats-right.ogg"
+    ]
+  },
+  {
+    "Name": "Succubus Lair",
+    "Icon": "dungeon-13.png",
+    "Difficulty": 5,
+    "Music": [
+      "client-remote:/audio/music/dungeon/succubus/goblin-waltz.ogg"
+    ]
+  },
+  {
+    "Name": "Coolcrab Grotto",
+    "Icon": "dungeon-14.png",
+    "Difficulty": 0,
+    "Music": [
+      "client-remote:/audio/music/dungeon/coolcrab/return-of-the-hackers.ogg"
+    ]
+  },
+  {
+    "Name": "Ancient Ruins",
+    "Icon": "dungeon-15.png",
+    "Difficulty": 2,
+    "Music": [
+      "client-remote:/audio/music/dungeon/ancient/awakening.ogg"
+    ]
+  },
+  {
+    "Name": "Chamber of the Awakened",
+    "Icon": "dungeon-16.png",
+    "Difficulty": 5,
+    "Music": [
+      "client-remote:/audio/music/dungeon/haunted/cursed-echoes.ogg"
+    ]
+  },
+  {
+    "Name": "Scorpion Pit",
+    "Icon": "dungeon-17.png",
+    "Difficulty": 3,
+    "Music": [
+      "client-remote:/audio/music/dungeon/scorpion/good-morning.ogg"
+    ]
+  },
+  {
+    "Name": "Volcanic Core",
+    "Icon": "dungeon-18.png",
+    "Difficulty": 5,
+    "Music": [
+      "client-remote:/audio/music/dungeon/lavaforge/march-of-the-hordes.ogg"
+    ]
+  },
+  {
+    "Name": "Lavaforge",
+    "Icon": "dungeon-19.png",
+    "Difficulty": 0,
+    "Music": [
+      "client-remote:/audio/music/dungeon/lavaforge/march-of-the-hordes.ogg"
+    ]
+  },
+  {
+    "Name": "Veilkeeper's Realm",
+    "Icon": "dungeon-20.png",
+    "Difficulty": 0,
+    "Music": [
+      "client-remote:/audio/music/biome/haunted/eternal-night.ogg"
+    ]
+  },
+  {
+    "Name": "Necromancer's Garden",
+    "Icon": "dungeon-21.png",
+    "Difficulty": 5,
+    "Music": [
+      "client-remote:/audio/music/dungeon/necromancer/xul-tharums-enigma.ogg"
+    ]
+  },
+  {
+    "Name": "Vesper's Carnival",
+    "Icon": "dungeon-22.png",
+    "Difficulty": 3,
+    "Music": [
+      "client-remote:/audio/music/dungeon/lavaforge/march-of-the-hordes.ogg"
+    ]
+  },
+  {
+    "Name": "Prestige Character",
+    "Icon": "dungeon-23.png",
+    "Difficulty": 6,
+    "Music": [
+      "client-remote:/audio/music/dungeon/alivarg/onwards-to-victory.ogg"
+    ]
+  },
+  {
+    "Name": "Luminous Cavern",
+    "Icon": "dungeon-24.png",
+    "Difficulty": 0,
+    "Music": [
+      "client-remote:/audio/music/dungeon/luminous-cavern/notchris-canopy.ogg"
+    ]
+  },
+  {
+    "Name": "Gorthan's Labyrinth",
+    "Icon": "dungeon-25.png",
+    "Difficulty": 2,
+    "Music": [
+      "client-remote:/audio/music/dungeon/hornedlabyrinth/notchris-rnd-source.ogg"
+    ]
+  },
+  {
+    "Name": "Silted Lair",
+    "Icon": "dungeon-26.png",
+    "Difficulty": 3,
+    "Music": [
+      "client-remote:/audio/music/notchris/sunblocker.ogg"
+    ]
+  },
+  {
+    "Name": "Ice Queen's Castle",
+    "Icon": "dungeon-27.png",
+    "Difficulty": 4,
+    "Music": [
+      "client-remote:/audio/music/notchris/coldsnap.ogg"
+    ]
+  }
+]

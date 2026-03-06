@@ -1,0 +1,128 @@
+[
+  {
+    "Name": "Sandy Shores",
+    "Difficulty": 0,
+    "Music": [
+      "client-remote:/audio/music/biome/beach/seaside-lunch.ogg"
+    ]
+  },
+  {
+    "Name": "Scurvy Strand",
+    "Difficulty": 0,
+    "Music": [
+      "client-remote:/audio/music/biome/beach/seaside-lunch.ogg"
+    ]
+  },
+  {
+    "Name": "Moonlit Shoals",
+    "Difficulty": 0,
+    "Music": [
+      "client-remote:/audio/music/biome/beach/seaside-lunch.ogg"
+    ]
+  },
+  {
+    "Name": "Gumbo Forest",
+    "Difficulty": 1,
+    "Music": [
+      "client-remote:/audio/music/biome/forest/tranquil-waters.ogg"
+    ]
+  },
+  {
+    "Name": "Fungal Grove",
+    "Difficulty": 1,
+    "Music": [
+      "client-remote:/audio/music/biome/forest/tranquil-waters.ogg"
+    ]
+  },
+  {
+    "Name": "Stonewake Forest",
+    "Difficulty": 1,
+    "Music": [
+      "client-remote:/audio/music/biome/forest/tranquil-waters.ogg"
+    ]
+  },
+  {
+    "Name": "Briarhoof Forest",
+    "Difficulty": 2,
+    "Music": [
+      "client-remote:/audio/music/biome/darkforest/heart-of-adventure.ogg"
+    ]
+  },
+  {
+    "Name": "Elvewood Forest",
+    "Difficulty": 2,
+    "Music": [
+      "client-remote:/audio/music/biome/darkforest/heart-of-adventure.ogg"
+    ]
+  },
+  {
+    "Name": "Forgotten Vale",
+    "Difficulty": 2,
+    "Music": [
+      "client-remote:/audio/music/biome/darkforest/heart-of-adventure.ogg"
+    ]
+  },
+  {
+    "Name": "Scorven Wastes",
+    "Difficulty": 3,
+    "Music": [
+      "client-remote:/audio/music/biome/desert/endless-peace.ogg"
+    ]
+  },
+  {
+    "Name": "Sunscrypt Sands",
+    "Difficulty": 3,
+    "Music": [
+      "client-remote:/audio/music/biome/desert/endless-peace.ogg"
+    ]
+  },
+  {
+    "Name": "Dustburrow Dunes",
+    "Difficulty": 3,
+    "Music": [
+      "client-remote:/audio/music/biome/desert/endless-peace.ogg"
+    ]
+  },
+  {
+    "Name": "Whispering Cliffs",
+    "Difficulty": 4,
+    "Music": [
+      "client-remote:/audio/music/biome/mountain/endless-mountains.ogg"
+    ]
+  },
+  {
+    "Name": "Brimfang Wilds",
+    "Difficulty": 4,
+    "Music": [
+      "client-remote:/audio/music/biome/mountain/endless-mountains.ogg"
+    ]
+  },
+  {
+    "Name": "Frostvale Crest",
+    "Difficulty": 4,
+    "Music": [
+      "client-remote:/audio/music/biome/mountain/endless-mountains.ogg"
+    ]
+  },
+  {
+    "Name": "Scorched Summit",
+    "Difficulty": 5,
+    "Music": [
+      "client-remote:/audio/music/biome/volcano/war.ogg"
+    ]
+  },
+  {
+    "Name": "Twilight Forest",
+    "Difficulty": 5,
+    "Music": [
+      "client-remote:/audio/music/biome/haunted/poison-ivy-manor.ogg"
+    ]
+  },
+  {
+    "Name": "Sanguine Scars",
+    "Difficulty": 5,
+    "Music": [
+      "client-remote:/audio/music/biome/volcano/war.ogg"
+    ]
+  }
+]
